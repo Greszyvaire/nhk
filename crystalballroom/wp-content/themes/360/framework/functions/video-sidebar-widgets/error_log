@@ -1,0 +1,1 @@
+[02-May-2014 02:34:59 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/newhongk/public_html/crystalballroom/wp-content/themes/360/framework/functions/video-sidebar-widgets/video-sidebar-widgets.php on line 8

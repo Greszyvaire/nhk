@@ -1,0 +1,182 @@
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+
+*Slightly Modified by Justin Young for Siiimple themes.
+*/
+
+/*==================================================
+ 
+2
+
+================================================== */
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+.container {
+	width: 768px;
+}
+
+.container .col {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.container .grid1.col,
+.container .grid1.col {
+	width: 28px;
+}
+
+.container .grid2.col {
+	width: 76px;
+}
+
+.container .grid3.col {
+	width: 124px;
+}
+
+.container .grid4.col {
+	width: 172px;
+}
+
+.container .grid5.col {
+	width: 220px;
+}
+
+.container .grid6.col {
+	width: 268px;
+}
+
+.container .grid7.col {
+	width: 316px;
+}
+
+.container .grid8.col {
+	width: 364px;
+}
+
+.container .grid9.col {
+	width: 412px;
+}
+
+.container .grid10.col {
+	width: 460px;
+}
+
+.container .grid11.col {
+	width: 508px;
+}
+
+.container .grid12.col {
+	width: 556px;
+}
+
+.container .grid13.col {
+	width: 604px;
+}
+
+.container .grid14.col {
+	width: 652px;
+}
+
+.container .grid15.col {
+	width: 700px;
+}
+
+.container .grid16.col {
+	width: 748px;
+}
+
+.container .one-third.col {
+	width: 236px;
+}
+
+.container .two-thirds.col {
+	width: 492px;
+}
+
+/*END*/
+}
+
+/*==================================================
+ 
+3
+
+================================================== */
+
+@media only screen and (max-width: 767px) {
+
+.container {
+	width: 300px;
+}
+
+.container .col {
+	margin: 0;
+}
+
+.container .grid1.col,
+.container .grid1.col,
+.container .grid2.col,
+.container .grid3.col,
+.container .grid4.col,
+.container .grid5.col,
+.container .grid6.col,
+.container .grid7.col,
+.container .grid8.col,
+.container .grid9.col,
+.container .grid10.col,
+.container .grid11.col,
+.container .grid12.col,
+.container .grid13.col,
+.container .grid14.col,
+.container .grid15.col,
+.container .grid16.col{
+width: 300px;
+}
+
+/*END*/
+}
+
+/*==================================================
+ 
+4
+
+================================================== */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+.container {
+	width: 420px;
+}
+
+.container .col {
+	margin: 0;
+}
+
+.container .grid1.col,
+.container .grid1.col,
+.container .grid2.col,
+.container .grid3.col,
+.container .grid4.col,
+.container .grid5.col,
+.container .grid6.col,
+.container .grid7.col,
+.container .grid8.col,
+.container .grid9.col,
+.container .grid10.col,
+.container .grid11.col,
+.container .grid12.col,
+.container .grid13.col,
+.container .grid14.col,
+.container .grid15.col,
+.container .grid16.col{
+width: 420px;
+}
+
+/*END*/
+}
+

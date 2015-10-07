@@ -95,10 +95,10 @@
             ?>
             <div class="column one-half">
                 <div class="box-content">
-                    <a href="redirect.php?id=102" title=""> <img src="<?=$vaBlog['primary_image']?>" alt="" title="" class="alignleft" /> </a>
+                    <a href="berita/<?=$vaBlog['id']?>-<?=$vaBlog['alias']?>.html"> <img src="<?=$vaBlog['primary_image']?>" alt="" title="" class="alignleft" /> </a>
                     <h2> <?=$vaBlog['title']?> </h2>
                     <p>  <?=$vaBlog['content']?><p>
-                    <a href="redirect.php?id=102" title="Read More" class="tooltip-top readmore"> </a> 
+                    <a href="berita/<?=$vaBlog['id']?>-<?=$vaBlog['alias']?>.html" title="Read More" class="tooltip-top readmore"> </a> 
                 </div>
             </div>
             <?php } ?>
@@ -109,10 +109,10 @@
             ?>
             <div class="column one-half last">
                 <div class="box-content">
-                    <a href="redirect.php?id=101" title=""> <img src="<?=$vaBlog['primary_image']?>" alt="" title="" class="alignleft" /> </a>
+                    <a href="berita/<?=$vaBlog['id']?>-<?=$vaBlog['alias']?>.html"> <img src="<?=$vaBlog['primary_image']?>" alt="" title="" class="alignleft" /> </a>
                     <h2> <?=$vaBlog['title']?> </h2>
                     <p>  <?=$vaBlog['content']?></p>
-                    <a href="redirect.php?id=101" title="Read More" class="tooltip-top readmore"> </a> 
+                    <a href="berita/<?=$vaBlog['id']?>-<?=$vaBlog['alias']?>.html" class="tooltip-top readmore"> </a> 
                 </div>
             </div>
             <?php } ?>

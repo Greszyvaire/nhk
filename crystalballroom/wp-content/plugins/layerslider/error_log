@@ -1,0 +1,16 @@
+[05-May-2014 20:26:26 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/newhongk/public_html/crystalballroom/wp-content/plugins/layerslider/add.php on line 5
+[05-May-2014 20:35:56 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/newhongk/public_html/crystalballroom/wp-content/plugins/layerslider/edit.php on line 10
+[05-May-2014 20:55:40 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/newhongk/public_html/crystalballroom/wp-content/plugins/layerslider/init.php on line 7
+[05-May-2014 21:00:55 UTC] PHP Fatal error:  Call to undefined function lsSliders() in /home/newhongk/public_html/crystalballroom/wp-content/plugins/layerslider/list.php on line 10
+[05-May-2014 21:10:47 UTC] PHP Fatal error:  Call to undefined function _e() in /home/newhongk/public_html/crystalballroom/wp-content/plugins/layerslider/editor.php on line 31
+[05-May-2014 21:25:34 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/newhongk/public_html/crystalballroom/wp-content/plugins/layerslider/builder.php on line 4
+[05-May-2014 21:29:52 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/newhongk/public_html/crystalballroom/wp-content/plugins/layerslider/layerslider.php on line 18
+[05-May-2014 22:00:36 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/newhongk/public_html/crystalballroom/wp-content/plugins/layerslider/style_editor.php on line 4
+[24-Jul-2014 05:00:52 UTC] PHP Fatal error:  Call to undefined function lsSliders() in /home/newhongk/public_html/crystalballroom/wp-content/plugins/layerslider/list.php on line 10
+[24-Jul-2014 05:00:59 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/newhongk/public_html/crystalballroom/wp-content/plugins/layerslider/builder.php on line 4
+[24-Jul-2014 05:01:03 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/newhongk/public_html/crystalballroom/wp-content/plugins/layerslider/layerslider.php on line 18
+[24-Jul-2014 05:01:09 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/newhongk/public_html/crystalballroom/wp-content/plugins/layerslider/init.php on line 7
+[24-Jul-2014 05:01:15 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/newhongk/public_html/crystalballroom/wp-content/plugins/layerslider/add.php on line 5
+[24-Jul-2014 05:01:18 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/newhongk/public_html/crystalballroom/wp-content/plugins/layerslider/edit.php on line 10
+[24-Jul-2014 05:01:25 UTC] PHP Fatal error:  Call to undefined function _e() in /home/newhongk/public_html/crystalballroom/wp-content/plugins/layerslider/editor.php on line 31
+[24-Jul-2014 05:01:57 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/newhongk/public_html/crystalballroom/wp-content/plugins/layerslider/style_editor.php on line 4

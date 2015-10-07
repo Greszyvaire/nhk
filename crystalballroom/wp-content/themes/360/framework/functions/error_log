@@ -1,0 +1,4 @@
+[01-May-2014 12:40:51 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/newhongk/public_html/crystalballroom/wp-content/themes/360/framework/functions/shortcodes.php on line 3
+[01-May-2014 14:05:25 UTC] PHP Fatal error:  Call to undefined function __() in /home/newhongk/public_html/crystalballroom/wp-content/themes/360/framework/functions/meta.php on line 37
+[01-May-2014 14:10:58 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/newhongk/public_html/crystalballroom/wp-content/themes/360/framework/functions/twitter-widget.php on line 6
+[01-May-2014 16:25:09 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/newhongk/public_html/crystalballroom/wp-content/themes/360/framework/functions/portfolio-post-type.php on line 25
