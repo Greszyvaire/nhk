@@ -1,0 +1,186 @@
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/demo/include/koneksi.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/demo/include/koneksi.php on line 5
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/newhongk/public_html/demo/include/koneksi.php on line 5
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/demo/container/menu.php on line 5
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/demo/container/menu.php on line 5
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/demo/container/menu.php on line 5
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/demo/container/menu.php on line 5
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/demo/container/menu.php on line 5
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/demo/container/menu.php on line 5
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/demo/container/menu.php on line 5
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/demo/container/menu.php on line 5
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/demo/container/menu.php on line 5
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/demo/container/menu.php on line 5
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/demo/container/menu.php on line 4
+[13-Sep-2015 10:23:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/demo/container/menu.php on line 5
+[18-Sep-2015 01:23:26 UTC] PHP Notice:  Undefined index: url in /home/newhongk/public_html/new/blog.php on line 64
+[18-Sep-2015 01:26:09 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/new/content.php on line 60
+[18-Sep-2015 01:26:09 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/new/content.php on line 60
+[18-Sep-2015 01:26:09 UTC] PHP Warning:  include(): Failed opening 'page/.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/new/content.php on line 60
+[18-Sep-2015 01:56:45 UTC] PHP Notice:  Undefined index: url in /home/newhongk/public_html/new/blog.php on line 64
+[20-Sep-2015 17:35:59 UTC] PHP Notice:  Undefined index: url in /home/newhongk/public_html/new/blog.php on line 64
+[01-Oct-2015 13:29:09 UTC] PHP Notice:  Undefined index: url in /home/newhongk/public_html/blog.php on line 64
+[01-Oct-2015 17:06:23 UTC] PHP Notice:  Undefined index: url in /home/newhongk/public_html/blog.php on line 64
+[02-Oct-2015 01:55:13 UTC] PHP Fatal error:  Call to undefined function vaBlog() in /home/newhongk/public_html/index.php on line 102
+[02-Oct-2015 01:55:53 UTC] PHP Fatal error:  Call to undefined function vaBlog() in /home/newhongk/public_html/index.php on line 116
+[02-Oct-2015 01:56:30 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/newhongk/public_html/index.php on line 102
+[02-Oct-2015 01:56:33 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/newhongk/public_html/index.php on line 102
+[02-Oct-2015 01:56:44 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/newhongk/public_html/index.php on line 116
+[02-Oct-2015 01:56:57 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/newhongk/public_html/index.php on line 119
+[02-Oct-2015 01:57:09 UTC] PHP Fatal error:  Call to undefined function vaBlog() in /home/newhongk/public_html/index.php on line 116
+[03-Oct-2015 05:49:25 UTC] PHP Warning:  include(page/testimoni' aNd '7'='7.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:25 UTC] PHP Warning:  include(page/testimoni' aNd '7'='7.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:25 UTC] PHP Warning:  include(): Failed opening 'page/testimoni' aNd '7'='7.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:28 UTC] PHP Warning:  include(page/testimoni' aNd '7'='2.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:28 UTC] PHP Warning:  include(page/testimoni' aNd '7'='2.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:28 UTC] PHP Warning:  include(): Failed opening 'page/testimoni' aNd '7'='2.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:28 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:28 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:28 UTC] PHP Warning:  include(): Failed opening 'page/.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:29 UTC] PHP Warning:  include(page/!S!WCRTESTINPUT000000&lt;&gt;&lt;&gt;%3c%3e!E!.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:29 UTC] PHP Warning:  include(page/!S!WCRTESTINPUT000000&lt;&gt;&lt;&gt;%3c%3e!E!.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:29 UTC] PHP Warning:  include(): Failed opening 'page/!S!WCRTESTINPUT000000&lt;&gt;&lt;&gt;%3c%3e!E!.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:30 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:30 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:30 UTC] PHP Warning:  include(): Failed opening 'page/.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:32 UTC] PHP Warning:  include(page/99999999 oR 7=7.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:32 UTC] PHP Warning:  include(page/99999999 oR 7=7.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:32 UTC] PHP Warning:  include(): Failed opening 'page/99999999 oR 7=7.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:32 UTC] PHP Warning:  include(page/99999999 oR 7=2.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:32 UTC] PHP Warning:  include(page/99999999 oR 7=2.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:32 UTC] PHP Warning:  include(): Failed opening 'page/99999999 oR 7=2.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:33 UTC] PHP Warning:  include(page/99999999' oR '7'='7.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:33 UTC] PHP Warning:  include(page/99999999' oR '7'='7.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:33 UTC] PHP Warning:  include(): Failed opening 'page/99999999' oR '7'='7.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:34 UTC] PHP Warning:  include(page/99999999' oR '7'='2.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:34 UTC] PHP Warning:  include(page/99999999' oR '7'='2.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:34 UTC] PHP Warning:  include(): Failed opening 'page/99999999' oR '7'='2.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:35 UTC] PHP Warning:  include(page/' oR '%'='.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:35 UTC] PHP Warning:  include(page/' oR '%'='.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:35 UTC] PHP Warning:  include(): Failed opening 'page/' oR '%'='.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:35 UTC] PHP Warning:  include(page/' oR '%'='2.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:35 UTC] PHP Warning:  include(page/' oR '%'='2.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:35 UTC] PHP Warning:  include(): Failed opening 'page/' oR '%'='2.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:57 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:57 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:49:57 UTC] PHP Warning:  include(): Failed opening 'page/.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:51:57 UTC] PHP Warning:  include(page/99999999.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:51:57 UTC] PHP Warning:  include(page/99999999.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 05:51:57 UTC] PHP Warning:  include(): Failed opening 'page/99999999.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:40:51 UTC] PHP Warning:  include(page/testiString.fromCharCode(83, 116, 114, 105, 110, 103, 32, 116, 111, 32, 117, 115, 101).php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:40:51 UTC] PHP Warning:  include(page/testiString.fromCharCode(83, 116, 114, 105, 110, 103, 32, 116, 111, 32, 117, 115, 101).php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:40:51 UTC] PHP Warning:  include(): Failed opening 'page/testiString.fromCharCode(83, 116, 114, 105, 110, 103, 32, 116, 111, 32, 117, 115, 101).php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:42:49 UTC] PHP Warning:  include(page/testiString.fromCharCode(83, 116, 114, 105, 110, 103, 32, 116, 111, 32, 117, 115, 101).php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:42:49 UTC] PHP Warning:  include(page/testiString.fromCharCode(83, 116, 114, 105, 110, 103, 32, 116, 111, 32, 117, 115, 101).php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:42:49 UTC] PHP Warning:  include(): Failed opening 'page/testiString.fromCharCode(83, 116, 114, 105, 110, 103, 32, 116, 111, 32, 117, 115, 101).php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:54:54 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:54:54 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:54:54 UTC] PHP Warning:  include(): Failed opening 'page/.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:54:57 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:54:57 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:54:57 UTC] PHP Warning:  include(): Failed opening 'page/.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:55:07 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:55:07 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:55:07 UTC] PHP Warning:  include(): Failed opening 'page/.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:55:59 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:55:59 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:55:59 UTC] PHP Warning:  include(): Failed opening 'page/.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:56:02 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:56:02 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:56:02 UTC] PHP Warning:  include(): Failed opening 'page/.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:56:05 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:56:05 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:56:05 UTC] PHP Warning:  include(): Failed opening 'page/.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:56:40 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:56:40 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 06:56:40 UTC] PHP Warning:  include(): Failed opening 'page/.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 60
+[03-Oct-2015 09:50:30 UTC] PHP Warning:  include(page/101.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:50:30 UTC] PHP Warning:  include(page/101.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:50:30 UTC] PHP Warning:  include(): Failed opening 'page/101.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:50:34 UTC] PHP Warning:  include(page/101.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:50:34 UTC] PHP Warning:  include(page/101.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:50:34 UTC] PHP Warning:  include(): Failed opening 'page/101.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:50:46 UTC] PHP Warning:  include(page/101.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:50:46 UTC] PHP Warning:  include(page/101.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:50:46 UTC] PHP Warning:  include(): Failed opening 'page/101.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:50:49 UTC] PHP Warning:  include(page/101.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:50:49 UTC] PHP Warning:  include(page/101.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:50:49 UTC] PHP Warning:  include(): Failed opening 'page/101.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:51:04 UTC] PHP Warning:  include(page/101.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:51:04 UTC] PHP Warning:  include(page/101.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:51:04 UTC] PHP Warning:  include(): Failed opening 'page/101.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:51:33 UTC] PHP Warning:  include(page/101.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:51:33 UTC] PHP Warning:  include(page/101.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:51:33 UTC] PHP Warning:  include(): Failed opening 'page/101.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:51:35 UTC] PHP Warning:  include(page/101.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:51:35 UTC] PHP Warning:  include(page/101.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:51:35 UTC] PHP Warning:  include(): Failed opening 'page/101.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:56:34 UTC] PHP Warning:  include(page/101.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:56:34 UTC] PHP Warning:  include(page/101.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 09:56:34 UTC] PHP Warning:  include(): Failed opening 'page/101.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 62
+[03-Oct-2015 10:27:21 UTC] PHP Notice:  Undefined variable: cServer in /home/newhongk/public_html/blog.php on line 31
+[03-Oct-2015 10:27:21 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/blog.php on line 88
+[03-Oct-2015 10:27:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/blog.php on line 88
+[03-Oct-2015 10:27:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/blog.php on line 89
+[03-Oct-2015 10:27:21 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/container/footer.php on line 10
+[03-Oct-2015 10:27:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/container/footer.php on line 10
+[03-Oct-2015 10:27:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/container/footer.php on line 11
+[03-Oct-2015 10:27:21 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/container/footer.php on line 31
+[03-Oct-2015 10:27:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/container/footer.php on line 31
+[03-Oct-2015 10:27:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/container/footer.php on line 32
+[03-Oct-2015 10:27:28 UTC] PHP Notice:  Undefined variable: cServer in /home/newhongk/public_html/blog.php on line 31
+[03-Oct-2015 10:27:28 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/blog.php on line 88
+[03-Oct-2015 10:27:28 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/blog.php on line 88
+[03-Oct-2015 10:27:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/blog.php on line 89
+[03-Oct-2015 10:27:28 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/container/footer.php on line 10
+[03-Oct-2015 10:27:28 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/container/footer.php on line 10
+[03-Oct-2015 10:27:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/container/footer.php on line 11
+[03-Oct-2015 10:27:28 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newhongk/public_html/container/footer.php on line 31
+[03-Oct-2015 10:27:28 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newhongk/public_html/container/footer.php on line 31
+[03-Oct-2015 10:27:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/newhongk/public_html/container/footer.php on line 32
+[03-Oct-2015 10:52:27 UTC] PHP Fatal error:  Class 'Yii' not found in /home/newhongk/public_html/container/menu.php on line 10
+[03-Oct-2015 11:47:58 UTC] PHP Notice:  Undefined index: url in /home/newhongk/public_html/content.php on line 61
+[03-Oct-2015 12:07:31 UTC] PHP Notice:  Undefined index: url in /home/newhongk/public_html/content.php on line 61
+[03-Oct-2015 12:54:50 UTC] PHP Notice:  Undefined index: url in /home/newhongk/public_html/content.php on line 61
+[03-Oct-2015 15:20:52 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/newhongk/public_html/container/menu.php on line 11
+[03-Oct-2015 15:21:25 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/newhongk/public_html/container/menu.php on line 11
+[03-Oct-2015 15:21:44 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/newhongk/public_html/container/menu.php on line 11
+[03-Oct-2015 15:21:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/newhongk/public_html/container/menu.php on line 11
+[03-Oct-2015 15:23:59 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/newhongk/public_html/container/menu.php on line 11
+[03-Oct-2015 15:24:53 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/newhongk/public_html/container/menu.php on line 11
+[03-Oct-2015 15:27:18 UTC] PHP Parse error:  syntax error, unexpected 'current_page_item' (T_STRING), expecting ',' or ';' in /home/newhongk/public_html/container/menu.php on line 11
+[03-Oct-2015 15:36:27 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/newhongk/public_html/container/menu.php on line 32
+[03-Oct-2015 15:37:12 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/newhongk/public_html/container/menu.php on line 32
+[03-Oct-2015 15:37:21 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/newhongk/public_html/container/menu.php on line 32
+[03-Oct-2015 15:37:45 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/newhongk/public_html/container/menu.php on line 31
+[03-Oct-2015 15:37:57 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/newhongk/public_html/container/menu.php on line 28
+[03-Oct-2015 15:38:46 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/newhongk/public_html/container/menu.php on line 30
+[03-Oct-2015 15:39:11 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/newhongk/public_html/container/menu.php on line 30
+[03-Oct-2015 15:41:12 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/newhongk/public_html/container/menu.php on line 27
+[03-Oct-2015 15:41:49 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/newhongk/public_html/container/menu.php on line 27
+[03-Oct-2015 15:41:51 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/newhongk/public_html/container/menu.php on line 27
+[03-Oct-2015 15:51:05 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/newhongk/public_html/container/menu.php on line 47
+[04-Oct-2015 03:11:14 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[04-Oct-2015 03:11:14 UTC] PHP Warning:  include(page/.php): failed to open stream: No such file or directory in /home/newhongk/public_html/content.php on line 62
+[04-Oct-2015 03:11:14 UTC] PHP Warning:  include(): Failed opening 'page/.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/newhongk/public_html/content.php on line 62
