@@ -1,0 +1,20 @@
+RewriteEngine on
+RewriteBase /
+RewriteRule ^home   			      index.php [L]
+RewriteRule ^tentang-kami.html$               blog.php?id=110
+RewriteRule ^dimsum-cuisine.html$             blog.php?id=101
+RewriteRule ^chinese-cuisine.html$            blog.php?id=102
+RewriteRule ^barbaque.html$                   blog.php?id=103
+RewriteRule ^live-seafood.html$               blog.php?id=104
+RewriteRule ^function-room.html$              blog.php?id=105
+RewriteRule ^member-card.html$                blog.php?id=106
+RewriteRule ^free-wifi.html$                  blog.php?id=107
+RewriteRule ^vip-room.html$                   blog.php?id=108
+RewriteRule ^smoking-room.html$               blog.php?id=109
+RewriteRule ^promotion.html$                  content.php?id=blog
+RewriteRule ^testimoni.html$                  content.php?id=testi
+RewriteRule ^kontak-kami.html$                content.php?id=testimoni
+RewriteRule ^karir.html$                      blog.php?id=10
+RewriteRule ^galery.html$                     gallery.php 
+RewriteRule ^berita/([0-9]+)-(.*)\.html$      blog.php?id=$1
+RewriteRule ^berita-page-([0-9]+).html$ berita.php?page=$1

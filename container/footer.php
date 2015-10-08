@@ -12,7 +12,7 @@
                         {
                             ?>
                         <li> 
-                            <p> <a href="berita/<?=$data['id']?>-<?=$data['title']?>.html"> <h4><?=$data['title']?></h4> </a> </p> 
+                            <p> <a href="berita/<?=$data['id']?>-<?=$data['alias']?>.html"> <h4><?=$data['title']?></h4> </a> </p> 
                             <p><?=substr(strip_tags($data['content']), 0 , 50)?>.....</p>
                         </li>  
                         <?php } ?>

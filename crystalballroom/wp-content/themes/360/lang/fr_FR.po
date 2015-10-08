@@ -1,0 +1,1772 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 360 v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-27 22:20-0700\n"
+"PO-Revision-Date: 2012-09-15 19:15:44+0000\n"
+"Last-Translator: Justin Young <justinyoung44@gmail.com>\n"
+"Language-Team: Siiimple <themes.siiimple@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: 360\n"
+"X-Textdomain-Support: yes"
+
+#: archive.php:38
+#@ siiimple
+msgid "Archive for the"
+msgstr "Archive pour la"
+
+#: archive.php:38
+#@ siiimple
+msgid "Category"
+msgstr "Catégorie"
+
+#: archive.php:40
+#@ siiimple
+msgid "Posts tagged"
+msgstr "Posts tagged"
+
+#: archive.php:42
+#: archive.php:44
+#: archive.php:46
+#@ siiimple
+msgid "Archive for"
+msgstr "Archive pour"
+
+#: archive.php:48
+#@ siiimple
+msgid "Author Archive"
+msgstr "Archive de l'auteur"
+
+#: archive.php:50
+#@ siiimple
+msgid "Blog Archives"
+msgstr "Archives du blog"
+
+#: archive.php:120
+#: archive.php:225
+#: archive.php:294
+#: archive.php:372
+#: archive.php:450
+#: content-aside.php:9
+#: content-audio.php:62
+#: content-gallery.php:46
+#: content-image.php:28
+#: content-video.php:33
+#: content.php:28
+#: framework/includes/blog-full-width.php:79
+#: framework/includes/blog-full-width.php:183
+#: framework/includes/blog-full-width.php:252
+#: framework/includes/blog-full-width.php:329
+#: framework/includes/home/home-blog-full-width.php:55
+#: framework/includes/home/home-blog-full-width.php:159
+#: framework/includes/home/home-blog-full-width.php:228
+#: framework/includes/home/home-blog-full-width.php:305
+#: framework/includes/single-left-right-sidebar.php:187
+#: framework/includes/single-left-sidebar.php:186
+#: framework/includes/single-right-sidebar.php:166
+#: search.php:74
+#: search.php:179
+#: search.php:248
+#: search.php:326
+#: search.php:404
+#@ siiimple
+msgid "Written by"
+msgstr "Écrit par"
+
+#: archive.php:122
+#: archive.php:227
+#: archive.php:296
+#: archive.php:343
+#: archive.php:374
+#: archive.php:452
+#: content-aside.php:11
+#: content-audio.php:64
+#: content-gallery.php:48
+#: content-image.php:30
+#: content-link.php:7
+#: content-quote.php:7
+#: content-video.php:35
+#: content.php:30
+#: framework/includes/blog-full-width.php:81
+#: framework/includes/blog-full-width.php:185
+#: framework/includes/blog-full-width.php:254
+#: framework/includes/blog-full-width.php:331
+#: framework/includes/home/home-blog-full-width.php:57
+#: framework/includes/home/home-blog-full-width.php:161
+#: framework/includes/home/home-blog-full-width.php:230
+#: framework/includes/home/home-blog-full-width.php:307
+#: framework/includes/single-left-right-sidebar.php:189
+#: framework/includes/single-left-sidebar.php:188
+#: framework/includes/single-right-sidebar.php:168
+#: search.php:76
+#: search.php:181
+#: search.php:250
+#: search.php:297
+#: search.php:328
+#: search.php:406
+#: template-viewer2.php:80
+#@ siiimple
+msgid "Posted"
+msgstr "Posté le"
+
+#: archive.php:122
+#: archive.php:227
+#: archive.php:296
+#: archive.php:343
+#: archive.php:374
+#: archive.php:452
+#: content-aside.php:11
+#: content-audio.php:64
+#: content-gallery.php:48
+#: content-image.php:30
+#: content-link.php:7
+#: content-quote.php:7
+#: content-video.php:35
+#: content.php:30
+#: framework/includes/blog-full-width.php:81
+#: framework/includes/blog-full-width.php:185
+#: framework/includes/blog-full-width.php:254
+#: framework/includes/blog-full-width.php:300
+#: framework/includes/blog-full-width.php:331
+#: framework/includes/home/home-blog-full-width.php:57
+#: framework/includes/home/home-blog-full-width.php:161
+#: framework/includes/home/home-blog-full-width.php:230
+#: framework/includes/home/home-blog-full-width.php:276
+#: framework/includes/home/home-blog-full-width.php:307
+#: framework/includes/single-full-width.php:168
+#: framework/includes/single-left-right-sidebar.php:189
+#: framework/includes/single-left-sidebar.php:188
+#: framework/includes/single-right-sidebar.php:168
+#: search.php:76
+#: search.php:181
+#: search.php:250
+#: search.php:297
+#: search.php:328
+#: search.php:406
+#: template-viewer2.php:80
+#@ framework
+#@ siiimple
+msgid "ago"
+msgstr "il ya"
+
+#: archive.php:124
+#: archive.php:228
+#: archive.php:298
+#: archive.php:376
+#: archive.php:454
+#: content-aside.php:13
+#: content-audio.php:66
+#: content-gallery.php:50
+#: content-image.php:32
+#: content-video.php:37
+#: content.php:32
+#: framework/includes/blog-full-width.php:82
+#: framework/includes/blog-full-width.php:186
+#: framework/includes/blog-full-width.php:255
+#: framework/includes/blog-full-width.php:332
+#: framework/includes/home/home-blog-full-width.php:58
+#: framework/includes/home/home-blog-full-width.php:162
+#: framework/includes/home/home-blog-full-width.php:231
+#: framework/includes/home/home-blog-full-width.php:308
+#: framework/includes/single-left-right-sidebar.php:190
+#: framework/includes/single-left-sidebar.php:189
+#: framework/includes/single-right-sidebar.php:169
+#: search.php:78
+#: search.php:182
+#: search.php:252
+#: search.php:330
+#: search.php:408
+#@ siiimple
+msgid "No comments yet"
+msgstr "Pas encore de commentaires"
+
+#: archive.php:124
+#: archive.php:228
+#: archive.php:298
+#: archive.php:376
+#: archive.php:454
+#: content-aside.php:13
+#: content-audio.php:66
+#: content-gallery.php:50
+#: content-image.php:32
+#: content-video.php:37
+#: content.php:32
+#: framework/includes/blog-full-width.php:82
+#: framework/includes/blog-full-width.php:186
+#: framework/includes/blog-full-width.php:255
+#: framework/includes/blog-full-width.php:332
+#: framework/includes/home/home-blog-full-width.php:58
+#: framework/includes/home/home-blog-full-width.php:162
+#: framework/includes/home/home-blog-full-width.php:231
+#: framework/includes/home/home-blog-full-width.php:308
+#: framework/includes/single-left-right-sidebar.php:190
+#: framework/includes/single-left-sidebar.php:189
+#: framework/includes/single-right-sidebar.php:169
+#: search.php:78
+#: search.php:182
+#: search.php:252
+#: search.php:330
+#: search.php:408
+#@ siiimple
+msgid "1 comment"
+msgstr "1 commentaire"
+
+#: archive.php:124
+#: archive.php:228
+#: archive.php:298
+#: archive.php:376
+#: archive.php:454
+#: content-aside.php:13
+#: content-audio.php:66
+#: content-gallery.php:50
+#: content-image.php:32
+#: content-video.php:37
+#: content.php:32
+#: framework/includes/blog-full-width.php:82
+#: framework/includes/blog-full-width.php:186
+#: framework/includes/blog-full-width.php:255
+#: framework/includes/blog-full-width.php:332
+#: framework/includes/home/home-blog-full-width.php:58
+#: framework/includes/home/home-blog-full-width.php:162
+#: framework/includes/home/home-blog-full-width.php:231
+#: framework/includes/home/home-blog-full-width.php:308
+#: framework/includes/single-left-right-sidebar.php:190
+#: framework/includes/single-left-sidebar.php:189
+#: framework/includes/single-right-sidebar.php:169
+#: search.php:78
+#: search.php:182
+#: search.php:252
+#: search.php:330
+#: search.php:408
+#, php-format
+#@ siiimple
+msgid "% comments"
+msgstr "Commentaires"
+
+#: comments.php:6
+#@ siiimple
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ce poste est protégé par mot. Entrez le mot de passe pour accéder aux commentaires."
+
+#: comments.php:35
+#@ siiimple
+msgid "Leave A Reply"
+msgstr "Laisser un commentaire"
+
+#: comments.php:42
+#@ siiimple
+msgid "You must be"
+msgstr "Vous devez être"
+
+#: comments.php:42
+#@ siiimple
+msgid "logged in"
+msgstr "connecté"
+
+#: comments.php:42
+#@ siiimple
+msgid "to post a comment."
+msgstr "pour déposer un commentaire."
+
+#: comments.php:50
+#@ siiimple
+msgid "Logged in as"
+msgstr "Connecté en tant que"
+
+#: comments.php:50
+#@ siiimple
+msgid "Log out of this account"
+msgstr "Déconnectez-vous de ce compte"
+
+#: comments.php:50
+#@ siiimple
+msgid "Log out"
+msgstr "Déconnexion"
+
+#: comments.php:53
+#@ siiimple
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: comments.php:55
+#@ siiimple
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:57
+#@ siiimple
+msgid "Website"
+msgstr "Site Web"
+
+#: comments.php:64
+#@ siiimple
+msgid "Post Comment"
+msgstr "Signalez le commentaire"
+
+#: functions.php:255
+#@ siiimple
+msgid "Main"
+msgstr "Principal"
+
+#: search.php:19
+#@ siiimple
+msgid "Search results"
+msgstr "Résultats de la recherche"
+
+#: search.php:454
+#@ siiimple
+msgid "No posts found. Try a different search?"
+msgstr "Aucun post trouvé. Essayez une autre recherche?"
+
+#: searchform.php:5
+#@ siiimple
+msgid "Search Here..."
+msgstr "Rechercher ici ..."
+
+#: framework/includes/single-full-width.php:240
+#: framework/includes/single-left-right-sidebar.php:258
+#: framework/includes/single-left-sidebar.php:257
+#: framework/includes/single-right-sidebar.php:237
+#: single-gallery.php:232
+#: single-portfolio.php:232
+#@ siiimple
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: admin/classes/class.options_machine.php:456
+#@ default
+msgid "Last Backup : "
+msgstr "Dernière sauvegarde:"
+
+#: admin/front-end/options.php:42
+#: admin/front-end/options.php:66
+#@ default
+msgid "Save All Changes"
+msgstr "Enregistrer toutes les modifications"
+
+#: admin/front-end/options.php:67
+#@ default
+msgid "Options Reset"
+msgstr "Réinitialisation des Options"
+
+#: admin/functions/functions.mediauploader.php:20
+#@ default
+msgid "Options"
+msgstr "Options de"
+
+#: admin/functions/functions.mediauploader.php:210
+#@ optionsframework
+msgid "Gallery"
+msgstr "Galerie"
+
+#: admin/functions/functions.mediauploader.php:210
+#@ optionsframework
+msgid "Previously Uploaded"
+msgstr "Auparavant Envoyé"
+
+#: admin/functions/functions.options.php:87
+#@ siiimple
+msgid "General"
+msgstr "Général"
+
+#: admin/functions/functions.options.php:90
+#@ siiimple
+msgid "Main Logo Upload"
+msgstr "Principal Logo Upload"
+
+#: admin/functions/functions.options.php:91
+#@ siiimple
+msgid "Upload your custom logo using the native media uploader, or define the URL directly"
+msgstr "Téléchargez votre logo personnalisé à l'aide l'outil de téléchargement multimédia natif, ou définir directement l'URL"
+
+#: admin/functions/functions.options.php:96
+#@ siiimple
+msgid "Enable or Disable Responsive Layout"
+msgstr "Activer ou désactiver Mise Responsive"
+
+#: admin/functions/functions.options.php:103
+#@ siiimple
+msgid "Custom Favicon"
+msgstr "Favicon personnalisée"
+
+#: admin/functions/functions.options.php:104
+#@ siiimple
+msgid "Upload or past the URL for your custom favicon."
+msgstr "Télécharger ou passé l'URL de votre favicon personnalisé."
+
+#: admin/functions/functions.options.php:109
+#@ siiimple
+msgid "Tracking Code (Header)"
+msgstr "Code de suivi (en-tête)"
+
+#: admin/functions/functions.options.php:116
+#@ siiimple
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr "Coller votre compte Google Analytics (ou autre) code de suivi ici. Ce point sera ajouté dans le modèle de bas de page de votre thème."
+
+#: admin/functions/functions.options.php:124
+#@ siiimple
+msgid "Styling"
+msgstr "Coiffant"
+
+#: admin/functions/functions.options.php:153
+#@ siiimple
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: admin/functions/functions.options.php:154
+#@ siiimple
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr "Rapidement ajouter un peu de CSS à votre thème en l'ajoutant à ce bloc."
+
+#: admin/functions/functions.options.php:207
+#@ siiimple
+msgid "Blog"
+msgstr "Blog"
+
+#: admin/functions/functions.options.php:218
+#@ siiimple
+msgid "Blog Intro Text"
+msgstr "Blog Intro texte"
+
+#: admin/functions/functions.options.php:219
+#@ siiimple
+msgid "Add text to introduce this section."
+msgstr "Ajouter du texte à introduire la présente section."
+
+#: admin/functions/functions.options.php:224
+#: admin/functions/functions.options.php:268
+#: admin/functions/functions.options.php:438
+#: admin/functions/functions.options.php:476
+#@ siiimple
+msgid "Header Color"
+msgstr "Couleur tête"
+
+#: admin/functions/functions.options.php:225
+#: admin/functions/functions.options.php:269
+#: admin/functions/functions.options.php:401
+#: admin/functions/functions.options.php:439
+#: admin/functions/functions.options.php:477
+#@ siiimple
+msgid "Change color of top header text.  For example, on a light background, use a darker text color.  For a darker background, use a lighter text color.  To revert back to the original, simply leave blank."
+msgstr "Changer la couleur du texte d'en-tête en haut. Par exemple, sur un fond clair, utilisez une couleur plus foncée texte. Pour un fond plus sombre, utilisez une couleur plus claire du texte. Pour revenir à l'original, il suffit de laisser en blanc."
+
+#: admin/functions/functions.options.php:230
+#: admin/functions/functions.options.php:274
+#: admin/functions/functions.options.php:444
+#: admin/functions/functions.options.php:482
+#@ siiimple
+msgid "Header Sub Text Color"
+msgstr "Couleur du texte d'en-tête sous"
+
+#: admin/functions/functions.options.php:231
+#: admin/functions/functions.options.php:275
+#: admin/functions/functions.options.php:445
+#: admin/functions/functions.options.php:483
+#@ siiimple
+msgid "Change the color of the sub-text.  To revert back to the original, simply leave blank."
+msgstr "Changer la couleur du texte sous-. Pour revenir à l'original, il suffit de laisser en blanc."
+
+#: admin/functions/functions.options.php:236
+#: admin/functions/functions.options.php:280
+#: admin/functions/functions.options.php:450
+#: admin/functions/functions.options.php:488
+#@ siiimple
+msgid "Header Sub Border Color"
+msgstr "Couleur de la bordure en-tête sous"
+
+#: admin/functions/functions.options.php:237
+#: admin/functions/functions.options.php:281
+#: admin/functions/functions.options.php:451
+#: admin/functions/functions.options.php:489
+#@ siiimple
+msgid "Change color of 1px border at top and bottom of the sub text.  This allows better control of your presentation, depending on the specific background image you wish to display.  To revert back to the original, simply leave blank."
+msgstr "Changer la couleur de la bordure de 1px en haut et en bas du texte sous. Cela permet un meilleur contrôle de votre présentation, en fonction de l'image d'arrière-plan spécifique que vous souhaitez afficher. Pour revenir à l'original, il suffit de laisser en blanc."
+
+#: admin/functions/functions.options.php:290
+#@ siiimple
+msgid "Custom Posts"
+msgstr "Messages personnalisés"
+
+#: admin/functions/functions.options.php:296
+#@ siiimple
+msgid "Custom Post Types"
+msgstr "Types Custom Post"
+
+#: admin/functions/functions.options.php:301
+#@ siiimple
+msgid "Portfolio Post Type Name"
+msgstr "Nom Type de portefeuille message"
+
+#: admin/functions/functions.options.php:302
+#@ siiimple
+msgid "This will change the name of your Portfolio post type in the admin area."
+msgstr "Cela va changer le nom de votre type post portefeuille dans la zone d'administration."
+
+#: admin/functions/functions.options.php:307
+#@ siiimple
+msgid "Portfolio Post Type Slug"
+msgstr "Slug Type de portefeuille message"
+
+#: admin/functions/functions.options.php:308
+#: admin/functions/functions.options.php:334
+#: admin/functions/functions.options.php:346
+#@ siiimple
+msgid "When you change the slug of a post type, be sure to refresh the permalink settings.  Go to Settings > Permalinks and simply hit Save Changes.  That will refresh your slug."
+msgstr "Lorsque vous modifiez la limace d'un type de poste, n'oubliez pas de rafraîchir les paramètres permalien. Allez dans Paramètres> Permaliens et il suffit d'appuyer sur Enregistrer les modifications. Cela va vous rafraîchir la limace."
+
+#: admin/functions/functions.options.php:313
+#@ siiimple
+msgid "Gallery Post Type Name"
+msgstr "Nom Type Galerie Message"
+
+#: admin/functions/functions.options.php:314
+#: admin/functions/functions.options.php:340
+#@ siiimple
+msgid "This will change the name of your Testimonials post type in the admin area."
+msgstr "Cela va changer le nom de votre type de poste Témoignages dans la zone d'administration."
+
+#: admin/functions/functions.options.php:320
+#@ siiimple
+msgid "Gallery Post Type Slug"
+msgstr "Type de Slug Galerie Message"
+
+#: admin/functions/functions.options.php:321
+#@ siiimple
+msgid "When you change the slug of a post type, be sure to refresh the permalink settings.  Go to Settings > Permalinks and simply hit Save Changes.  That will refresh your slug. "
+msgstr "Lorsque vous modifiez la limace d'un type de poste, n'oubliez pas de rafraîchir les paramètres permalien. Allez dans Paramètres> Permaliens et il suffit d'appuyer sur Enregistrer les modifications. Cela va vous rafraîchir la limace."
+
+#: admin/functions/functions.options.php:327
+#@ siiimple
+msgid "Panorama Post Type Name"
+msgstr "Nom du type de message Panorama"
+
+#: admin/functions/functions.options.php:328
+#@ siiimple
+msgid "This will change the name of your Panorama post type in the admin area."
+msgstr "Cela va changer le nom de votre type de poste Panorama à la zone d'administration."
+
+#: admin/functions/functions.options.php:333
+#@ siiimple
+msgid "Panorama Post Type Slug"
+msgstr "Slug Panorama Type Message"
+
+#: admin/functions/functions.options.php:339
+#@ siiimple
+msgid "Testimonials Post Type Name"
+msgstr "Témoignages Nom Type de message"
+
+#: admin/functions/functions.options.php:345
+#@ siiimple
+msgid "Testimonials Post Type Slug"
+msgstr "Slug Témoignages Post Type"
+
+#: admin/functions/functions.options.php:244
+#@ siiimple
+msgid "Portfolio"
+msgstr "Portefeuille"
+
+#: admin/functions/functions.options.php:255
+#@ siiimple
+msgid "Portfolio Text"
+msgstr "Texte portefeuille"
+
+#: admin/functions/functions.options.php:256
+#: admin/functions/functions.options.php:424
+#: admin/functions/functions.options.php:463
+#@ siiimple
+msgid "Add text to introduce this section.  Leave blank if you do not want to show."
+msgstr "Ajouter du texte à introduire la présente section. Laissez vide si vous ne voulez pas montrer."
+
+#: admin/functions/functions.options.php:262
+#@ siiimple
+msgid "Portfolio Number"
+msgstr "Nombre portefeuille"
+
+#: admin/functions/functions.options.php:263
+#: admin/functions/functions.options.php:470
+#@ siiimple
+msgid "How many portfolio posts do you wish to show?"
+msgstr "Combien de postes de portefeuille voulez-vous montrer?"
+
+#: admin/functions/functions.options.php:420
+#@ siiimple
+msgid "Image Viewer"
+msgstr "Image Viewer"
+
+#: admin/functions/functions.options.php:423
+#@ siiimple
+msgid "Image Viewer Text"
+msgstr "Texte Image Viewer"
+
+#: admin/functions/functions.options.php:430
+#@ siiimple
+msgid "Images Source?"
+msgstr "Images Source?"
+
+#: admin/functions/functions.options.php:459
+#@ siiimple
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: admin/functions/functions.options.php:462
+#@ siiimple
+msgid "Testimonial Text"
+msgstr "Témoignage du texte"
+
+#: admin/functions/functions.options.php:469
+#@ siiimple
+msgid "Testimonial Number"
+msgstr "Nombre Témoignage"
+
+#: admin/functions/functions.options.php:497
+#@ siiimple
+msgid "Comments"
+msgstr "Commentaires"
+
+#: admin/functions/functions.options.php:501
+#@ siiimple
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: admin/functions/functions.options.php:502
+#@ siiimple
+msgid "Add your Facebook App ID here in order to properly show Facebook Comments on posts."
+msgstr "Ajouter votre Facebook App ID ici pour afficher correctement les messages sur Facebook Comments."
+
+#: admin/functions/functions.options.php:509
+#@ siiimple
+msgid "Archives"
+msgstr "Archives"
+
+#: admin/functions/functions.options.php:512
+#@ siiimple
+msgid "Archives Background"
+msgstr "Archives Historique"
+
+#: admin/functions/functions.options.php:513
+#@ siiimple
+msgid "Upload a custom background to your archives page."
+msgstr "Téléchargez un fond d'écran sur votre page d'archives."
+
+#: admin/functions/functions.options.php:521
+#@ siiimple
+msgid "Social"
+msgstr "Social"
+
+#: admin/functions/functions.options.php:524
+#@ siiimple
+msgid "Twitter"
+msgstr "Gazouillement"
+
+#: admin/functions/functions.options.php:525
+#@ siiimple
+msgid "Add your twitter url."
+msgstr "Ajoutez votre site twitter."
+
+#: admin/functions/functions.options.php:530
+#@ siiimple
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: admin/functions/functions.options.php:531
+#@ siiimple
+msgid "Add your dribbble url."
+msgstr "Ajoutez votre site dribbble."
+
+#: admin/functions/functions.options.php:536
+#@ siiimple
+msgid "Forrst"
+msgstr "Forrst"
+
+#: admin/functions/functions.options.php:537
+#@ siiimple
+msgid "Add your forrst url."
+msgstr "Ajoutez votre site Forrst."
+
+#: admin/functions/functions.options.php:542
+#@ siiimple
+msgid "Flickr"
+msgstr "Flickr"
+
+#: admin/functions/functions.options.php:543
+#@ siiimple
+msgid "Add your flickr url."
+msgstr "Ajoutez votre site flickr."
+
+#: admin/functions/functions.options.php:548
+#@ siiimple
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/functions/functions.options.php:549
+#@ siiimple
+msgid "Add your facebook url."
+msgstr "Ajoutez votre site facebook."
+
+#: admin/functions/functions.options.php:554
+#@ siiimple
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: admin/functions/functions.options.php:555
+#@ siiimple
+msgid "Add your LinkedIn url."
+msgstr "Ajoutez votre site LinkedIn."
+
+#: admin/functions/functions.options.php:560
+#@ siiimple
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: admin/functions/functions.options.php:561
+#@ siiimple
+msgid "Add your Google Plus url."
+msgstr "Ajouter votre Google Plus url."
+
+#: admin/functions/functions.options.php:566
+#@ siiimple
+msgid "Google"
+msgstr "Google"
+
+#: admin/functions/functions.options.php:567
+#@ siiimple
+msgid "Add your Google url."
+msgstr "Ajouter votre site sur Google."
+
+#: admin/functions/functions.options.php:572
+#@ siiimple
+msgid "Youtube"
+msgstr "Youtube"
+
+#: admin/functions/functions.options.php:573
+#@ siiimple
+msgid "Add your youtube url."
+msgstr "Ajoutez votre site youtube."
+
+#: admin/functions/functions.options.php:578
+#@ siiimple
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: admin/functions/functions.options.php:579
+#@ siiimple
+msgid "Add your vimeo url."
+msgstr "Ajoutez votre site vimeo."
+
+#: admin/functions/functions.options.php:584
+#@ siiimple
+msgid "RSS"
+msgstr "Ajoutez votre site vimeo."
+
+#: admin/functions/functions.options.php:585
+#@ siiimple
+msgid "Add your rss url."
+msgstr "Ajoutez votre site rss."
+
+#: admin/functions/functions.options.php:590
+#@ siiimple
+msgid "Rdio"
+msgstr "Rdio"
+
+#: admin/functions/functions.options.php:591
+#@ siiimple
+msgid "Add your Rdio url."
+msgstr "Ajoutez votre site Rdio."
+
+#: admin/functions/functions.options.php:596
+#@ siiimple
+msgid "Skype"
+msgstr "Skype"
+
+#: admin/functions/functions.options.php:597
+#@ siiimple
+msgid "Add your Skype url."
+msgstr "Ajoutez votre site Skype."
+
+#: admin/functions/functions.options.php:602
+#@ siiimple
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: admin/functions/functions.options.php:603
+#@ siiimple
+msgid "Add your Stumbleupon url."
+msgstr "Ajoutez votre site Stumbleupon."
+
+#: admin/functions/functions.options.php:608
+#@ siiimple
+msgid "WordPress"
+msgstr "WordPress"
+
+#: admin/functions/functions.options.php:609
+#@ siiimple
+msgid "Add your WordPress url."
+msgstr "Ajoutez votre site WordPress."
+
+#: admin/functions/functions.options.php:615
+#@ siiimple
+msgid "Mail"
+msgstr "Courrier"
+
+#: admin/functions/functions.options.php:616
+#@ siiimple
+msgid "Add your mail/contact url."
+msgstr "Ajouter votre mail / contact url."
+
+#: admin/functions/functions.options.php:623
+#@ siiimple
+msgid "SEO"
+msgstr "SEO"
+
+#: admin/functions/functions.options.php:626
+#@ siiimple
+msgid "Apple Touch Icon 57x57"
+msgstr "Apple iPod Touch Icône 57x57"
+
+#: admin/functions/functions.options.php:627
+#@ siiimple
+msgid "Upload or past the URL for your Apple Touch Icon.  There are three sizes to upload.  This size should be 57x57 of your logo.  This will help SEO value.  <span style=\"color:red\">*Important:  The name of this image should be \"apple-touch-icon.png\"</span>"
+msgstr "Télécharger ou passé l'URL de votre icône Apple Touch. Il existe trois tailles de télécharger. Cette taille doit être 57x57 de votre logo. Cela aidera à valeur référencement. <span style=\"color:red\"> * Important: Le nom de cette image doit être  \"apple-touch-icon.png \" </ span>"
+
+#: admin/functions/functions.options.php:632
+#@ siiimple
+msgid "Apple Touch Icon 72x72"
+msgstr "Apple iPod Touch Icône 72x72"
+
+#: admin/functions/functions.options.php:633
+#@ siiimple
+msgid "Upload or past the URL for your Apple Touch Icon.  There are three sizes to upload.  This size should be 72x72 of your logo.  This will help SEO value.  <span style=\"color:red\">*Important:  The name of this image should be \"apple-touch-icon-72x72.png\"</span>"
+msgstr "Télécharger ou passé l'URL de votre icône Apple Touch. Il existe trois tailles de télécharger. Cette taille doit être 72x72 de votre logo. Cela aidera à valeur référencement. <span style=\"color:red\"> * Important: Le nom de cette image doit être  \"apple-touch-icon-72x72.png \" </ span>"
+
+#: admin/functions/functions.options.php:638
+#@ siiimple
+msgid "Apple Touch Icon 114x114"
+msgstr "Apple iPod Touch Icône 114x114"
+
+#: admin/functions/functions.options.php:639
+#@ siiimple
+msgid "Upload or past the URL for your Apple Touch Icon.  There are three sizes to upload.  This size should be 114x114 of your logo.  This will help SEO value.  <span style=\"color:red\">*Important:  The name of this image should be \"apple-touch-icon-114x114.png\"</span>"
+msgstr "Télécharger ou passé l'URL de votre icône Apple Touch. Il existe trois tailles de télécharger. Cette taille doit être 114x114 de votre logo. Cela aidera à valeur référencement. <span style=\"color:red\"> * Important: Le nom de cette image doit être  \"apple-touch-icon-114x114.png \" </ span>"
+
+#: admin/functions/functions.options.php:644
+#@ siiimple
+msgid "Meta Description"
+msgstr "Meta Description"
+
+#: admin/functions/functions.options.php:645
+#@ siiimple
+msgid "Add a meta description.  This will appear in your header for better SEO value.  Be carefully descriptive."
+msgstr "Ajouter une meta description. Celui-ci apparaîtra dans votre tête pour une meilleure valeur SEO. Être soigneusement descriptive."
+
+#: admin/functions/functions.options.php:650
+#@ siiimple
+msgid "Meta Keywords"
+msgstr "Meta Keywords"
+
+#: admin/functions/functions.options.php:651
+#@ siiimple
+msgid "Add a meta keywords.  This will appear in your header for better SEO value.  Provide a list of keywords that will allow your site to attract better SEO value."
+msgstr "Ajouter un meta keywords. Celui-ci apparaîtra dans votre tête pour une meilleure valeur SEO. Fournir une liste de mots-clés qui permettront à votre site pour attirer une meilleure valeur référencement."
+
+#: admin/functions/functions.options.php:658
+#@ siiimple
+msgid "Error Page"
+msgstr "Page d'erreur"
+
+#: admin/functions/functions.options.php:661
+#@ siiimple
+msgid "Add an Image"
+msgstr "Ajouter une image"
+
+#: admin/functions/functions.options.php:662
+#@ siiimple
+msgid "Upload your image."
+msgstr "Téléchargez votre image."
+
+#: admin/functions/functions.options.php:667
+#@ siiimple
+msgid "404 Header"
+msgstr "404 En-tête"
+
+#: admin/functions/functions.options.php:668
+#@ siiimple
+msgid "Add some custom 404 header."
+msgstr "Ajoutez un peu de tête 404 personnalisée."
+
+#: admin/functions/functions.options.php:673
+#@ siiimple
+msgid "404 Text"
+msgstr "404 du texte"
+
+#: admin/functions/functions.options.php:674
+#@ siiimple
+msgid "Add some custom 404 text."
+msgstr "Ajouter un texte d'erreur 404 personnalisée."
+
+#: admin/functions/functions.options.php:681
+#@ siiimple
+msgid "Under Construction"
+msgstr "Under Construction"
+
+#: admin/functions/functions.options.php:684
+#@ siiimple
+msgid "503 Header"
+msgstr "503 En-tête"
+
+#: admin/functions/functions.options.php:685
+#@ siiimple
+msgid "Add some custom 503 header."
+msgstr "Ajouter une coutume 503 en-tête."
+
+#: admin/functions/functions.options.php:690
+#@ siiimple
+msgid "503 Text"
+msgstr "503 du texte"
+
+#: admin/functions/functions.options.php:691
+#@ siiimple
+msgid "Add some custom 503 text."
+msgstr "Ajouter une coutume 503 texte."
+
+#: admin/functions/functions.options.php:696
+#@ siiimple
+msgid "503 Year"
+msgstr "503 Année"
+
+#: admin/functions/functions.options.php:697
+#@ siiimple
+msgid "Add the year of the timer. Use numbers.  Example: 2012"
+msgstr "Ajouter l'année de la minuterie. Utilisez des chiffres. Exemple: 2012"
+
+#: admin/functions/functions.options.php:702
+#@ siiimple
+msgid "503 Month"
+msgstr "503 mois"
+
+#: admin/functions/functions.options.php:703
+#@ siiimple
+msgid "Add the month of the timer. Use numbers.  Example: July = 7"
+msgstr "Ajouter le mois de la minuterie. Utilisez des chiffres. Exemple: Juillet = 7"
+
+#: admin/functions/functions.options.php:708
+#@ siiimple
+msgid "503 Day"
+msgstr "503 jours"
+
+#: admin/functions/functions.options.php:709
+#@ siiimple
+msgid "Add the day of the timer.  Use numbers.  Example: 4"
+msgstr "Ajouter le jour de la minuterie. Utilisez des chiffres. Exemple: 4"
+
+#: admin/functions/functions.options.php:717
+#@ siiimple
+msgid "Footer"
+msgstr "Pied de page"
+
+#: admin/functions/functions.options.php:721
+#@ siiimple
+msgid "Enable or Disable Footer Slider"
+msgstr "Activer ou désactiver le curseur de bas de page"
+
+#: admin/functions/functions.options.php:722
+#@ siiimple
+msgid "Select to enable/disable the slider atop the Footer area."
+msgstr "Sélectionnez cette option pour activer / désactiver le curseur au-dessus de la zone de pied de page."
+
+#: admin/functions/functions.options.php:728
+#@ siiimple
+msgid "Footer Slider Source?"
+msgstr "Source curseur de bas de page?"
+
+#: admin/functions/functions.options.php:729
+#@ siiimple
+msgid "Add the name of the custom post you want the slider to show.  For example, if you want to use posts from the portfolio, write in \"portfolio\" (no quotes).  If you want to use from the gallery, write in \"gallery\".  If you want to use the blog posts, leave blank."
+msgstr "Ajoutez le nom du poste personnalisé que vous souhaitez le curseur à afficher. Par exemple, si vous souhaitez utiliser les messages du portefeuille, écrire dans  \"\" portefeuille (sans les guillemets). Si vous souhaitez utiliser dans la galerie, écrire dans  \"galerie \". Si vous souhaitez utiliser les billets de blog, laissez le champ vide."
+
+#: admin/functions/functions.options.php:735
+#@ siiimple
+msgid "Footer Text"
+msgstr "Pied de page du texte"
+
+#: admin/functions/functions.options.php:736
+#@ siiimple
+msgid "Add your own custom text/html for footer text (bottom left)"
+msgstr "Ajoutez votre propre texte personnalisé / html pour le texte pied de page (en bas à gauche)"
+
+#: admin/functions/functions.options.php:115
+#@ siiimple
+msgid "Tracking Code (Footer)"
+msgstr "Code de suivi (pied de page)"
+
+#: framework/functions/flickr-widget.php:10
+#@ default
+msgid "360 - Flickr"
+msgstr "360 - Flickr"
+
+#: framework/functions/flickr-widget.php:22
+#@ default
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr "Les photos sur flick <span> <span> r </ span> </ span>"
+
+#: framework/functions/flickr-widget.php:48
+#@ siiimple
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "Flickr ID (<a href=\"http://www.idgettr.com\"> idGettr </ a>):"
+
+#: framework/functions/flickr-widget.php:52
+#@ default
+msgid "Number:"
+msgstr "Nombre:"
+
+#: framework/functions/flickr-widget.php:60
+#@ default
+msgid "Type:"
+msgstr "Type:"
+
+#: framework/functions/flickr-widget.php:62
+#@ default
+msgid "User"
+msgstr "Utilisateur"
+
+#: framework/functions/flickr-widget.php:63
+#@ default
+msgid "Group"
+msgstr "Groupe"
+
+#: framework/functions/flickr-widget.php:67
+#@ default
+msgid "Sorting:"
+msgstr "Tri:"
+
+#: framework/functions/flickr-widget.php:69
+#@ default
+msgid "Latest"
+msgstr "Dernier"
+
+#: framework/functions/flickr-widget.php:70
+#@ default
+msgid "Random"
+msgstr "Aléatoire"
+
+#: framework/functions/meta.php:119
+#: framework/functions/meta.php:124
+#@ siiimple
+msgid "Sidebar Options"
+msgstr "Options de la barre latérale"
+
+#: framework/functions/meta.php:125
+#@ siiimple
+msgid "Select to show a sidebar.  Be aware that Portfolio Templates do not have sidebars.  Sidebars can be added to Pages & Template Blog.  You can choose what to place within each sidebar by going to Appearance > Widgets > and then dragging and dropping the widgets into the sidebar areas. "
+msgstr "Sélectionnez pour afficher une barre latérale. Soyez conscient que des modèles de portefeuille n'ont pas encadrés. Encadrés peuvent être ajoutés à Pages Blog Template. Vous pouvez choisir ce qu'il faut mettre dans chaque panneau latéral en va Apparence> Widgets> puis en faisant glisser et en déposant les widgets dans les domaines de la barre latérale."
+
+#: framework/functions/meta.php:144
+#: framework/functions/meta.php:149
+#@ siiimple
+msgid "Comment System"
+msgstr "Commenter système"
+
+#: framework/functions/meta.php:150
+#@ siiimple
+msgid "You can choose between WordPress or Facebook comment system.  For Facebook, be sure to fill out your App ID, which is found once you create your Facebook Comment App.  See more instructions in the Theme Options area, under Comment System"
+msgstr "Vous pouvez choisir entre WordPress ou système de commentaires Facebook. Pour Facebook, n'oubliez pas de remplir votre identifiant d'application, qui se trouve une fois que vous créez votre App Commentaire Facebook. Voir plus d'instructions dans la zone Options de thème, en vertu du système Commentaire"
+
+#: framework/functions/meta.php:168
+#: framework/functions/meta.php:173
+#@ siiimple
+msgid "Page Options"
+msgstr "Options de la page"
+
+#: framework/functions/meta.php:174
+#@ siiimple
+msgid "Here you can add particular features to each page, like you would for posts (post formats).  Once you select this option, be sure to fill out the details in the corresponding meta box below.  For Video, simply fill in a video embed source url; for audio, fill in the path to where your audio file is stored.  For gallery, use the Featured Image uploader on the right and drag and drop all your images into that box - all the images will be stored in your gallery and appear atop this page."
+msgstr "Ici, vous pouvez ajouter des fonctionnalités propres à chaque page, comme vous le feriez pour les messages (formats de poste). Une fois que vous choisissez cette option, n'oubliez pas de remplir les détails dans la boîte méta correspondant ci-dessous. Pour la vidéo, il suffit de remplir une source url Intégrer la vidéo, car audio, indiquez le chemin à l'endroit où votre fichier audio est stocké. Pour la galerie, utilisez l'outil de téléchargement d'image en vedette sur la droite et faites glisser toutes vos images dans cette boîte - toutes les images seront stockées dans votre galerie et apparaissent au sommet de cette page."
+
+#: framework/functions/meta.php:194
+#@ framework
+msgid "Audio URL"
+msgstr "URL Audio"
+
+#: framework/functions/meta.php:199
+#@ framework
+msgid "MP3 File URL"
+msgstr "URL du fichier MP3"
+
+#: framework/functions/meta.php:200
+#@ framework
+msgid "The URL to the .mp3 audio file.  <br/><br/>Example:  http://www.themes.siiimple.com/23-Helter_Skelter.mp3"
+msgstr "L'URL du fichier. Fichier audio mp3. <br/> Exemple: http://www.themes.siiimple.com/23-Helter_Skelter.mp3"
+
+#: framework/functions/meta.php:204
+#@ framework
+msgid "OGA File URL"
+msgstr "URL du fichier OGA"
+
+#: framework/functions/meta.php:205
+#@ framework
+msgid "The URL to the .oga, .ogg audio file.  <br/><br/>Example:  http://www.themes.siiimple.com/23-Helter_Skelter.ogg"
+msgstr "L'URL du oga.,. Ogg fichier audio. <br/> Exemple: http://www.themes.siiimple.com/23-Helter_Skelter.ogg"
+
+#: framework/functions/meta.php:217
+#@ siiimple
+msgid "Social Media Bar"
+msgstr "Social Media Bar"
+
+#: framework/functions/meta.php:222
+#@ siiimple
+msgid "Social Media Options"
+msgstr "Options des médias sociaux"
+
+#: framework/functions/meta.php:223
+#@ siiimple
+msgid "Be sure to fill out the social icon details/url/etc. in the Theme Options area.  Leaving information empty will exclude that icon in the media bar."
+msgstr "Assurez-vous de remplir les détails icône sociaux / url / etc. Thème dans la zone Options. Laissant vide l'information va exclure que l'icône de la barre multimédia."
+
+#: framework/functions/meta.php:240
+#@ siiimple
+msgid "Show Video"
+msgstr "Voir la vidéo"
+
+#: framework/functions/meta.php:246
+#@ siiimple
+msgid "Video"
+msgstr "Vidéo"
+
+#: framework/functions/meta.php:247
+#@ siiimple
+msgid "For Blog Posts, make sure Video post format is chosen; for Pages make sure Video is selected in the Page Options above.  Be sure to use the url of the EMBED SRC URL - not the url to the video itself. <br/><br/> Example:  http://player.vimeo.com/video/41462515?title=0&amp;portrait=0&amp;color=bd0000"
+msgstr "Pour les messages blog, assurez-vous que le format vidéo après est choisi, car Pages faire que Vidéo est sélectionné dans les Options de la page ci-dessus. Assurez-vous d'utiliser l'url de l'URL EMBED SRC - pas l'url de la vidéo elle-même. <br/> Exemple: http://player.vimeo.com/video/41462515?title=0&portrait=0&color=bd0000<span style=\"font-size:12px; font-family:Helvetica Neue; Lien font-weight:bold\"> à la page </ span><span style=\"color:#dc5d5d\"> Au lieu de lier à la poste, vous pouvez ajouter un lien vers une page spécifique. </ span>"
+
+#: framework/functions/meta.php:276
+#@ siiimple
+msgid "<span style=\"font-size:12px; font-family:Helvetica Neue; font-weight:bold\">Link to Page</span>"
+msgstr "<span style=\"color:#dc5d5d\"> Au lieu de lier à la poste, vous pouvez ajouter un lien vers une page spécifique. </ span>"
+
+#: framework/functions/meta.php:294
+#@ siiimple
+msgid "Portfolio Item Excerpt"
+msgstr "Extrait d'article de portefeuille"
+
+#: framework/functions/meta.php:300
+#@ siiimple
+msgid "Portfolio Excerpt"
+msgstr "Extrait du portefeuille"
+
+#: framework/functions/meta.php:301
+#@ siiimple
+msgid "Add a brief excerpt to your portfolio item.  This will appear under the portfolio title."
+msgstr "Ajouter un bref extrait de votre article portefeuille. Celui-ci apparaîtra sous le titre portefeuille."
+
+#: framework/functions/portfolio-post-type.php:10
+#@ default
+msgid "portfolio"
+msgstr "portefeuille"
+
+#: framework/functions/portfolio-post-type.php:7
+#@ default
+msgid "filter"
+msgstr "filtrer"
+
+#: framework/functions/portfolio-post-type.php:15
+#: framework/functions/portfolio-post-type.php:16
+#@ default
+msgid "Filter"
+msgstr "filtrer"
+
+#: framework/functions/twitter-widget.php:10
+#@ default
+msgid "360 - Twitter Stream"
+msgstr "360 - Twitter Stream"
+
+#: framework/functions/twitter-widget.php:41
+#@ default
+msgid "Title:"
+msgstr "Titre:"
+
+#: framework/functions/twitter-widget.php:45
+#@ default
+msgid "Username:"
+msgstr "Nom d'utilisateur:"
+
+#: framework/functions/twitter-widget.php:49
+#@ default
+msgid "Limit:"
+msgstr "Limite:"
+
+#: framework/functions/video-sidebar-widgets/video-sidebar-widgets.php:25
+#@ siiimple
+msgid "A Video Widget to display video in sidebar from various video sharing networks"
+msgstr ""
+
+#: framework/functions/video-sidebar-widgets/video-sidebar-widgets.php:28
+#@ siiimple
+msgid "360 - Video Widget"
+msgstr "360 - Video Widget"
+
+#: framework/functions/video-sidebar-widgets/video-sidebar-widgets.php:399
+#@ siiimple
+msgid "A Random Video Widget. Randomly selects 1 of the 5 preset videos for display"
+msgstr "Une Video Widget pour afficher la vidéo dans la barre latérale de divers réseaux de partage de vidéo"
+
+#: framework/functions/video-sidebar-widgets/video-sidebar-widgets.php:401
+#@ siiimple
+msgid "360 - Random Video Widget"
+msgstr "360 - Vidéo Widget"
+
+#: framework/includes/single-left-right-sidebar.php:268
+#@ siiimple
+msgid "Sorry, no posts matched your criteria."
+msgstr "Désolé, aucun article ne correspond à vos critères."
+
+#: meta-box/meta-box.php:79
+#@ rwmb
+msgid "RW_Meta_Box Debug:"
+msgstr "Debug RW_Meta_Box:"
+
+#: meta-box/inc/classes/meta-box.php:326
+#@ rwmb
+msgid "+"
+msgstr "+"
+
+#: meta-box/inc/classes/meta-box.php:350
+#@ rwmb
+msgid "&#8211;"
+msgstr "&#8211;"
+
+#: meta-box/inc/fields/file.php:69
+#@ rwmb
+msgid "Error: Cannot delete file"
+msgstr "Erreur: Impossible de supprimer le fichier"
+
+#: meta-box/inc/fields/image.php:75
+#@ rwmb
+msgid "Order saved"
+msgstr "Commande enregistrée"
+
+#: admin/functions/functions.options.php:97
+#@ siiimple
+msgid "Select to enable or disable the responsive layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:110
+#@ siiimple
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the header template of your theme."
+msgstr ""
+
+#: admin/functions/functions.options.php:134
+#@ siiimple
+msgid "General Accent Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:135
+#@ siiimple
+msgid "You can set a general accent colors, hover, links, etc."
+msgstr ""
+
+#: admin/functions/functions.options.php:141
+#@ siiimple
+msgid "Page Icons Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:142
+#@ siiimple
+msgid "You can set the color for your icons that are used within the pages.  This does not apply to the icons in the menu area."
+msgstr ""
+
+#: admin/functions/functions.options.php:147
+#@ siiimple
+msgid "Page Icons Size"
+msgstr ""
+
+#: admin/functions/functions.options.php:148
+#@ siiimple
+msgid "You can change the size of the actual icons here that are located within the pages.  This does not apply for the icons in the menu.  Example: 14px"
+msgstr ""
+
+#: admin/functions/functions.options.php:162
+#: admin/functions/functions.options.php:168
+#@ siiimple
+msgid "Menu Styling"
+msgstr ""
+
+#: admin/functions/functions.options.php:174
+#@ siiimple
+msgid "Menu Text Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:175
+#@ siiimple
+msgid "Change the color of the header text."
+msgstr ""
+
+#: admin/functions/functions.options.php:180
+#@ siiimple
+msgid "Menu Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:181
+#@ siiimple
+msgid "Change the color of the header."
+msgstr ""
+
+#: admin/functions/functions.options.php:186
+#@ siiimple
+msgid "Menu General Border Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:187
+#@ siiimple
+msgid "Change the color of the border around the entire menu."
+msgstr ""
+
+#: admin/functions/functions.options.php:192
+#@ siiimple
+msgid "Menu Item Border Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:193
+#@ siiimple
+msgid "Change the color of the border between menu items."
+msgstr ""
+
+#: admin/functions/functions.options.php:198
+#@ siiimple
+msgid "Menu Icons Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:199
+#@ siiimple
+msgid "You can set the color for your icons that are used for the menu."
+msgstr ""
+
+#: admin/functions/functions.options.php:213
+#@ siiimple
+msgid "Blog Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:250
+#@ siiimple
+msgid "Portfolio Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:354
+#@ siiimple
+msgid "Template 360"
+msgstr ""
+
+#: admin/functions/functions.options.php:358
+#@ siiimple
+msgid "Enable or Disable Thumbnails"
+msgstr ""
+
+#: admin/functions/functions.options.php:359
+#@ siiimple
+msgid "Enable/Disable thumbnails.  If you only have one panoramic image and have no need for the gallery of images, then simply disable the thumbnails."
+msgstr ""
+
+#: admin/functions/functions.options.php:367
+#@ siiimple
+msgid "Enable or Disable Social Media Icons"
+msgstr ""
+
+#: admin/functions/functions.options.php:368
+#@ siiimple
+msgid "Enable/Disable social media on bottom of template."
+msgstr ""
+
+#: admin/functions/functions.options.php:374
+#@ siiimple
+msgid "Enable or Disable auto play"
+msgstr ""
+
+#: admin/functions/functions.options.php:375
+#@ siiimple
+msgid "Enable/Disable controls"
+msgstr ""
+
+#: admin/functions/functions.options.php:384
+#@ siiimple
+msgid "Template Home Blog"
+msgstr ""
+
+#: admin/functions/functions.options.php:387
+#@ siiimple
+msgid "Home Blog Tagline"
+msgstr ""
+
+#: admin/functions/functions.options.php:388
+#@ siiimple
+msgid "Introduce your home page with some text."
+msgstr ""
+
+#: admin/functions/functions.options.php:393
+#@ siiimple
+msgid "Home Blog Slider"
+msgstr ""
+
+#: admin/functions/functions.options.php:394
+#@ siiimple
+msgid "Here you can choose which area you wish to pull your main slider from."
+msgstr ""
+
+#: admin/functions/functions.options.php:400
+#@ siiimple
+msgid "Blog Header Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:408
+#: admin/functions/functions.options.php:411
+#@ siiimple
+msgid "Static Gallery"
+msgstr ""
+
+#: admin/functions/functions.options.php:412
+#@ siiimple
+msgid "Here you can choose which area you wish to pull your images from with this template."
+msgstr ""
+
+#: admin/functions/functions.options.php:431
+#@ siiimple
+msgid "Choose where you want to pull the images from."
+msgstr ""
+
+#: archive.php:52
+#@ siiimple
+msgid "Images"
+msgstr ""
+
+#: archive.php:54
+#@ siiimple
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:56
+#@ siiimple
+msgid "Asides"
+msgstr ""
+
+#: archive.php:58
+#@ siiimple
+msgid "Audios"
+msgstr ""
+
+#: archive.php:60
+#@ siiimple
+msgid "Links"
+msgstr ""
+
+#: archive.php:62
+#@ siiimple
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:64
+#@ siiimple
+msgid "Videos"
+msgstr ""
+
+#: framework/functions/meta.php:38
+#@ default
+msgid "Your favorite color"
+msgstr ""
+
+#: framework/functions/meta.php:39
+#@ default
+msgid "If you would prefer to select a custom background that is NOT an image, NOT the default background (which is the dark wood you see in the demo), or a Parallax option, then you can choose a specific color here.  <span style=\"color:red\">IMPORTANT:  Be sure to remove the \"#\" when choosing a different background option.  You do not have to remove the \"#\" if you are using a Featured Image background image, but you do have to remove it if you want to use the default background.</span>"
+msgstr ""
+
+#: framework/functions/meta.php:50
+#: framework/functions/meta.php:55
+#@ siiimple
+msgid "Background for Post"
+msgstr ""
+
+#: framework/functions/meta.php:82
+#@ default
+msgid "Your favorite background color for this post."
+msgstr ""
+
+#: framework/functions/meta.php:83
+#@ default
+msgid "If you would prefer to select a custom background that is NOT the Featured Image, NOT the default background (which is the dark wood you see in the demo), or a Parallax option, then you can choose a specific color here.  <span style=\"color:red\">IMPORTANT:  Be sure to remove the \"#\" when choosing a different background option, such as Parallax background.  If you use the Featured Image, no need to remove \"#\".</span>"
+msgstr ""
+
+#: framework/functions/meta.php:94
+#: framework/functions/meta.php:99
+#@ siiimple
+msgid "Parallax"
+msgstr ""
+
+#: framework/functions/meta.php:258
+#@ siiimple
+msgid "Text for Panorama Gallery"
+msgstr ""
+
+#: framework/functions/meta.php:264
+#@ siiimple
+msgid "Text for First Image"
+msgstr ""
+
+#: framework/functions/meta.php:265
+#@ siiimple
+msgid "This is the intro text.  It is the description beneath the title for the first image.  All other images will use the title/content for new posts in the Panorama custom post type."
+msgstr ""
+
+#: framework/functions/meta.php:282
+#@ siiimple
+msgid "Link to Page"
+msgstr ""
+
+#: framework/functions/meta.php:283
+#@ siiimple
+msgid "Instead of linking to the post, you can add a link to a specific page."
+msgstr ""
+
+#: framework/functions/meta.php:312
+#@ framework
+msgid "Hotspot #1 (Template 360 Only)"
+msgstr ""
+
+#: framework/functions/meta.php:318
+#@ siiimple
+msgid "Hotspot 1 (Template 360 Only)"
+msgstr ""
+
+#: framework/functions/meta.php:319
+#: framework/functions/meta.php:347
+#: framework/functions/meta.php:374
+#: framework/functions/meta.php:402
+#: framework/functions/meta.php:430
+#@ default
+msgid "Image Coordinates:<br/>Add a hotspot to your image.  To do so, simply paste the coordinates where you want the hotspot to show.  Example:  200, 200.  (1st number is horizontal, second number is vertical.  0,0 = top left corner of the image."
+msgstr ""
+
+#: framework/functions/meta.php:323
+#@ siiimple
+msgid "Hotspot 1 Image URL"
+msgstr ""
+
+#: framework/functions/meta.php:324
+#: framework/functions/meta.php:352
+#: framework/functions/meta.php:379
+#: framework/functions/meta.php:407
+#: framework/functions/meta.php:435
+#@ siiimple
+msgid "Image Url:<br/>This is where you add your image url.  If you upload the image to your media gallery, simply copy and paste the url to your image and paste it in here."
+msgstr ""
+
+#: framework/functions/meta.php:328
+#@ siiimple
+msgid "Hotspot 1 Title"
+msgstr ""
+
+#: framework/functions/meta.php:329
+#: framework/functions/meta.php:357
+#: framework/functions/meta.php:384
+#: framework/functions/meta.php:412
+#: framework/functions/meta.php:440
+#@ siiimple
+msgid "Image Title:<br/>Add a title to your hotspot.  This will appear beneath the image that displays in the fancybox."
+msgstr ""
+
+#: framework/functions/meta.php:340
+#@ framework
+msgid "Hotspots #2 (Template 360 Only)"
+msgstr ""
+
+#: framework/functions/meta.php:346
+#@ siiimple
+msgid "Hotspot #2 (Template 360 Only)"
+msgstr ""
+
+#: framework/functions/meta.php:351
+#@ siiimple
+msgid "Hotspot 2 Image URL"
+msgstr ""
+
+#: framework/functions/meta.php:356
+#@ siiimple
+msgid "Hotspot 2 Title"
+msgstr ""
+
+#: framework/functions/meta.php:367
+#@ framework
+msgid "Hotspots #3 (Template 360 Only)"
+msgstr ""
+
+#: framework/functions/meta.php:373
+#@ siiimple
+msgid "Hotspot 3 (Template 360 Only)"
+msgstr ""
+
+#: framework/functions/meta.php:378
+#@ siiimple
+msgid "Hotspot 3 Image URL"
+msgstr ""
+
+#: framework/functions/meta.php:383
+#@ siiimple
+msgid "Hotspot 3 Title"
+msgstr ""
+
+#: framework/functions/meta.php:395
+#@ framework
+msgid "Hotspots #4 (Template 360 Only)"
+msgstr ""
+
+#: framework/functions/meta.php:401
+#@ siiimple
+msgid "Hotspot 4 (Template 360 Only)"
+msgstr ""
+
+#: framework/functions/meta.php:406
+#@ siiimple
+msgid "Hotspot 4 Image URL"
+msgstr ""
+
+#: framework/functions/meta.php:411
+#@ siiimple
+msgid "Hotspot 4 Title"
+msgstr ""
+
+#: framework/functions/meta.php:423
+#@ framework
+msgid "Hotspots #5 (Template 360 Only)"
+msgstr ""
+
+#: framework/functions/meta.php:429
+#@ siiimple
+msgid "Hotspot 5 (Template 360 Only)"
+msgstr ""
+
+#: framework/functions/meta.php:434
+#@ siiimple
+msgid "Hotspot 5 Image URL"
+msgstr ""
+
+#: framework/functions/meta.php:439
+#@ siiimple
+msgid "Hotspot 5 Title"
+msgstr ""
+
+#: framework/includes/single-full-width.php:215
+#: framework/includes/single-left-right-sidebar.php:233
+#: framework/includes/single-left-sidebar.php:232
+#: framework/includes/single-right-sidebar.php:212
+#@ siiimple
+msgid "About"
+msgstr ""
+
+#: framework/includes/single-full-width.php:250
+#: framework/includes/single-left-sidebar.php:267
+#: framework/includes/single-right-sidebar.php:247
+#: single-gallery.php:242
+#: single-portfolio.php:242
+#@ siiimple
+msgid "Sorry, nothing matches your criteria."
+msgstr ""
+
+#: meta-box/inc/fields/file.php:83
+#@ rwmb
+msgctxt "file upload"
+msgid "Uploaded files"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:84
+#@ rwmb
+msgctxt "file upload"
+msgid "Delete this file"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:85
+#@ rwmb
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:86
+#@ rwmb
+msgctxt "file upload"
+msgid "Upload files"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:87
+#@ rwmb
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:91
+#: meta-box/inc/fields/plupload-image.php:145
+#@ rwmb
+msgctxt "image upload"
+msgid "Uploaded files"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:92
+#: meta-box/inc/fields/plupload-image.php:111
+#@ rwmb
+msgctxt "image upload"
+msgid "Delete this file"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:93
+#: meta-box/inc/fields/plupload-image.php:112
+#@ rwmb
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:94
+#: meta-box/inc/fields/plupload-image.php:113
+#@ rwmb
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:95
+#: meta-box/inc/fields/plupload-image.php:146
+#@ rwmb
+msgctxt "image upload"
+msgid "Upload files"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:96
+#@ rwmb
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:94
+#@ rwmb
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:149
+#@ rwmb
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:150
+#@ rwmb
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:151
+#@ rwmb
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+

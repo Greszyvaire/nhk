@@ -569,7 +569,7 @@
 		#sorting-container a.active_sort { color:#fffae4; background:#839c18; }
 		#sorting-container a:hover, #sorting-container a.active_sort:hover { background:#786249; color:#fffae4; text-decoration:none; }
 		
-		.gallery-wrapper { float:left; clear:both; width:100%; margin:50px 0px 0px; }
+		.gallery-wrapper { float:left; clear:both; width:100%; margin:20px 0px 0px; }
 		.no-margin.gallery-entry { background:#e5deb0; padding:20px 1%; width:31.7%; padding-bottom:2000px; margin-bottom: -1970px; }
 		
 		.gallery-details-inner { position:relative; overflow:hidden; }

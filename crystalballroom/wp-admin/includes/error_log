@@ -1,0 +1,8 @@
+[29-Aug-2015 07:10:16 UTC] PHP Fatal error:  Call to a member function get_charset_collate() on a non-object in /home/newhongk/public_html/crystalballroom/wp-admin/includes/schema.php on line 20
+[29-Aug-2015 07:10:18 UTC] PHP Fatal error:  Call to a member function get_charset_collate() on a non-object in /home/newhongk/public_html/crystalballroom/wp-admin/includes/schema.php on line 20
+[29-Aug-2015 07:10:19 UTC] PHP Fatal error:  Call to a member function get_charset_collate() on a non-object in /home/newhongk/public_html/crystalballroom/wp-admin/includes/schema.php on line 20
+[29-Aug-2015 07:10:21 UTC] PHP Fatal error:  Call to a member function get_charset_collate() on a non-object in /home/newhongk/public_html/crystalballroom/wp-admin/includes/schema.php on line 20
+[30-Sep-2015 11:46:35 UTC] PHP Fatal error:  Call to a member function get_charset_collate() on a non-object in /home/newhongk/public_html/crystalballroom/wp-admin/includes/schema.php on line 20
+[30-Sep-2015 11:46:38 UTC] PHP Fatal error:  Call to a member function get_charset_collate() on a non-object in /home/newhongk/public_html/crystalballroom/wp-admin/includes/schema.php on line 20
+[30-Sep-2015 11:46:42 UTC] PHP Fatal error:  Call to a member function get_charset_collate() on a non-object in /home/newhongk/public_html/crystalballroom/wp-admin/includes/schema.php on line 20
+[30-Sep-2015 11:46:44 UTC] PHP Fatal error:  Call to a member function get_charset_collate() on a non-object in /home/newhongk/public_html/crystalballroom/wp-admin/includes/schema.php on line 20

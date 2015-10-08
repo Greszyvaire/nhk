@@ -16,37 +16,6 @@
     	<!-- **Content Full Width** -->
     	<div class="content content-full-width">  
         
-        	<!-- **Blog Header** -->
-        	<div class="blog-header">
-            	<ul class="cat-menu">
-                	<li><a href="#" title="" rel="toggle[categories]"> Categories <span class="arrow-down"> </span> </a></li>
-                    <li><a href="#" title="" rel="toggle[archives]"> Archive <span class="arrow-down"> </span></a>   </li>
-                </ul>
-                <div id="categories" class="categories-list">      
-                	<ul>
-                    	<li class="active"> <a href="blog.html" title=""> Thermal Spa <span> 10 </span> </a> </li>
-                        <li> <a href="blog.html" title=""> Leisure <span> 12 </span> </a> </li>
-                        <li> <a href="blog.html" title=""> Medical <span> 2 </span> </a> </li>
-                        <li> <a href="blog.html" title=""> Beach Side <span> 5 </span> </a> </li>
-                        <li> <a href="blog.html" title=""> Skin Care <span> 7 </span> </a> </li>
-                        <li> <a href="blog.html" title=""> Exoitic <span> 18 </span> </a> </li>
-                        <li> <a href="blog.html" title=""> All <span> 5 </span> </a> </li>
-                    </ul>                                      	
-                </div>
-                
-                <div id="archives" class="categories-list">
-                	<ul>
-                        <li><a title="July 2012" href="blog.html">July 2012</a></li>
-                        <li><a title="September 2008" href="blog.html">September 2008</a></li>
-                        <li><a title="June 2008" href="blog.html">June 2008</a></li>
-                        <li><a title="May 2008" href="blog.html">May 2008</a></li>
-                        <li><a title="April 2008" href="blog.html">April 2008</a></li>
-                        <li><a title="March 2008" href="blog.html">March 2008</a></li>
-					</ul>                
-                </div>
-            </div><!-- **Blog Header - End** -->
-            
-            <!-- **Blog Post** -->
             <div class="blog-post">
             	<div class="post-title">
                 	<h2> <a href="blog-single.html" title=""> The Refreshing Cool Spa with Accomodation </a> </h2>
@@ -155,14 +124,5 @@
         
         </div> <!-- **Content Full Width - End** -->   	
         
-        <!-- **Newsletter** -->
-        <div id="newsletter">
-        	<h2> Subscribe to Newsletter </h2>
-            <form action="#" method="get">
-            	<input name="name" type="text" onblur="this.value=(this.value=='') ? 'Enter Name' : this.value;" onfocus="this.value=(this.value=='Enter Name') ? '' : this.value;" value="Enter Name" />
-                <input name="name" type="text" onblur="this.value=(this.value=='') ? 'Enter Email Address' : this.value;" onfocus="this.value=(this.value=='Enter Email Address') ? '' : this.value;" value="Enter Email Address" />
-                <input name="submit" type="submit" value="Subscribe" />
-            </form>
-        </div><!-- **Newsletter - End** -->
         
     </div><!-- **Main Container - End** -->

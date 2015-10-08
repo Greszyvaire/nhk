@@ -1,0 +1,1050 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 360\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-27 22:20-0700\n"
+"PO-Revision-Date: 2012-08-28 12:11-0700\n"
+"Last-Translator: Justin Young <justinyoung44@gmail.com>\n"
+"Language-Team: Siiimple <themes.siiimple@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: 360\n"
+
+#: 360/archive.php:39
+msgid "Archive for the"
+msgstr "のためのアーカイブ"
+
+#: 360/archive.php:39
+msgid "Category"
+msgstr "カテゴリ"
+
+#: 360/archive.php:41
+msgid "Posts tagged"
+msgstr "タグ付きの投稿"
+
+#: 360/archive.php:43 360/archive.php:45 360/archive.php:47
+msgid "Archive for"
+msgstr "のためのアーカイブ"
+
+#: 360/archive.php:49
+msgid "Author Archive"
+msgstr "著者アーカイブ"
+
+#: 360/archive.php:51
+msgid "Blog Archives"
+msgstr "ブログのアーカイブ"
+
+#: 360/archive.php:107 360/archive.php:212 360/archive.php:281
+#: 360/archive.php:359 360/archive.php:437 360/content-aside.php:9
+#: 360/content-audio.php:62 360/content-gallery.php:46
+#: 360/content-image.php:27 360/content-video.php:33 360/content.php:28
+#: 360/search.php:90 360/search.php:195 360/search.php:264 360/search.php:342
+#: 360/search.php:420 360/framework/includes/blog-full-width.php:99
+#: 360/framework/includes/blog-full-width.php:203
+#: 360/framework/includes/blog-full-width.php:272
+#: 360/framework/includes/blog-full-width.php:349
+#: 360/framework/includes/single-left-right-sidebar.php:205
+#: 360/framework/includes/single-left-sidebar.php:204
+#: 360/framework/includes/single-right-sidebar.php:184
+msgid "Written by"
+msgstr "によって書かれた"
+
+#: 360/archive.php:109 360/archive.php:214 360/archive.php:283
+#: 360/archive.php:330 360/archive.php:361 360/archive.php:439
+#: 360/content-aside.php:11 360/content-audio.php:64
+#: 360/content-gallery.php:48 360/content-image.php:29 360/content-link.php:7
+#: 360/content-quote.php:7 360/content-video.php:35 360/content.php:30
+#: 360/search.php:92 360/search.php:197 360/search.php:266 360/search.php:313
+#: 360/search.php:344 360/search.php:422 360/template-viewer2.php:89
+#: 360/framework/includes/blog-full-width.php:101
+#: 360/framework/includes/blog-full-width.php:205
+#: 360/framework/includes/blog-full-width.php:274
+#: 360/framework/includes/blog-full-width.php:351
+#: 360/framework/includes/single-left-right-sidebar.php:207
+#: 360/framework/includes/single-left-sidebar.php:206
+#: 360/framework/includes/single-right-sidebar.php:186
+msgid "Posted"
+msgstr "掲示"
+
+#: 360/archive.php:109 360/archive.php:214 360/archive.php:283
+#: 360/archive.php:330 360/archive.php:361 360/archive.php:439
+#: 360/content-aside.php:11 360/content-audio.php:64
+#: 360/content-gallery.php:48 360/content-image.php:29 360/content-link.php:7
+#: 360/content-quote.php:7 360/content-video.php:35 360/content.php:30
+#: 360/search.php:92 360/search.php:197 360/search.php:266 360/search.php:313
+#: 360/search.php:344 360/search.php:422 360/template-viewer2.php:89
+#: 360/framework/includes/blog-full-width.php:101
+#: 360/framework/includes/blog-full-width.php:205
+#: 360/framework/includes/blog-full-width.php:274
+#: 360/framework/includes/blog-full-width.php:320
+#: 360/framework/includes/blog-full-width.php:351
+#: 360/framework/includes/single-full-width.php:186
+#: 360/framework/includes/single-left-right-sidebar.php:207
+#: 360/framework/includes/single-left-sidebar.php:206
+#: 360/framework/includes/single-right-sidebar.php:186
+msgid "ago"
+msgstr "前に"
+
+#: 360/archive.php:111 360/archive.php:215 360/archive.php:285
+#: 360/archive.php:363 360/archive.php:441 360/content-aside.php:13
+#: 360/content-audio.php:66 360/content-gallery.php:50
+#: 360/content-image.php:31 360/content-video.php:37 360/content.php:32
+#: 360/search.php:94 360/search.php:198 360/search.php:268 360/search.php:346
+#: 360/search.php:424 360/framework/includes/blog-full-width.php:102
+#: 360/framework/includes/blog-full-width.php:206
+#: 360/framework/includes/blog-full-width.php:275
+#: 360/framework/includes/blog-full-width.php:352
+#: 360/framework/includes/single-left-right-sidebar.php:208
+#: 360/framework/includes/single-left-sidebar.php:207
+#: 360/framework/includes/single-right-sidebar.php:187
+msgid "No comments yet"
+msgstr "まだコメントがありません"
+
+#: 360/archive.php:111 360/archive.php:215 360/archive.php:285
+#: 360/archive.php:363 360/archive.php:441 360/content-aside.php:13
+#: 360/content-audio.php:66 360/content-gallery.php:50
+#: 360/content-image.php:31 360/content-video.php:37 360/content.php:32
+#: 360/search.php:94 360/search.php:198 360/search.php:268 360/search.php:346
+#: 360/search.php:424 360/framework/includes/blog-full-width.php:102
+#: 360/framework/includes/blog-full-width.php:206
+#: 360/framework/includes/blog-full-width.php:275
+#: 360/framework/includes/blog-full-width.php:352
+#: 360/framework/includes/single-left-right-sidebar.php:208
+#: 360/framework/includes/single-left-sidebar.php:207
+#: 360/framework/includes/single-right-sidebar.php:187
+msgid "1 comment"
+msgstr "1のコメント"
+
+#: 360/archive.php:111 360/archive.php:215 360/archive.php:285
+#: 360/archive.php:363 360/archive.php:441 360/content-aside.php:13
+#: 360/content-audio.php:66 360/content-gallery.php:50
+#: 360/content-image.php:31 360/content-video.php:37 360/content.php:32
+#: 360/search.php:94 360/search.php:198 360/search.php:268 360/search.php:346
+#: 360/search.php:424 360/framework/includes/blog-full-width.php:102
+#: 360/framework/includes/blog-full-width.php:206
+#: 360/framework/includes/blog-full-width.php:275
+#: 360/framework/includes/blog-full-width.php:352
+#: 360/framework/includes/single-left-right-sidebar.php:208
+#: 360/framework/includes/single-left-sidebar.php:207
+#: 360/framework/includes/single-right-sidebar.php:187
+#, php-format
+msgid "% comments"
+msgstr "％のコメント"
+
+#: 360/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "この投稿はパスワードで保護されています。コメントを表示するにはパスワードを入力します。"
+
+#: 360/comments.php:35
+msgid "Leave A Reply"
+msgstr "返信を残す"
+
+#: 360/comments.php:42
+msgid "You must be"
+msgstr "あなたは、である必要があります"
+
+#: 360/comments.php:42
+msgid "logged in"
+msgstr "ログイン"
+
+#: 360/comments.php:42
+msgid "to post a comment."
+msgstr "コメントを投稿する。"
+
+#: 360/comments.php:50
+msgid "Logged in as"
+msgstr "としてログイン"
+
+#: 360/comments.php:50
+msgid "Log out of this account"
+msgstr "このアカウントからログアウト"
+
+#: 360/comments.php:50
+msgid "Log out"
+msgstr "ログアウト"
+
+#: 360/comments.php:53
+msgid "Username"
+msgstr "ユーザー名"
+
+#: 360/comments.php:55
+msgid "Email"
+msgstr "メール"
+
+#: 360/comments.php:57
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: 360/comments.php:64
+msgid "Post Comment"
+msgstr "コメントの投稿"
+
+#: 360/functions.php:62
+msgid "Main"
+msgstr "メイン"
+
+#: 360/search.php:35
+msgid "Search results"
+msgstr "検索結果"
+
+#: 360/search.php:470
+msgid "No posts found. Try a different search?"
+msgstr "投稿は見つかりませんでした。別の検索をお試しください？"
+
+#: 360/searchform.php:5
+msgid "Search Here..."
+msgstr "ここで検索..."
+
+#: 360/single-portfolio.php:232
+#: 360/framework/includes/single-full-width.php:240
+#: 360/framework/includes/single-left-right-sidebar.php:258
+#: 360/framework/includes/single-left-sidebar.php:257
+#: 360/framework/includes/single-right-sidebar.php:237
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: 360/admin/classes/class.options_machine.php:456
+msgid "Last Backup : "
+msgstr "最後のバックアップ："
+
+#: 360/admin/classes/class.options_machine.php:516
+msgid "Upload"
+msgstr "アップロード"
+
+#: 360/admin/front-end/options.php:42 360/admin/front-end/options.php:66
+msgid "Save All Changes"
+msgstr "すべての変更を保存"
+
+#: 360/admin/front-end/options.php:67
+msgid "Options Reset"
+msgstr "オプションをリセット"
+
+#: 360/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr "オプション"
+
+#: 360/admin/functions/functions.mediauploader.php:210
+#: 360/admin/functions/functions.options.php:275
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: 360/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr "以前にアップロードした"
+
+#: 360/admin/functions/functions.options.php:84
+msgid "General"
+msgstr "一般"
+
+#: 360/admin/functions/functions.options.php:87
+msgid "Main Logo Upload"
+msgstr "メインロゴのアップロード"
+
+#: 360/admin/functions/functions.options.php:88
+msgid "Upload your custom logo using the native media uploader, or define the URL directly"
+msgstr "ネイティブのメディアアップローダーを使用してカスタムロゴをアップロード、またはURLを直接定義する"
+
+#: 360/admin/functions/functions.options.php:94
+msgid "Enable or Disable Responsive Layout"
+msgstr "レスポンシブレイアウトを有効または無効にする"
+
+#: 360/admin/functions/functions.options.php:95
+msgid "Select to enable/disable the responsive layout"
+msgstr "敏感なレイアウトを有効/無効にする場合に選択し"
+
+#: 360/admin/functions/functions.options.php:102
+msgid "Custom Favicon"
+msgstr "カスタムファビコン"
+
+#: 360/admin/functions/functions.options.php:103
+msgid "Upload or past the URL for your custom favicon."
+msgstr "カスタムファビコンのURLをアップロードしたり、過去の"
+
+#: 360/admin/functions/functions.options.php:108
+msgid "Tracking Code (Header)"
+msgstr "トラッキングコード（ヘッダ）"
+
+#: 360/admin/functions/functions.options.php:109
+#: 360/admin/functions/functions.options.php:611
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr "ここでは、Google Analytics（または他の）トラッキングコードを貼り付けます。これは、に追加されますあなたのテーマのフッターテンプレート。"
+
+#: 360/admin/functions/functions.options.php:117
+msgid "Styling"
+msgstr "スタイリング"
+
+#: 360/admin/functions/functions.options.php:127
+msgid "General Color Scheme"
+msgstr "一般的なカラースキーム"
+
+#: 360/admin/functions/functions.options.php:128
+msgid "You can set a general color scheme that is different than the demo red."
+msgstr "あなたはデモ赤とは異なる一般的なカラースキームを設定することができます。"
+
+#: 360/admin/functions/functions.options.php:133
+msgid "Custom CSS"
+msgstr "カスタムCSS"
+
+#: 360/admin/functions/functions.options.php:134
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr "すぐにこのブロックに追加することによって、あなたのテーマにいくつかのCSSを追加します。"
+
+#: 360/admin/functions/functions.options.php:143
+msgid "Blog"
+msgstr "ブログ"
+
+#: 360/admin/functions/functions.options.php:146
+msgid "Blog Intro Text"
+msgstr "ブログイントロテキスト"
+
+#: 360/admin/functions/functions.options.php:147
+msgid "Add text to introduce this section."
+msgstr "このセクションを紹介するテキストを追加します。"
+
+#: 360/admin/functions/functions.options.php:152
+#: 360/admin/functions/functions.options.php:255
+#: 360/admin/functions/functions.options.php:300
+#: 360/admin/functions/functions.options.php:338
+msgid "Header Color"
+msgstr "ヘッダーの色"
+
+#: 360/admin/functions/functions.options.php:153
+#: 360/admin/functions/functions.options.php:256
+#: 360/admin/functions/functions.options.php:301
+#: 360/admin/functions/functions.options.php:339
+msgid "Change color of top header text.  For example, on a light background, use a darker text color.  For a darker background, use a lighter text color.  To revert back to the original, simply leave blank."
+msgstr "上部ヘッダーのテキストの色を変更します。たとえば、明るい背景に、暗いを使用テキストの色。暗い背景については、軽いテキストの色を使用しています。元に戻すには、単に空白にしておきます。"
+
+#: 360/admin/functions/functions.options.php:158
+#: 360/admin/functions/functions.options.php:261
+#: 360/admin/functions/functions.options.php:306
+#: 360/admin/functions/functions.options.php:344
+msgid "Header Sub Text Color"
+msgstr "ヘッダサブテキストの色"
+
+#: 360/admin/functions/functions.options.php:159
+#: 360/admin/functions/functions.options.php:262
+#: 360/admin/functions/functions.options.php:307
+#: 360/admin/functions/functions.options.php:345
+msgid "Change the color of the sub-text.  To revert back to the original, simply leave blank."
+msgstr "サブテキストの色を変更します。元に戻すには、単に空白にしておきます。"
+
+#: 360/admin/functions/functions.options.php:164
+#: 360/admin/functions/functions.options.php:267
+#: 360/admin/functions/functions.options.php:312
+#: 360/admin/functions/functions.options.php:350
+msgid "Header Sub Border Color"
+msgstr "ヘッダサブボーダーカラー"
+
+#: 360/admin/functions/functions.options.php:165
+#: 360/admin/functions/functions.options.php:268
+#: 360/admin/functions/functions.options.php:313
+#: 360/admin/functions/functions.options.php:351
+msgid "Change color of 1px border at top and bottom of the sub text.  This allows better control of your presentation, depending on the specific background image you wish to display.  To revert back to the original, simply leave blank."
+msgstr "サブテキストの上部と下部に1pxの境界線の色を変更します。これは、表示したい特定の背景イメージに応じて、プレゼンテーションをより良く制御することができます。元に戻すには、単に空白にしておきます。"
+
+#: 360/admin/functions/functions.options.php:174
+msgid "Custom Posts"
+msgstr "カスタム投稿"
+
+#: 360/admin/functions/functions.options.php:180
+msgid "Custom Post Types"
+msgstr "カスタムポストタイプ"
+
+#: 360/admin/functions/functions.options.php:185
+msgid "Portfolio Post Type Name"
+msgstr "ポートフォリオポストタイプ名"
+
+#: 360/admin/functions/functions.options.php:186
+msgid "This will change the name of your Portfolio post type in the admin area."
+msgstr "これは、管理エリア内のPortfolioのポストタイプの名前を変更します。"
+
+#: 360/admin/functions/functions.options.php:191
+msgid "Portfolio Post Type Slug"
+msgstr "ポートフォリオ投稿タイプスラッグ"
+
+#: 360/admin/functions/functions.options.php:192
+#: 360/admin/functions/functions.options.php:218
+#: 360/admin/functions/functions.options.php:230
+msgid "When you change the slug of a post type, be sure to refresh the permalink settings.  Go to Settings > Permalinks and simply hit Save Changes.  That will refresh your slug."
+msgstr "あなたがポストタイプのナメクジを変更した場合、パーマリンク設定をリフレッシュしてください。設定>パーマリンクに移動して、単純には、[Save Changes]を押してください。それはあなたのスラグをリフレッシュします。"
+
+#: 360/admin/functions/functions.options.php:197
+msgid "Gallery Post Type Name"
+msgstr "ギャラリー投稿タイプ名"
+
+#: 360/admin/functions/functions.options.php:198
+#: 360/admin/functions/functions.options.php:224
+msgid "This will change the name of your Testimonials post type in the admin area."
+msgstr "これにより、管理区域内のあなたの声のポストタイプの名前を変更します。"
+
+#: 360/admin/functions/functions.options.php:204
+msgid "Gallery Post Type Slug"
+msgstr "ギャラリー投稿タイプスラッグ"
+
+#: 360/admin/functions/functions.options.php:205
+msgid "When you change the slug of a post type, be sure to refresh the permalink settings.  Go to Settings > Permalinks and simply hit Save Changes.  That will refresh your slug. "
+msgstr "あなたがポストタイプのナメクジを変更した場合、パーマリンク設定をリフレッシュしてください。設定>パーマリンクに移動して、単純には、[Save Changes]を押してください。それはあなたのスラグをリフレッシュします。"
+
+#: 360/admin/functions/functions.options.php:211
+msgid "Panorama Post Type Name"
+msgstr "パノラマポストタイプ名"
+
+#: 360/admin/functions/functions.options.php:212
+msgid "This will change the name of your Panorama post type in the admin area."
+msgstr "これにより、管理区域内のあなたのパノラマ·ポスト·タイプの名前を変更します。"
+
+#: 360/admin/functions/functions.options.php:217
+msgid "Panorama Post Type Slug"
+msgstr "パノラマ投稿タイプスラッグ"
+
+#: 360/admin/functions/functions.options.php:223
+msgid "Testimonials Post Type Name"
+msgstr "お客様の声ポストタイプ名"
+
+#: 360/admin/functions/functions.options.php:229
+msgid "Testimonials Post Type Slug"
+msgstr "お客様の声投稿タイプスラッグ"
+
+#: 360/admin/functions/functions.options.php:237
+#: 360/framework/functions/portfolio-post-type.php:10
+#: 360/framework/functions/portfolio-post-type.php:13
+msgid "Portfolio"
+msgstr "ポートフォリオ"
+
+#: 360/admin/functions/functions.options.php:240
+msgid "Portfolio Text"
+msgstr "ポートフォリオを見るText"
+
+#: 360/admin/functions/functions.options.php:241
+#: 360/admin/functions/functions.options.php:287
+#: 360/admin/functions/functions.options.php:325
+msgid "Add text to introduce this section.  Leave blank if you do not want to show."
+msgstr "このセクションを紹介するテキストを追加します。あなたが表示したくない場合は空欄にしてください。"
+
+#: 360/admin/functions/functions.options.php:247
+msgid "Portfolio Number"
+msgstr "ポートフォリオを見るNumber"
+
+#: 360/admin/functions/functions.options.php:248
+#: 360/admin/functions/functions.options.php:332
+msgid "How many portfolio posts do you wish to show?"
+msgstr "どのように多くのポートフォリオの投稿には、表示したいのですか？"
+
+#: 360/admin/functions/functions.options.php:283
+msgid "Image Viewer"
+msgstr "画像ビューアー"
+
+#: 360/admin/functions/functions.options.php:286
+msgid "Image Viewer Text"
+msgstr "イメージビューアテキスト"
+
+#: 360/admin/functions/functions.options.php:293
+msgid "Images Source?"
+msgstr "画像ソース？"
+
+#: 360/admin/functions/functions.options.php:294
+msgid "If you want to show images from either the \"gallery\" or the \"portfolio\", simply type in which you would prefer to pull images from.  If you have changed the slug & name of either the gallery or the portfolio, be sure to use the same slug here.  If you just want to pull from the portfolio - type in \"portfolio\" (no quotes).  If you want gallery, type in \"gallery.\"  If you want to pull from your blog, leave it blank."
+msgstr "あなたはどちらの\から画像を表示したい場合は \"ギャラリー\"または\ \"ポートフォリオ\"、あなたから画像を引っ張って希望する単純型。あなたがギャラリーやポートフォリオのいずれかのスラッグ＆名前を変更している場合は、ここで同じslugを使用するようにしてください。あなただけのポートフォリオを持ってくるようにしたいときには、 - \ \"ポートフォリオ\"（引用符なし）を入力します。あなたのギャラリーのように入力したい場合は\ \"ギャラリー。\"あなたのブログを取得したい場合は、空白のままにします。"
+
+#: 360/admin/functions/functions.options.php:321
+msgid "Testimonials"
+msgstr "お客様の声"
+
+#: 360/admin/functions/functions.options.php:324
+msgid "Testimonial Text"
+msgstr "声テキスト"
+
+#: 360/admin/functions/functions.options.php:331
+msgid "Testimonial Number"
+msgstr "表彰状数"
+
+#: 360/admin/functions/functions.options.php:359
+msgid "Comments"
+msgstr "注釈"
+
+#: 360/admin/functions/functions.options.php:363
+msgid "Facebook App ID"
+msgstr "FacebookのアプリケーションID"
+
+#: 360/admin/functions/functions.options.php:364
+msgid "Add your Facebook App ID here in order to properly show Facebook Comments on posts."
+msgstr "適切にFacebookコメントを表示するために、ここに自分のFacebook App IDを追加ポスト。"
+
+#: 360/admin/functions/functions.options.php:371
+msgid "Archives"
+msgstr "アーカイブズ"
+
+#: 360/admin/functions/functions.options.php:374
+msgid "Archives Background"
+msgstr "アーカイブの背景"
+
+#: 360/admin/functions/functions.options.php:375
+msgid "Upload a custom background to your archives page."
+msgstr "あなたのアーカイブページへのカスタム背景をアップロードします。"
+
+#: 360/admin/functions/functions.options.php:383
+msgid "Social"
+msgstr "ソーシャル"
+
+#: 360/admin/functions/functions.options.php:386
+msgid "Twitter"
+msgstr "ツイッター"
+
+#: 360/admin/functions/functions.options.php:387
+msgid "Add your twitter url."
+msgstr "あなたのtwitterのURLを追加します。"
+
+#: 360/admin/functions/functions.options.php:392
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: 360/admin/functions/functions.options.php:393
+msgid "Add your dribbble url."
+msgstr "あなたのdribbble URLを追加します。"
+
+#: 360/admin/functions/functions.options.php:398
+msgid "Forrst"
+msgstr "Forrst"
+
+#: 360/admin/functions/functions.options.php:399
+msgid "Add your forrst url."
+msgstr "あなたのforrst URLを追加します。"
+
+#: 360/admin/functions/functions.options.php:404
+msgid "Flickr"
+msgstr "Flickr"
+
+#: 360/admin/functions/functions.options.php:405
+msgid "Add your flickr url."
+msgstr "あなたのflickrのURLを追加します。"
+
+#: 360/admin/functions/functions.options.php:410
+msgid "Facebook"
+msgstr "Facebook"
+
+#: 360/admin/functions/functions.options.php:411
+msgid "Add your facebook url."
+msgstr "自分のFacebookのURLを追加します。"
+
+#: 360/admin/functions/functions.options.php:416
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: 360/admin/functions/functions.options.php:417
+msgid "Add your LinkedIn url."
+msgstr "LinkedInのURLを追加します"
+
+#: 360/admin/functions/functions.options.php:422
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: 360/admin/functions/functions.options.php:423
+msgid "Add your Google Plus url."
+msgstr "あなたのGoogle PlusのURLを追加します。"
+
+#: 360/admin/functions/functions.options.php:428
+msgid "Google"
+msgstr "Google"
+
+#: 360/admin/functions/functions.options.php:429
+msgid "Add your Google url."
+msgstr "あなたのGoogleのURLを追加します。"
+
+#: 360/admin/functions/functions.options.php:434
+msgid "Youtube"
+msgstr "Youtube"
+
+#: 360/admin/functions/functions.options.php:435
+msgid "Add your youtube url."
+msgstr "あなたのYouTubeのURLを追加します。"
+
+#: 360/admin/functions/functions.options.php:440
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: 360/admin/functions/functions.options.php:441
+msgid "Add your vimeo url."
+msgstr "あなたのVimeoのURLを追加します"
+
+#: 360/admin/functions/functions.options.php:446
+msgid "RSS"
+msgstr "Ajoutez votre site vimeo."
+
+#: 360/admin/functions/functions.options.php:447
+msgid "Add your rss url."
+msgstr "あなたのRSSのURLを追加します。"
+
+#: 360/admin/functions/functions.options.php:452
+msgid "Rdio"
+msgstr "Rdio"
+
+#: 360/admin/functions/functions.options.php:453
+msgid "Add your Rdio url."
+msgstr "あなたのRDIO URLを追加します。"
+
+#: 360/admin/functions/functions.options.php:458
+msgid "Skype"
+msgstr "Skype"
+
+#: 360/admin/functions/functions.options.php:459
+msgid "Add your Skype url."
+msgstr "SkypeのURLを追加します。"
+
+#: 360/admin/functions/functions.options.php:464
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: 360/admin/functions/functions.options.php:465
+msgid "Add your Stumbleupon url."
+msgstr "あなたのStumbleUponのURLを追加します。"
+
+#: 360/admin/functions/functions.options.php:470
+msgid "WordPress"
+msgstr "WordPress"
+
+#: 360/admin/functions/functions.options.php:471
+msgid "Add your WordPress url."
+msgstr "WordPressのURLを追加します."
+
+#: 360/admin/functions/functions.options.php:477
+msgid "Mail"
+msgstr "Courrier"
+
+#: 360/admin/functions/functions.options.php:478
+msgid "Add your mail/contact url."
+msgstr "あなたのメール/連絡先のURLを追加します。"
+
+#: 360/admin/functions/functions.options.php:485
+msgid "SEO"
+msgstr "SEO"
+
+#: 360/admin/functions/functions.options.php:488
+msgid "Apple Touch Icon 57x57"
+msgstr "アップルタッチアイコン57x57"
+
+#: 360/admin/functions/functions.options.php:489
+msgid "Upload or past the URL for your Apple Touch Icon.  There are three sizes to upload.  This size should be 57x57 of your logo.  This will help SEO value.  <span style=\"color:red\">*Important:  The name of this image should be \"apple-touch-icon.png\"</span>"
+msgstr "お使いのAppleのアイコンをタッチするためにアップロードまたはURLの過去。アップロードするには、次の3つのサイズがあります。"
+
+#: 360/admin/functions/functions.options.php:494
+msgid "Apple Touch Icon 72x72"
+msgstr "アップルタッチアイコン72x72"
+
+#: 360/admin/functions/functions.options.php:495
+msgid "Upload or past the URL for your Apple Touch Icon.  There are three sizes to upload.  This size should be 72x72 of your logo.  This will help SEO value.  <span style=\"color:red\">*Important:  The name of this image should be \"apple-touch-icon-72x72.png\"</span>"
+msgstr "お使いのAppleのアイコンをタッチするためにアップロードまたはURLの過去。アップロードするには、次の3つのサイズがあります。このサイズはあなたのロゴの72x72でなければなりません。これはSEOの価値を助けるでしょう。 <span style=\"color:red\"> *重要：このイメージの名前でなければなりません\ \"リンゴのタッチアイコン-72x72.png \" </ span>に"
+
+#: 360/admin/functions/functions.options.php:500
+msgid "Apple Touch Icon 114x114"
+msgstr "アップルタッチアイコン114x114"
+
+#: 360/admin/functions/functions.options.php:501
+msgid "Upload or past the URL for your Apple Touch Icon.  There are three sizes to upload.  This size should be 114x114 of your logo.  This will help SEO value.  <span style=\"color:red\">*Important:  The name of this image should be \"apple-touch-icon-114x114.png\"</span>"
+msgstr "お使いのAppleのアイコンをタッチするためにアップロードまたはURLの過去。アップロードするには、次の3つのサイズがあります。このサイズはあなたのロゴの114x114にする必要があります。これはSEOの価値を助けるでしょう。 <span style=\"color:red\"> *重要：このイメージの名前でなければなりません\ \"リンゴのタッチアイコン-114x114.png \" </ span>に"
+
+#: 360/admin/functions/functions.options.php:506
+msgid "Meta Description"
+msgstr "メタ記述"
+
+#: 360/admin/functions/functions.options.php:507
+msgid "Add a meta description.  This will appear in your header for better SEO value.  Be carefully descriptive."
+msgstr "メタ記述を追加します。これは、より良いSEOの価値のためのあなたのヘッダーに表示されます。ある注意深く記述。"
+
+#: 360/admin/functions/functions.options.php:512
+msgid "Meta Keywords"
+msgstr "メタキーワード"
+
+#: 360/admin/functions/functions.options.php:513
+msgid "Add a meta keywords.  This will appear in your header for better SEO value.  Provide a list of keywords that will allow your site to attract better SEO value."
+msgstr "メタキーワードを追加します。これは、より良いSEOの価値のためのあなたのヘッダーに表示されます。提供するあなたのサイトがより良いSEOの価値を誘致することができますキーワードのリスト"
+
+#: 360/admin/functions/functions.options.php:520
+msgid "Error Page"
+msgstr "エラーページ"
+
+#: 360/admin/functions/functions.options.php:523
+msgid "Add an Image"
+msgstr "画像を追加"
+
+#: 360/admin/functions/functions.options.php:524
+msgid "Upload your image."
+msgstr "あなたのイメージをアップロードします。"
+
+#: 360/admin/functions/functions.options.php:529
+msgid "404 Header"
+msgstr "404ヘッダー"
+
+#: 360/admin/functions/functions.options.php:530
+msgid "Add some custom 404 header."
+msgstr "いくつかのカスタム404ヘッダを追加します。"
+
+#: 360/admin/functions/functions.options.php:535
+msgid "404 Text"
+msgstr "404テキスト"
+
+#: 360/admin/functions/functions.options.php:536
+msgid "Add some custom 404 text."
+msgstr "いくつかのカスタム404のテキストを追加します。"
+
+#: 360/admin/functions/functions.options.php:543
+msgid "Under Construction"
+msgstr "アンダー·コンストラクション"
+
+#: 360/admin/functions/functions.options.php:546
+msgid "Enable or Disable Countdown Script"
+msgstr "アンダー·コンストラクション"
+
+#: 360/admin/functions/functions.options.php:547
+msgid "Select to enable/disable countdown script.  You will want this enabled if you are referring your page to a 503.php page, if your site is under construction."
+msgstr "カウントダウンスクリプトを有効または無効にするカウントダウンスクリプトの有効/無効を選択します。あなたのサイトが工事中である場合は、503.phpのページにあなたのページを参照している場合は、この対応が必要でしょう。"
+
+#: 360/admin/functions/functions.options.php:553
+msgid "503 Header"
+msgstr "503ヘッダー"
+
+#: 360/admin/functions/functions.options.php:554
+msgid "Add some custom 503 header."
+msgstr "503いくつかのカスタムヘッダを追加します。"
+
+#: 360/admin/functions/functions.options.php:559
+msgid "503 Text"
+msgstr "503テキスト"
+
+#: 360/admin/functions/functions.options.php:560
+msgid "Add some custom 503 text."
+msgstr "いくつかのカスタム503のテキストを追加します"
+
+#: 360/admin/functions/functions.options.php:565
+msgid "503 Year"
+msgstr "503年"
+
+#: 360/admin/functions/functions.options.php:566
+msgid "Add the year of the timer. Use numbers.  Example: 2012"
+msgstr "タイマーの年を追加します。番号を使用します。例：2012"
+
+#: 360/admin/functions/functions.options.php:571
+msgid "503 Month"
+msgstr "503月"
+
+#: 360/admin/functions/functions.options.php:572
+msgid "Add the month of the timer. Use numbers.  Example: July = 7"
+msgstr "タイマーの月を追加します。番号を使用します。例：7月= 7"
+
+#: 360/admin/functions/functions.options.php:577
+msgid "503 Day"
+msgstr "503日"
+
+#: 360/admin/functions/functions.options.php:578
+msgid "Add the day of the timer.  Use numbers.  Example: 4"
+msgstr "タイマーの曜日を追加します。番号を使用します。例：4"
+
+#: 360/admin/functions/functions.options.php:586
+msgid "Footer"
+msgstr "フッター"
+
+#: 360/admin/functions/functions.options.php:590
+msgid "Enable or Disable Footer Slider"
+msgstr "フッタースライダーを有効または無効にする"
+
+#: 360/admin/functions/functions.options.php:591
+msgid "Select to enable/disable the slider atop the Footer area."
+msgstr "フッターエリア上にスライダーを有効/無効にする場合に選択します。"
+
+#: 360/admin/functions/functions.options.php:597
+msgid "Footer Slider Source?"
+msgstr "フッタースライダーソース？"
+
+#: 360/admin/functions/functions.options.php:598
+msgid "Add the name of the custom post you want the slider to show.  For example, if you want to use posts from the portfolio, write in \"portfolio\" (no quotes).  If you want to use from the gallery, write in \"gallery\".  If you want to use the blog posts, leave blank."
+msgstr "スライダーを表示したいカスタムポストの名前を追加します。たとえば、次のような場合ポートフォリオからの投稿を使用したい場合は、\ \"ポートフォリオ\"（引用符なし）で書く。あなたがギャラリーから使用したい場合は、\ \"ギャラリー\"に記している。あなたがブログの記事を使用したい場合は、空白のままにします。"
+
+#: 360/admin/functions/functions.options.php:604
+msgid "Footer Text"
+msgstr "フッター·テキスト"
+
+#: 360/admin/functions/functions.options.php:605
+msgid "Add your own custom text/html for footer text (bottom left)"
+msgstr "フッターテキスト（左下）に独自のカスタムテキスト/ htmlを追加"
+
+#: 360/admin/functions/functions.options.php:610
+msgid "Tracking Code (Footer)"
+msgstr "トラッキングコード（フッター）"
+
+#: 360/framework/functions/flickr-widget.php:10
+msgid "360 - Flickr"
+msgstr "360 - Flickrの"
+
+#: 360/framework/functions/flickr-widget.php:22
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr "<SPAN>フリック上の写真の<span> R </ SPAN> </ SPAN>"
+
+#: 360/framework/functions/flickr-widget.php:48
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "FlickrのID（<a href=\"http://www.idgettr.com\"> idGettr </ a>を参照）："
+
+#: 360/framework/functions/flickr-widget.php:52
+msgid "Number:"
+msgstr "番号："
+
+#: 360/framework/functions/flickr-widget.php:60
+msgid "Type:"
+msgstr "種類："
+
+#: 360/framework/functions/flickr-widget.php:62
+msgid "User"
+msgstr "ユーザー"
+
+#: 360/framework/functions/flickr-widget.php:63
+msgid "Group"
+msgstr "グループ"
+
+#: 360/framework/functions/flickr-widget.php:67
+msgid "Sorting:"
+msgstr "ソート："
+
+#: 360/framework/functions/flickr-widget.php:69
+msgid "Latest"
+msgstr "最新の"
+
+#: 360/framework/functions/flickr-widget.php:70
+msgid "Random"
+msgstr "ランダム"
+
+#: 360/framework/functions/meta.php:32 360/framework/functions/meta.php:37
+msgid "Sidebar Options"
+msgstr "サイドバーのオプション"
+
+#: 360/framework/functions/meta.php:38
+msgid "Select to show a sidebar.  Be aware that Portfolio Templates do not have sidebars.  Sidebars can be added to Pages & Template Blog.  You can choose what to place within each sidebar by going to Appearance > Widgets > and then dragging and dropping the widgets into the sidebar areas. "
+msgstr "サイドバーを表示するように選択します。ポートフォリオテンプレートのサイドバーを持っていないことに注意してください。サイドバーは、ページとテンプレートのブログに追加することができます。あなたは、外観>ウィジェット>とその後のサイドバー領域にウィジェットをドラッグアンドドロップに行くことによって、それぞれのサイドバー内に配置するかを選択することができます。"
+
+#: 360/framework/functions/meta.php:57 360/framework/functions/meta.php:62
+msgid "Comment System"
+msgstr "コメントシステム"
+
+#: 360/framework/functions/meta.php:63
+msgid "You can choose between WordPress or Facebook comment system.  For Facebook, be sure to fill out your App ID, which is found once you create your Facebook Comment App.  See more instructions in the Theme Options area, under Comment System"
+msgstr "もしあなたがWordPressやFacebookコメントシステムを選択することができます。 Facebookには、あなたのFacebookコメントアプリを作成したら、発見された自分のApp IDを記入してください。コメントの下のテーマのオプション領域の詳細な手順を参照してくださいシステム"
+
+#: 360/framework/functions/meta.php:81 360/framework/functions/meta.php:86
+msgid "Page Options"
+msgstr "ページオプション"
+
+#: 360/framework/functions/meta.php:87
+msgid "Here you can add particular features to each page, like you would for posts (post formats).  Once you select this option, be sure to fill out the details in the corresponding meta box below.  For Video, simply fill in a video embed source url; for audio, fill in the path to where your audio file is stored.  For gallery, use the Featured Image uploader on the right and drag and drop all your images into that box - all the images will be stored in your gallery and appear atop this page."
+msgstr "ここには、支柱（ポスト形式）の場合と同じように、各ページに特定の機能を追加することができます。このオプションを選択すると、以下の対応するメタボックスに詳細を記入してください。ビデオの場合は、単にビデオを埋め込むソースURLを記入し、オーディオのために、あなたのオーディオファイルが保存されている場所へのパスを記入します。ギャラリーのために、右側におすすめのアップローダーを使用して、そのボックスにすべてのあなたのイメージをドラッグ·アンド·ドロップ - すべての画像はギャラリーに保存され、このページ上に表示されます。"
+
+#: 360/framework/functions/meta.php:107
+msgid "Audio URL"
+msgstr "音声のURL"
+
+#: 360/framework/functions/meta.php:112
+msgid "MP3 File URL"
+msgstr "MP3ファイルのURL"
+
+#: 360/framework/functions/meta.php:113
+msgid "The URL to the .mp3 audio file.  <br/><br/>Example:  http://www.themes.siiimple.com/23-Helter_Skelter.mp3"
+msgstr "。mp3オーディオファイルへのURL。あったら、例に<br/>：http://www.themes.siiimple.com/23-Helter_Skelter.mp3"
+
+#: 360/framework/functions/meta.php:117
+msgid "OGA File URL"
+msgstr "OGAファイルのURL"
+
+#: 360/framework/functions/meta.php:118
+msgid "The URL to the .oga, .ogg audio file.  <br/><br/>Example:  http://www.themes.siiimple.com/23-Helter_Skelter.ogg"
+msgstr "。男鹿。oggのオーディオファイルへのURL。あったら、例に<br/>：http://www.themes.siiimple.com/23-Helter_Skelter.ogg"
+
+#: 360/framework/functions/meta.php:130
+msgid "Social Media Bar"
+msgstr "ソーシャルメディアバー"
+
+#: 360/framework/functions/meta.php:135
+msgid "Social Media Options"
+msgstr "ソーシャルメディアオプション"
+
+#: 360/framework/functions/meta.php:136
+msgid "Be sure to fill out the social icon details/url/etc. in the Theme Options area.  Leaving information empty will exclude that icon in the media bar."
+msgstr "社会的なアイコンの詳細/ URL / etcをご記入してください。テーマオプション沿いに位置している。残す空の情報は、メディアバーにそのアイコンを除外します。"
+
+#: 360/framework/functions/meta.php:153
+msgid "Show Video"
+msgstr "ビデオを表示"
+
+#: 360/framework/functions/meta.php:159
+msgid "Video"
+msgstr "ビデオ"
+
+#: 360/framework/functions/meta.php:160
+msgid "For Blog Posts, make sure Video post format is chosen; for Pages make sure Video is selected in the Page Options above.  Be sure to use the url of the EMBED SRC URL - not the url to the video itself. <br/><br/> Example:  http://player.vimeo.com/video/41462515?title=0&amp;portrait=0&amp;color=bd0000"
+msgstr "ブログの投稿については、ビデオポスト形式が選択されていることを確認し、ページは必ずビデオを作るために上記のページのオプションで選択されている。ビデオ自体にいないURL - EMBED SRC URLのURLを必ず使用してください。あったら、例に<br/>：http://player.vimeo.com/video/41462515?title=0&portrait=0&color=bd0000"
+
+#: 360/framework/functions/meta.php:171 360/framework/functions/meta.php:177
+msgid "<span style=\"font-size:12px; font-family:Helvetica Neue; font-weight:bold\">Link to Page</span>"
+msgstr "<span style=\"font-size:12px; font-family:HelveticaへNeue; font-weight:bold\">リンクページ</ span>の"
+
+#: 360/framework/functions/meta.php:178
+msgid "<span style=\"color:#dc5d5d\">Instead of linking to the post, you can add a link to a specific page.</span>"
+msgstr "その代わりに、ポストへのリンクの<span style=\"color:#dc5d5d\">、あなたはへのリンクを追加することができます特定のページに移動します。</ span>の"
+
+#: 360/framework/functions/meta.php:189
+msgid "Portfolio Item Excerpt"
+msgstr "ポートフォリオ項目の抜粋"
+
+#: 360/framework/functions/meta.php:195
+msgid "Portfolio Excerpt"
+msgstr "ポートフォリオの抜粋"
+
+#: 360/framework/functions/meta.php:196
+msgid "Add a brief excerpt to your portfolio item.  This will appear under the portfolio title."
+msgstr "あなたのポートフォリオ項目に短い抜粋を追加します。これは、ポートフォリオのタイトルの下に表示されます。"
+
+#: 360/framework/functions/portfolio-post-type.php:19
+#: 360/framework/functions/portfolio-post-type.php:92
+#: 360/framework/functions/portfolio-post-type.php:101
+#: 360/framework/functions/portfolio-post-type.php:147
+msgid "portfolio"
+msgstr "ポートフォリオ"
+
+#: 360/framework/functions/portfolio-post-type.php:27
+msgid "Edit Portfolio Item"
+msgstr "Portfolioのアイテムの編集"
+
+#: 360/framework/functions/portfolio-post-type.php:30
+msgid "New Portfolio Item"
+msgstr "新しいポートフォリオアイテム"
+
+#: 360/framework/functions/portfolio-post-type.php:33
+msgid "View Portfolio"
+msgstr "ポートフォリオを見る"
+
+#: 360/framework/functions/portfolio-post-type.php:36
+msgid "Search Portfolio"
+msgstr "検索ポートフォリオ"
+
+#: 360/framework/functions/portfolio-post-type.php:39
+msgid "No Portfolio Items Found"
+msgstr "見つかりポートフォリオ品目なし"
+
+#: 360/framework/functions/portfolio-post-type.php:42
+msgid "No Portfolio Items Found In Trash"
+msgstr "ゴミ箱で発見Portfolioのアイテムはありません"
+
+#: 360/framework/functions/portfolio-post-type.php:107
+#, php-format
+msgid "Portfolio Updated. <a href=\"%s\">View portfolio</a>"
+msgstr "ポートフォリオを更新しました。 <a href=\"%s\">ポートフォリオを表示</ a>を"
+
+#: 360/framework/functions/portfolio-post-type.php:110
+msgid "Custom Field Updated."
+msgstr "カスタムフィールドが更新されました。"
+
+#: 360/framework/functions/portfolio-post-type.php:113
+msgid "Custom Field Deleted."
+msgstr "カスタムフィールドが削除されました。"
+
+#: 360/framework/functions/portfolio-post-type.php:116
+msgid "Portfolio Updated."
+msgstr "ポートフォリオを更新しました。"
+
+#: 360/framework/functions/portfolio-post-type.php:119
+#, php-format
+msgid "Portfolio Restored To Revision From %s"
+msgstr "ポートフォリオは、％sのリビジョンに復元"
+
+#: 360/framework/functions/portfolio-post-type.php:122
+#, php-format
+msgid "Portfolio Published. <a href=\"%s\">View Portfolio</a>"
+msgstr "ポートフォリオを公開しました。 <a href=\"%s\">ポートフォリオを表示</ a>を"
+
+#: 360/framework/functions/portfolio-post-type.php:125
+msgid "Portfolio Saved."
+msgstr "ポートフォリオを保存しました。"
+
+#: 360/framework/functions/portfolio-post-type.php:128
+#, php-format
+msgid "Portfolio Submitted. <a target=\"_blank\" href=\"%s\">Preview Portfolio</a>"
+msgstr "ポートフォリオには、提出されます。 <a target=\"_blank\" href=\"%s\">プレビューポートフォリオ</ a>を"
+
+#: 360/framework/functions/portfolio-post-type.php:131
+#, php-format
+msgid "Portfolio Scheduled For: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Portfolio</a>"
+msgstr "に予定されてポートフォリオ：<strong>の％1 $ sの</ strong>]をクリックします。 <ターゲット= \ \"_blank \"のhref = \ \"％2 $ s \"は>プレビューポートフォリオ</ a>を"
+
+#: 360/framework/functions/portfolio-post-type.php:131
+msgid "M j, Y @ G:i"
+msgstr "M jは、Y @ G："
+
+#: 360/framework/functions/portfolio-post-type.php:134
+#, php-format
+msgid "Portfolio Draft Updated. <a target=\"_blank\" href=\"%s\">Preview Portfolio</a>"
+msgstr "ポートフォリオドラフトを更新しました。 <a target=\"_blank\" href=\"%s\">プレビューポートフォリオ</ a>を"
+
+#: 360/framework/functions/portfolio-post-type.php:144
+msgid "filter"
+msgstr "フィルター"
+
+#: 360/framework/functions/portfolio-post-type.php:152
+#: 360/framework/functions/portfolio-post-type.php:153
+msgid "Filter"
+msgstr "フィルター"
+
+#: 360/framework/functions/twitter-widget.php:10
+msgid "360 - Twitter Stream"
+msgstr "360 - Twitterのストリーム"
+
+#: 360/framework/functions/twitter-widget.php:41
+msgid "Title:"
+msgstr "タイトル："
+
+#: 360/framework/functions/twitter-widget.php:45
+msgid "Username:"
+msgstr "ユーザー名："
+
+#: 360/framework/functions/twitter-widget.php:49
+msgid "Limit:"
+msgstr "制限："
+
+#: 360/framework/functions/video-sidebar-widgets/video-sidebar-widgets.php:25
+msgid "A Video Widget to display video in sidebar from various video sharing networks"
+msgstr "のためのアーカイブ"
+
+#: 360/framework/functions/video-sidebar-widgets/video-sidebar-widgets.php:28
+msgid "360 - Video Widget"
+msgstr "360 - Video Widget"
+
+#: 360/framework/functions/video-sidebar-widgets/video-sidebar-widgets.php:399
+msgid "A Random Video Widget. Randomly selects 1 of the 5 preset videos for display"
+msgstr "様々な動画共有ネットワークからサイドバーにビデオを表示するビデオは、ウィジェット"
+
+#: 360/framework/functions/video-sidebar-widgets/video-sidebar-widgets.php:401
+msgid "360 - Random Video Widget"
+msgstr "360 - ビデオウィジェット"
+
+#: 360/framework/includes/single-left-right-sidebar.php:268
+msgid "Sorry, no posts matched your criteria."
+msgstr "申し訳ありませんが、記事を検索条件と一致しました"
+
+#: 360/meta-box/meta-box.php:79
+msgid "RW_Meta_Box Debug:"
+msgstr "RW_Meta_Boxデバッグ："
+
+#: 360/meta-box/inc/classes/meta-box.php:326
+msgid "+"
+msgstr "+"
+
+#: 360/meta-box/inc/classes/meta-box.php:350
+msgid "&#8211;"
+msgstr "&#8211;"
+
+#: 360/meta-box/inc/fields/file.php:69
+msgid "Error: Cannot delete file"
+msgstr "エラー：ファイルを削除できません"
+
+#: 360/meta-box/inc/fields/image.php:75
+msgid "Order saved"
+msgstr "オーダー保存"
+

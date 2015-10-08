@@ -1,0 +1,4 @@
+[02-May-2014 02:25:27 UTC] PHP Fatal error:  Call to undefined function query_posts() in /home/newhongk/public_html/crystalballroom/wp-content/themes/360/framework/includes/home/home-blog-full-width.php on line 5
+[02-May-2014 07:20:22 UTC] PHP Fatal error:  Call to undefined function query_posts() in /home/newhongk/public_html/crystalballroom/wp-content/themes/360/framework/includes/home/home-blog-right-sidebar.php on line 5
+[02-May-2014 11:00:17 UTC] PHP Fatal error:  Call to undefined function query_posts() in /home/newhongk/public_html/crystalballroom/wp-content/themes/360/framework/includes/home/home-blog-left-sidebar.php on line 23
+[22-May-2014 07:07:45 UTC] PHP Fatal error:  Call to undefined function query_posts() in /home/newhongk/public_html/crystalballroom/wp-content/themes/360/framework/includes/home/home-blog-left-right-sidebar.php on line 23

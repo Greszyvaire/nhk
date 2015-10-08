@@ -1,0 +1,4 @@
+[01-May-2014 22:55:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/newhongk/public_html/crystalballroom/wp-content/themes/360/framework/meta-box/demo/better-include.php on line 53
+[01-May-2014 23:25:18 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/newhongk/public_html/crystalballroom/wp-content/themes/360/framework/meta-box/demo/demo.php on line 295
+[02-May-2014 01:10:51 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/newhongk/public_html/crystalballroom/wp-content/themes/360/framework/meta-box/demo/include-by-ID-or-page-template.php on line 44
+[06-Jun-2014 12:00:29 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/newhongk/public_html/crystalballroom/wp-content/themes/360/framework/meta-box/demo/all-custom-post-types.php on line 5

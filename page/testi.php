@@ -17,9 +17,6 @@
         <div class="content content-full-width"> 
         
             <h1 class="title"> <span> Testimoni </span> </h1>
-           
-            
-            <div class="hr_invisible"> </div>
             
             <div class="column two-third">
                 <div id="ajax_message"></div>
@@ -61,7 +58,7 @@
                         echo "<script>window.location ='testimoni.html' ;   </script>";
                         }else{
                         mysql_query("INSERT INTO testi(nama,pesan,email) VALUES('".$nama."','".$pesan."','".$email."')")or die(mysql_error());
-                        echo "<script> alert ('TERIMA KASIH SUDAH MEMBERIKAN TESTIMONI')</script> ";
+                        echo "<script> alert ('TERIMA KASIH SUDAH MEMBERIKAN TESTIMONI, tunggu beberapa saat kami akan mereview testimoni Anda dan akan segera mempublikasinya')</script> ";
                         echo "<script>window.location ='testimoni.html' ;   </script>";
                         }
                     }  
@@ -94,9 +91,9 @@
                 <div class="booknow-page">
                    <h1> Contact Details </h1>  
                     <ul class="contact-details">   
-                        <li> <span class="mail"> </span> <p> <a href="mailto:info@new-hongkongrestaurant.com" title=""> info@new-hongkongrestaurant.com </a> </p> </li>
-                        <li> <span class="phone"> </span> <p> ( 0341 ) - 362683 </p> </li>  
-                        <li> <span class="address"> </span> <p> Jl. A.R. Hakim 7-11, Malang </p> </li>                   
+                        <li><p> <a href="mailto:info@new-hongkongrestaurant.com" title=""> info@new-hongkongrestaurant.com </a> </p> </li>
+                        <li><p> ( 0341 ) - 362683 </p> </li>  
+                        <li><p> Jl. A.R. Hakim 7-11, Malang </p> </li>                   
                     </ul>
                 
                     <h1> Working Hours </h1>

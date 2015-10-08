@@ -1,0 +1,1050 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 360\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-27 22:20-0700\n"
+"PO-Revision-Date: 2012-08-29 12:17-0700\n"
+"Last-Translator: Justin Young <justinyoung44@gmail.com>\n"
+"Language-Team: Siiimple <themes.siiimple@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: 360\n"
+
+#: 360/archive.php:39
+msgid "Archive for the"
+msgstr "Archivo de la"
+
+#: 360/archive.php:39
+msgid "Category"
+msgstr "Categoría"
+
+#: 360/archive.php:41
+msgid "Posts tagged"
+msgstr "Posts tagged"
+
+#: 360/archive.php:43 360/archive.php:45 360/archive.php:47
+msgid "Archive for"
+msgstr "Archivo para"
+
+#: 360/archive.php:49
+msgid "Author Archive"
+msgstr "Archivo del Autor"
+
+#: 360/archive.php:51
+msgid "Blog Archives"
+msgstr "Archivo del blog"
+
+#: 360/archive.php:107 360/archive.php:212 360/archive.php:281
+#: 360/archive.php:359 360/archive.php:437 360/content-aside.php:9
+#: 360/content-audio.php:62 360/content-gallery.php:46
+#: 360/content-image.php:27 360/content-video.php:33 360/content.php:28
+#: 360/search.php:90 360/search.php:195 360/search.php:264 360/search.php:342
+#: 360/search.php:420 360/framework/includes/blog-full-width.php:99
+#: 360/framework/includes/blog-full-width.php:203
+#: 360/framework/includes/blog-full-width.php:272
+#: 360/framework/includes/blog-full-width.php:349
+#: 360/framework/includes/single-left-right-sidebar.php:205
+#: 360/framework/includes/single-left-sidebar.php:204
+#: 360/framework/includes/single-right-sidebar.php:184
+msgid "Written by"
+msgstr "Escrito por"
+
+#: 360/archive.php:109 360/archive.php:214 360/archive.php:283
+#: 360/archive.php:330 360/archive.php:361 360/archive.php:439
+#: 360/content-aside.php:11 360/content-audio.php:64
+#: 360/content-gallery.php:48 360/content-image.php:29 360/content-link.php:7
+#: 360/content-quote.php:7 360/content-video.php:35 360/content.php:30
+#: 360/search.php:92 360/search.php:197 360/search.php:266 360/search.php:313
+#: 360/search.php:344 360/search.php:422 360/template-viewer2.php:89
+#: 360/framework/includes/blog-full-width.php:101
+#: 360/framework/includes/blog-full-width.php:205
+#: 360/framework/includes/blog-full-width.php:274
+#: 360/framework/includes/blog-full-width.php:351
+#: 360/framework/includes/single-left-right-sidebar.php:207
+#: 360/framework/includes/single-left-sidebar.php:206
+#: 360/framework/includes/single-right-sidebar.php:186
+msgid "Posted"
+msgstr "Publicado"
+
+#: 360/archive.php:109 360/archive.php:214 360/archive.php:283
+#: 360/archive.php:330 360/archive.php:361 360/archive.php:439
+#: 360/content-aside.php:11 360/content-audio.php:64
+#: 360/content-gallery.php:48 360/content-image.php:29 360/content-link.php:7
+#: 360/content-quote.php:7 360/content-video.php:35 360/content.php:30
+#: 360/search.php:92 360/search.php:197 360/search.php:266 360/search.php:313
+#: 360/search.php:344 360/search.php:422 360/template-viewer2.php:89
+#: 360/framework/includes/blog-full-width.php:101
+#: 360/framework/includes/blog-full-width.php:205
+#: 360/framework/includes/blog-full-width.php:274
+#: 360/framework/includes/blog-full-width.php:320
+#: 360/framework/includes/blog-full-width.php:351
+#: 360/framework/includes/single-full-width.php:186
+#: 360/framework/includes/single-left-right-sidebar.php:207
+#: 360/framework/includes/single-left-sidebar.php:206
+#: 360/framework/includes/single-right-sidebar.php:186
+msgid "ago"
+msgstr "hace"
+
+#: 360/archive.php:111 360/archive.php:215 360/archive.php:285
+#: 360/archive.php:363 360/archive.php:441 360/content-aside.php:13
+#: 360/content-audio.php:66 360/content-gallery.php:50
+#: 360/content-image.php:31 360/content-video.php:37 360/content.php:32
+#: 360/search.php:94 360/search.php:198 360/search.php:268 360/search.php:346
+#: 360/search.php:424 360/framework/includes/blog-full-width.php:102
+#: 360/framework/includes/blog-full-width.php:206
+#: 360/framework/includes/blog-full-width.php:275
+#: 360/framework/includes/blog-full-width.php:352
+#: 360/framework/includes/single-left-right-sidebar.php:208
+#: 360/framework/includes/single-left-sidebar.php:207
+#: 360/framework/includes/single-right-sidebar.php:187
+msgid "No comments yet"
+msgstr "No hay comentarios todavía"
+
+#: 360/archive.php:111 360/archive.php:215 360/archive.php:285
+#: 360/archive.php:363 360/archive.php:441 360/content-aside.php:13
+#: 360/content-audio.php:66 360/content-gallery.php:50
+#: 360/content-image.php:31 360/content-video.php:37 360/content.php:32
+#: 360/search.php:94 360/search.php:198 360/search.php:268 360/search.php:346
+#: 360/search.php:424 360/framework/includes/blog-full-width.php:102
+#: 360/framework/includes/blog-full-width.php:206
+#: 360/framework/includes/blog-full-width.php:275
+#: 360/framework/includes/blog-full-width.php:352
+#: 360/framework/includes/single-left-right-sidebar.php:208
+#: 360/framework/includes/single-left-sidebar.php:207
+#: 360/framework/includes/single-right-sidebar.php:187
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: 360/archive.php:111 360/archive.php:215 360/archive.php:285
+#: 360/archive.php:363 360/archive.php:441 360/content-aside.php:13
+#: 360/content-audio.php:66 360/content-gallery.php:50
+#: 360/content-image.php:31 360/content-video.php:37 360/content.php:32
+#: 360/search.php:94 360/search.php:198 360/search.php:268 360/search.php:346
+#: 360/search.php:424 360/framework/includes/blog-full-width.php:102
+#: 360/framework/includes/blog-full-width.php:206
+#: 360/framework/includes/blog-full-width.php:275
+#: 360/framework/includes/blog-full-width.php:352
+#: 360/framework/includes/single-left-right-sidebar.php:208
+#: 360/framework/includes/single-left-sidebar.php:207
+#: 360/framework/includes/single-right-sidebar.php:187
+#, php-format
+msgid "% comments"
+msgstr "Comentarios%"
+
+#: 360/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Esta entrada está protegida. Introduzca la contraseña para ver los comentarios."
+
+#: 360/comments.php:35
+msgid "Leave A Reply"
+msgstr "Deja una respuesta"
+
+#: 360/comments.php:42
+msgid "You must be"
+msgstr "Usted debe ser"
+
+#: 360/comments.php:42
+msgid "logged in"
+msgstr "conectado"
+
+#: 360/comments.php:42
+msgid "to post a comment."
+msgstr "para escribir un comentario."
+
+#: 360/comments.php:50
+msgid "Logged in as"
+msgstr "Conectado como"
+
+#: 360/comments.php:50
+msgid "Log out of this account"
+msgstr "Desconectarse de esta cuenta"
+
+#: 360/comments.php:50
+msgid "Log out"
+msgstr "Finalizar la sesión"
+
+#: 360/comments.php:53
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: 360/comments.php:55
+msgid "Email"
+msgstr "Email"
+
+#: 360/comments.php:57
+msgid "Website"
+msgstr "Sitio web"
+
+#: 360/comments.php:64
+msgid "Post Comment"
+msgstr "Enviar un comentario"
+
+#: 360/functions.php:62
+msgid "Main"
+msgstr "Principal"
+
+#: 360/search.php:35
+msgid "Search results"
+msgstr "Resultados de la búsqueda"
+
+#: 360/search.php:470
+msgid "No posts found. Try a different search?"
+msgstr "No hay mensajes encontrados. Intente una búsqueda diferente?"
+
+#: 360/searchform.php:5
+msgid "Search Here..."
+msgstr "Buscar aquí ..."
+
+#: 360/single-portfolio.php:232
+#: 360/framework/includes/single-full-width.php:240
+#: 360/framework/includes/single-left-right-sidebar.php:258
+#: 360/framework/includes/single-left-sidebar.php:257
+#: 360/framework/includes/single-right-sidebar.php:237
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: 360/admin/classes/class.options_machine.php:456
+msgid "Last Backup : "
+msgstr "Última copia de seguridad:"
+
+#: 360/admin/classes/class.options_machine.php:516
+msgid "Upload"
+msgstr "Subir"
+
+#: 360/admin/front-end/options.php:42 360/admin/front-end/options.php:66
+msgid "Save All Changes"
+msgstr "Guardar todos los cambios"
+
+#: 360/admin/front-end/options.php:67
+msgid "Options Reset"
+msgstr "Opciones de Restablecer"
+
+#: 360/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr "Opciones"
+
+#: 360/admin/functions/functions.mediauploader.php:210
+#: 360/admin/functions/functions.options.php:275
+msgid "Gallery"
+msgstr "Galería"
+
+#: 360/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr "Subido anteriormente"
+
+#: 360/admin/functions/functions.options.php:84
+msgid "General"
+msgstr "General"
+
+#: 360/admin/functions/functions.options.php:87
+msgid "Main Logo Upload"
+msgstr "Logo Principal Subir"
+
+#: 360/admin/functions/functions.options.php:88
+msgid "Upload your custom logo using the native media uploader, or define the URL directly"
+msgstr "Sube tu logotipo personalizado utilizando el cargador de medios de comunicación indígena, o definir la dirección URL directamente"
+
+#: 360/admin/functions/functions.options.php:94
+msgid "Enable or Disable Responsive Layout"
+msgstr "Activar o desactivar el layout Responsive"
+
+#: 360/admin/functions/functions.options.php:95
+msgid "Select to enable/disable the responsive layout"
+msgstr "Seleccione esta opción para activar / desactivar el diseño sensible"
+
+#: 360/admin/functions/functions.options.php:102
+msgid "Custom Favicon"
+msgstr "Custom Favicon"
+
+#: 360/admin/functions/functions.options.php:103
+msgid "Upload or past the URL for your custom favicon."
+msgstr "Cargar o más allá de la URL de tu favicon personalizado."
+
+#: 360/admin/functions/functions.options.php:108
+msgid "Tracking Code (Header)"
+msgstr "Código de seguimiento (Cabecera)"
+
+#: 360/admin/functions/functions.options.php:109
+#: 360/admin/functions/functions.options.php:611
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr "Pegado de Google Analytics (u otro) código de seguimiento. Esto se añade a laplantilla de pie de página de su tema."
+
+#: 360/admin/functions/functions.options.php:117
+msgid "Styling"
+msgstr "Estilismo"
+
+#: 360/admin/functions/functions.options.php:127
+msgid "General Color Scheme"
+msgstr "Esquema de color general"
+
+#: 360/admin/functions/functions.options.php:128
+msgid "You can set a general color scheme that is different than the demo red."
+msgstr "Se puede establecer un esquema de color general que es diferente que el rojo de demostración."
+
+#: 360/admin/functions/functions.options.php:133
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: 360/admin/functions/functions.options.php:134
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr "Añadir rápidamente un poco de CSS para su tema añadiéndolo a este bloque."
+
+#: 360/admin/functions/functions.options.php:143
+msgid "Blog"
+msgstr "Blog"
+
+#: 360/admin/functions/functions.options.php:146
+msgid "Blog Intro Text"
+msgstr "Blog Intro Texto"
+
+#: 360/admin/functions/functions.options.php:147
+msgid "Add text to introduce this section."
+msgstr "Agregar texto a introducir esta sección."
+
+#: 360/admin/functions/functions.options.php:152
+#: 360/admin/functions/functions.options.php:255
+#: 360/admin/functions/functions.options.php:300
+#: 360/admin/functions/functions.options.php:338
+msgid "Header Color"
+msgstr "Jefe del color"
+
+#: 360/admin/functions/functions.options.php:153
+#: 360/admin/functions/functions.options.php:256
+#: 360/admin/functions/functions.options.php:301
+#: 360/admin/functions/functions.options.php:339
+msgid "Change color of top header text.  For example, on a light background, use a darker text color.  For a darker background, use a lighter text color.  To revert back to the original, simply leave blank."
+msgstr "Cambiar el color del texto del encabezado superior. Por ejemplo, sobre un fondo claro, utilice un tono más oscurotexto en color. Para un fondo más oscuro, utilizar un color de texto más ligero. Para volver a la original, simplemente deje en blanco."
+
+#: 360/admin/functions/functions.options.php:158
+#: 360/admin/functions/functions.options.php:261
+#: 360/admin/functions/functions.options.php:306
+#: 360/admin/functions/functions.options.php:344
+msgid "Header Sub Text Color"
+msgstr "Color del texto de encabezado Sub"
+
+#: 360/admin/functions/functions.options.php:159
+#: 360/admin/functions/functions.options.php:262
+#: 360/admin/functions/functions.options.php:307
+#: 360/admin/functions/functions.options.php:345
+msgid "Change the color of the sub-text.  To revert back to the original, simply leave blank."
+msgstr "Cambiar el color del texto del sub-. Para volver a la original, simplemente deje en blanco."
+
+#: 360/admin/functions/functions.options.php:164
+#: 360/admin/functions/functions.options.php:267
+#: 360/admin/functions/functions.options.php:312
+#: 360/admin/functions/functions.options.php:350
+msgid "Header Sub Border Color"
+msgstr "Encabezado Color del borde Sub"
+
+#: 360/admin/functions/functions.options.php:165
+#: 360/admin/functions/functions.options.php:268
+#: 360/admin/functions/functions.options.php:313
+#: 360/admin/functions/functions.options.php:351
+msgid "Change color of 1px border at top and bottom of the sub text.  This allows better control of your presentation, depending on the specific background image you wish to display.  To revert back to the original, simply leave blank."
+msgstr "Cambiar el color del borde de 1 píxel en la parte superior e inferior del texto secundario. Esto permite un mejor control de su presentación, en función de la imagen de fondo específico que desea mostrar. Para volver a la original, simplemente deje en blanco."
+
+#: 360/admin/functions/functions.options.php:174
+msgid "Custom Posts"
+msgstr "Mensajes personalizados"
+
+#: 360/admin/functions/functions.options.php:180
+msgid "Custom Post Types"
+msgstr "Tipos personalizados mensaje"
+
+#: 360/admin/functions/functions.options.php:185
+msgid "Portfolio Post Type Name"
+msgstr "Mensaje Portafolio Nombre Tipo"
+
+#: 360/admin/functions/functions.options.php:186
+msgid "This will change the name of your Portfolio post type in the admin area."
+msgstr "Esto va a cambiar el nombre de su tipo después de la cartera en el área de administración."
+
+#: 360/admin/functions/functions.options.php:191
+msgid "Portfolio Post Type Slug"
+msgstr "Mensaje Cartera Tipo Slug"
+
+#: 360/admin/functions/functions.options.php:192
+#: 360/admin/functions/functions.options.php:218
+#: 360/admin/functions/functions.options.php:230
+msgid "When you change the slug of a post type, be sure to refresh the permalink settings.  Go to Settings > Permalinks and simply hit Save Changes.  That will refresh your slug."
+msgstr "Cuando se cambia el trago de un tipo de mensaje, asegúrese de actualizar la configuración de enlace permanente. Ir a Ajustes> Permalinks y sólo tienes que presionar en Guardar cambios. Eso le refrescará la babosa."
+
+#: 360/admin/functions/functions.options.php:197
+msgid "Gallery Post Type Name"
+msgstr "Mensaje Gallery Nombre Tipo"
+
+#: 360/admin/functions/functions.options.php:198
+#: 360/admin/functions/functions.options.php:224
+msgid "This will change the name of your Testimonials post type in the admin area."
+msgstr "Esto va a cambiar el nombre de su tipo después de Testimonios en el área de administración."
+
+#: 360/admin/functions/functions.options.php:204
+msgid "Gallery Post Type Slug"
+msgstr "Mensaje Gallery Tipo Slug"
+
+#: 360/admin/functions/functions.options.php:205
+msgid "When you change the slug of a post type, be sure to refresh the permalink settings.  Go to Settings > Permalinks and simply hit Save Changes.  That will refresh your slug. "
+msgstr "Cuando se cambia el trago de un tipo de mensaje, asegúrese de actualizar la configuración de enlace permanente. Ir a Ajustes> Permalinks y sólo tienes que presionar en Guardar cambios. Eso le refrescará la babosa."
+
+#: 360/admin/functions/functions.options.php:211
+msgid "Panorama Post Type Name"
+msgstr "Mensaje Panorama Nombre Tipo"
+
+#: 360/admin/functions/functions.options.php:212
+msgid "This will change the name of your Panorama post type in the admin area."
+msgstr "Esto va a cambiar el nombre de su tipo después de Panorama en el área de administración."
+
+#: 360/admin/functions/functions.options.php:217
+msgid "Panorama Post Type Slug"
+msgstr "Mensaje Panorama Tipo Slug"
+
+#: 360/admin/functions/functions.options.php:223
+msgid "Testimonials Post Type Name"
+msgstr "Testimonios Mensaje Nombre Tipo"
+
+#: 360/admin/functions/functions.options.php:229
+msgid "Testimonials Post Type Slug"
+msgstr "Testimonios del anuncio Tipo Slug"
+
+#: 360/admin/functions/functions.options.php:237
+#: 360/framework/functions/portfolio-post-type.php:10
+#: 360/framework/functions/portfolio-post-type.php:13
+msgid "Portfolio"
+msgstr "Cartera"
+
+#: 360/admin/functions/functions.options.php:240
+msgid "Portfolio Text"
+msgstr "Cartera de texto"
+
+#: 360/admin/functions/functions.options.php:241
+#: 360/admin/functions/functions.options.php:287
+#: 360/admin/functions/functions.options.php:325
+msgid "Add text to introduce this section.  Leave blank if you do not want to show."
+msgstr "Agregar texto a introducir esta sección. Dejar en blanco si no desea mostrar."
+
+#: 360/admin/functions/functions.options.php:247
+msgid "Portfolio Number"
+msgstr "Cartera Número"
+
+#: 360/admin/functions/functions.options.php:248
+#: 360/admin/functions/functions.options.php:332
+msgid "How many portfolio posts do you wish to show?"
+msgstr "¿Cuántos mensajes de cartera qué quieres mostrar?"
+
+#: 360/admin/functions/functions.options.php:283
+msgid "Image Viewer"
+msgstr "Visor de imágenes"
+
+#: 360/admin/functions/functions.options.php:286
+msgid "Image Viewer Text"
+msgstr "Imagen Texto Visor"
+
+#: 360/admin/functions/functions.options.php:293
+msgid "Images Source?"
+msgstr "Imágenes de origen?"
+
+#: 360/admin/functions/functions.options.php:294
+msgid "If you want to show images from either the \"gallery\" or the \"portfolio\", simply type in which you would prefer to pull images from.  If you have changed the slug & name of either the gallery or the portfolio, be sure to use the same slug here.  If you just want to pull from the portfolio - type in \"portfolio\" (no quotes).  If you want gallery, type in \"gallery.\"  If you want to pull from your blog, leave it blank."
+msgstr "Si desea mostrar las imágenes, ya sea del \ \"galería \" o \ \"cartera \", simplemente escriba lo que usted prefiere tirar de imágenes. Si ha cambiado la babosa y nombre de cualquiera de la galería o portafolio del, asegúrese de utilizar el mismo slug aquí. Si lo que desea es sacar de la cartera - introduzca \ \"cartera \" (sin comillas). Si desea galería, escriba \ \"galería. \" Si quieres tirar de su blog, dejar en blanco."
+
+#: 360/admin/functions/functions.options.php:321
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: 360/admin/functions/functions.options.php:324
+msgid "Testimonial Text"
+msgstr "Texto Testimonial"
+
+#: 360/admin/functions/functions.options.php:331
+msgid "Testimonial Number"
+msgstr "Número Testimonial"
+
+#: 360/admin/functions/functions.options.php:359
+msgid "Comments"
+msgstr "Comentarios"
+
+#: 360/admin/functions/functions.options.php:363
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: 360/admin/functions/functions.options.php:364
+msgid "Add your Facebook App ID here in order to properly show Facebook Comments on posts."
+msgstr "Añade tu Facebook ID App aquí para mostrar correctamente en Facebook Commentspuestos."
+
+#: 360/admin/functions/functions.options.php:371
+msgid "Archives"
+msgstr "Archivo"
+
+#: 360/admin/functions/functions.options.php:374
+msgid "Archives Background"
+msgstr "Archivos de fondo"
+
+#: 360/admin/functions/functions.options.php:375
+msgid "Upload a custom background to your archives page."
+msgstr "Subir un fondo personalizado a tu página de archivos.Social"
+
+#: 360/admin/functions/functions.options.php:383
+msgid "Social"
+msgstr "Gorjeo"
+
+#: 360/admin/functions/functions.options.php:386
+msgid "Twitter"
+msgstr "Twitter"
+
+#: 360/admin/functions/functions.options.php:387
+msgid "Add your twitter url."
+msgstr "Añade tu url twitter."
+
+#: 360/admin/functions/functions.options.php:392
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: 360/admin/functions/functions.options.php:393
+msgid "Add your dribbble url."
+msgstr "Añade tu url dribbble."
+
+#: 360/admin/functions/functions.options.php:398
+msgid "Forrst"
+msgstr "Forrst"
+
+#: 360/admin/functions/functions.options.php:399
+msgid "Add your forrst url."
+msgstr "Añade tu url Forrst."
+
+#: 360/admin/functions/functions.options.php:404
+msgid "Flickr"
+msgstr "Flickr"
+
+#: 360/admin/functions/functions.options.php:405
+msgid "Add your flickr url."
+msgstr "Añade tu url flickr."
+
+#: 360/admin/functions/functions.options.php:410
+msgid "Facebook"
+msgstr "Facebook"
+
+#: 360/admin/functions/functions.options.php:411
+msgid "Add your facebook url."
+msgstr "Añade tu url de Facebook."
+
+#: 360/admin/functions/functions.options.php:416
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: 360/admin/functions/functions.options.php:417
+msgid "Add your LinkedIn url."
+msgstr "Añade tu url LinkedIn."
+
+#: 360/admin/functions/functions.options.php:422
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: 360/admin/functions/functions.options.php:423
+msgid "Add your Google Plus url."
+msgstr "Añade tu Google Plus url."
+
+#: 360/admin/functions/functions.options.php:428
+msgid "Google"
+msgstr "Google"
+
+#: 360/admin/functions/functions.options.php:429
+msgid "Add your Google url."
+msgstr "Añade tu url de Google."
+
+#: 360/admin/functions/functions.options.php:434
+msgid "Youtube"
+msgstr "Youtube"
+
+#: 360/admin/functions/functions.options.php:435
+msgid "Add your youtube url."
+msgstr "Añade tu url de youtube."
+
+#: 360/admin/functions/functions.options.php:440
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: 360/admin/functions/functions.options.php:441
+msgid "Add your vimeo url."
+msgstr "Añade tu url vimeo."
+
+#: 360/admin/functions/functions.options.php:446
+msgid "RSS"
+msgstr "RSS"
+
+#: 360/admin/functions/functions.options.php:447
+msgid "Add your rss url."
+msgstr "Añade tu url rss."
+
+#: 360/admin/functions/functions.options.php:452
+msgid "Rdio"
+msgstr "Rdio"
+
+#: 360/admin/functions/functions.options.php:453
+msgid "Add your Rdio url."
+msgstr "Añade tu url Rdio."
+
+#: 360/admin/functions/functions.options.php:458
+msgid "Skype"
+msgstr "Skype"
+
+#: 360/admin/functions/functions.options.php:459
+msgid "Add your Skype url."
+msgstr "Añade tu url Skype."
+
+#: 360/admin/functions/functions.options.php:464
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: 360/admin/functions/functions.options.php:465
+msgid "Add your Stumbleupon url."
+msgstr "Añade tu url Stumbleupon."
+
+#: 360/admin/functions/functions.options.php:470
+msgid "WordPress"
+msgstr "WordPress"
+
+#: 360/admin/functions/functions.options.php:471
+msgid "Add your WordPress url."
+msgstr "Añade tu url WordPress."
+
+#: 360/admin/functions/functions.options.php:477
+msgid "Mail"
+msgstr "Correo"
+
+#: 360/admin/functions/functions.options.php:478
+msgid "Add your mail/contact url."
+msgstr "Añade tu mail / contacto url."
+
+#: 360/admin/functions/functions.options.php:485
+msgid "SEO"
+msgstr "SEO"
+
+#: 360/admin/functions/functions.options.php:488
+msgid "Apple Touch Icon 57x57"
+msgstr "Apple Touch icono 57x57"
+
+#: 360/admin/functions/functions.options.php:489
+msgid "Upload or past the URL for your Apple Touch Icon.  There are three sizes to upload.  This size should be 57x57 of your logo.  This will help SEO value.  <span style=\"color:red\">*Important:  The name of this image should be \"apple-touch-icon.png\"</span>"
+msgstr "Cargar o más allá de la dirección URL del icono Touch de Apple. Hay tres tamaños para cargar.Este tamaño debe ser de 57x57 de su logotipo. Esto ayudará valor SEO. <Spanstyle = \ \"color: rojo \"> * Importante: El nombre de esta imagen debe ser \ \"apple-touch-icon.png \" </ span>"
+
+#: 360/admin/functions/functions.options.php:494
+msgid "Apple Touch Icon 72x72"
+msgstr "Apple Touch icono 72x72"
+
+#: 360/admin/functions/functions.options.php:495
+msgid "Upload or past the URL for your Apple Touch Icon.  There are three sizes to upload.  This size should be 72x72 of your logo.  This will help SEO value.  <span style=\"color:red\">*Important:  The name of this image should be \"apple-touch-icon-72x72.png\"</span>"
+msgstr "Cargar o más allá de la dirección URL del icono Touch de Apple. Hay tres tamaños para cargar. Este tamaño debe ser de 72x72 de su logotipo. Esto ayudará valor SEO. <span style=\"color:red\"> * Importante: El nombre de esta imagen debe ser \ \"apple-touch-icon-72x72.png \" </ span>"
+
+#: 360/admin/functions/functions.options.php:500
+msgid "Apple Touch Icon 114x114"
+msgstr "Apple Touch Icono 114x114"
+
+#: 360/admin/functions/functions.options.php:501
+msgid "Upload or past the URL for your Apple Touch Icon.  There are three sizes to upload.  This size should be 114x114 of your logo.  This will help SEO value.  <span style=\"color:red\">*Important:  The name of this image should be \"apple-touch-icon-114x114.png\"</span>"
+msgstr "Cargar o más allá de la dirección URL del icono Touch de Apple. Hay tres tamaños para cargar. Este tamaño debe ser de 114x114 de su logotipo. Esto ayudará valor SEO. <span style=\"color:red\"> * Importante: El nombre de esta imagen debe ser \ \"apple-touch-icon-114x114.png \" </ span>Meta DescriptionAñadir una descripción del meta. Esto aparecerá en el encabezado para una mejor relación calidad SEO. Sercuidadosamente descriptiva."
+
+#: 360/admin/functions/functions.options.php:506
+msgid "Meta Description"
+msgstr "Meta Keywords"
+
+#: 360/admin/functions/functions.options.php:507
+msgid "Add a meta description.  This will appear in your header for better SEO value.  Be carefully descriptive."
+msgstr "Añadir palabras clave meta. Esto aparecerá en el encabezado para una mejor relación calidad SEO. Proporcionaruna lista de palabras clave que le permitirá a su sitio para atraer mejor valor SEO."
+
+#: 360/admin/functions/functions.options.php:512
+msgid "Meta Keywords"
+msgstr "Meta Keywords"
+
+#: 360/admin/functions/functions.options.php:513
+msgid "Add a meta keywords.  This will appear in your header for better SEO value.  Provide a list of keywords that will allow your site to attract better SEO value."
+msgstr "Añadir palabras clave meta. Esto aparecerá en el encabezado para una mejor relación calidad SEO. Proporcionaruna lista de palabras clave que le permitirá a su sitio para atraer mejor valor SEO."
+
+#: 360/admin/functions/functions.options.php:520
+msgid "Error Page"
+msgstr "Error Page"
+
+#: 360/admin/functions/functions.options.php:523
+msgid "Add an Image"
+msgstr "Añadir imagen"
+
+#: 360/admin/functions/functions.options.php:524
+msgid "Upload your image."
+msgstr "Sube tu imagen."
+
+#: 360/admin/functions/functions.options.php:529
+msgid "404 Header"
+msgstr "404 Header"
+
+#: 360/admin/functions/functions.options.php:530
+msgid "Add some custom 404 header."
+msgstr "Agregue un poco de cabecera 404 personalizada."
+
+#: 360/admin/functions/functions.options.php:535
+msgid "404 Text"
+msgstr "404 Texto"
+
+#: 360/admin/functions/functions.options.php:536
+msgid "Add some custom 404 text."
+msgstr "Añadir un poco de texto 404 personalizada."
+
+#: 360/admin/functions/functions.options.php:543
+msgid "Under Construction"
+msgstr "En construcción"
+
+#: 360/admin/functions/functions.options.php:546
+msgid "Enable or Disable Countdown Script"
+msgstr "Habilitar o deshabilitar el script de cuenta atrás"
+
+#: 360/admin/functions/functions.options.php:547
+msgid "Select to enable/disable countdown script.  You will want this enabled if you are referring your page to a 503.php page, if your site is under construction."
+msgstr "Seleccione esta opción para activar / desactivar la escritura de cuenta atrás. Usted querrá esta habilitado si se está refiriendo a su página a una página 503.php, si su sitio está en construcción."
+
+#: 360/admin/functions/functions.options.php:553
+msgid "503 Header"
+msgstr "503 Header"
+
+#: 360/admin/functions/functions.options.php:554
+msgid "Add some custom 503 header."
+msgstr "Agregue un poco de costumbre cabecera 503."
+
+#: 360/admin/functions/functions.options.php:559
+msgid "503 Text"
+msgstr "503 Texto"
+
+#: 360/admin/functions/functions.options.php:560
+msgid "Add some custom 503 text."
+msgstr "Agregue un poco de costumbre 503 texto."
+
+#: 360/admin/functions/functions.options.php:565
+msgid "503 Year"
+msgstr "503 Año"
+
+#: 360/admin/functions/functions.options.php:566
+msgid "Add the year of the timer. Use numbers.  Example: 2012"
+msgstr "Añadir el año del temporizador. Utilice números. Ejemplo: 2012"
+
+#: 360/admin/functions/functions.options.php:571
+msgid "503 Month"
+msgstr "503 Mes"
+
+#: 360/admin/functions/functions.options.php:572
+msgid "Add the month of the timer. Use numbers.  Example: July = 7"
+msgstr "Añadir el mes del temporizador. Utilice números. Ejemplo: Julio = 7"
+
+#: 360/admin/functions/functions.options.php:577
+msgid "503 Day"
+msgstr "503 Días"
+
+#: 360/admin/functions/functions.options.php:578
+msgid "Add the day of the timer.  Use numbers.  Example: 4"
+msgstr "Añadir el día del temporizador. Utilice números. Ejemplo: 4"
+
+#: 360/admin/functions/functions.options.php:586
+msgid "Footer"
+msgstr "Pie de página"
+
+#: 360/admin/functions/functions.options.php:590
+msgid "Enable or Disable Footer Slider"
+msgstr "Activar o desactivar el control deslizante del pie de página"
+
+#: 360/admin/functions/functions.options.php:591
+msgid "Select to enable/disable the slider atop the Footer area."
+msgstr "Seleccione esta opción para activar / desactivar el control deslizante sobre el área de pie."
+
+#: 360/admin/functions/functions.options.php:597
+msgid "Footer Slider Source?"
+msgstr "Fuente deslizante pie de página?"
+
+#: 360/admin/functions/functions.options.php:598
+msgid "Add the name of the custom post you want the slider to show.  For example, if you want to use posts from the portfolio, write in \"portfolio\" (no quotes).  If you want to use from the gallery, write in \"gallery\".  If you want to use the blog posts, leave blank."
+msgstr "Agregue el nombre del puesto personalizada que desea el control deslizante para mostrar. Por ejemplo, si sedesea utilizar los mensajes de la cartera, escriba \ \"\" cartera (sin comillas). Si usted desea utilizar en la galería, escribir en \ \"galería \". Si desea utilizar las entradas del blog, deje en blanco."
+
+#: 360/admin/functions/functions.options.php:604
+msgid "Footer Text"
+msgstr "Texto del pie"
+
+#: 360/admin/functions/functions.options.php:605
+msgid "Add your own custom text/html for footer text (bottom left)"
+msgstr "Añada su propio texto / html para el texto del pie (parte inferior izquierda)"
+
+#: 360/admin/functions/functions.options.php:610
+msgid "Tracking Code (Footer)"
+msgstr "Código de seguimiento (pie de página)"
+
+#: 360/framework/functions/flickr-widget.php:10
+msgid "360 - Flickr"
+msgstr "360 - Flickr"
+
+#: 360/framework/functions/flickr-widget.php:22
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr "Las fotos en película <span> <span> r </ span> </ span>"
+
+#: 360/framework/functions/flickr-widget.php:48
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "Flickr ID (<a href=\"http://www.idgettr.com\"> idGettr </ a>):"
+
+#: 360/framework/functions/flickr-widget.php:52
+msgid "Number:"
+msgstr "Número:"
+
+#: 360/framework/functions/flickr-widget.php:60
+msgid "Type:"
+msgstr "Tipo:"
+
+#: 360/framework/functions/flickr-widget.php:62
+msgid "User"
+msgstr "Usuario"
+
+#: 360/framework/functions/flickr-widget.php:63
+msgid "Group"
+msgstr "Grupo"
+
+#: 360/framework/functions/flickr-widget.php:67
+msgid "Sorting:"
+msgstr "Ordenación:"
+
+#: 360/framework/functions/flickr-widget.php:69
+msgid "Latest"
+msgstr "Último"
+
+#: 360/framework/functions/flickr-widget.php:70
+msgid "Random"
+msgstr "Azar"
+
+#: 360/framework/functions/meta.php:32 360/framework/functions/meta.php:37
+msgid "Sidebar Options"
+msgstr "Opciones de la barra lateral"
+
+#: 360/framework/functions/meta.php:38
+msgid "Select to show a sidebar.  Be aware that Portfolio Templates do not have sidebars.  Sidebars can be added to Pages & Template Blog.  You can choose what to place within each sidebar by going to Appearance > Widgets > and then dragging and dropping the widgets into the sidebar areas. "
+msgstr "Seleccione esta opción para mostrar una barra lateral. Tenga en cuenta que las plantillas de cartera no tiene barras laterales. Las barras laterales se pueden agregar a las páginas y blog de plantilla. Usted puede elegir qué poner en cada barra lateral, vaya a Apariencia> Widgets> y luego arrastrar y soltar los widgets en las zonas laterales."
+
+#: 360/framework/functions/meta.php:57 360/framework/functions/meta.php:62
+msgid "Comment System"
+msgstr "Sistema de comentarios"
+
+#: 360/framework/functions/meta.php:63
+msgid "You can choose between WordPress or Facebook comment system.  For Facebook, be sure to fill out your App ID, which is found once you create your Facebook Comment App.  See more instructions in the Theme Options area, under Comment System"
+msgstr "Usted puede elegir entre WordPress o el sistema de Facebook comentario. Para Facebook, asegúrese de llenar su ID de aplicación, que se encuentra una vez que creas tu comentario App Facebook. Ver más instrucciones en el área de Opciones del tema, bajo ComentarioSistema"
+
+#: 360/framework/functions/meta.php:81 360/framework/functions/meta.php:86
+msgid "Page Options"
+msgstr "Opciones de página"
+
+#: 360/framework/functions/meta.php:87
+msgid "Here you can add particular features to each page, like you would for posts (post formats).  Once you select this option, be sure to fill out the details in the corresponding meta box below.  For Video, simply fill in a video embed source url; for audio, fill in the path to where your audio file is stored.  For gallery, use the Featured Image uploader on the right and drag and drop all your images into that box - all the images will be stored in your gallery and appear atop this page."
+msgstr "Aquí usted puede agregar características propias de cada página, como si se tratara de mensajes (formatos de correos). Una vez seleccionada esta opción, asegúrese de llenar los datos en el cuadro meta correspondiente a continuación. Para el vídeo, sólo tiene que rellenar una URL de vídeo de origen embed; para audio, complete la ruta en el archivo de audio se almacena. En la galería, utilice el cargador Foto principal a la derecha y arrastrar y soltar todas sus imágenes en la caja - que todas las imágenes se almacenarán en tu galería y aparecen encima de esta página."
+
+#: 360/framework/functions/meta.php:107
+msgid "Audio URL"
+msgstr "URL Audio"
+
+#: 360/framework/functions/meta.php:112
+msgid "MP3 File URL"
+msgstr "URL del archivo MP3"
+
+#: 360/framework/functions/meta.php:113
+msgid "The URL to the .mp3 audio file.  <br/><br/>Example:  http://www.themes.siiimple.com/23-Helter_Skelter.mp3"
+msgstr "La dirección URL al archivo. Archivo de audio mp3. <br/> Ejemplo:http://www.themes.siiimple.com/23-Helter_Skelter.mp3"
+
+#: 360/framework/functions/meta.php:117
+msgid "OGA File URL"
+msgstr "OGA URL del archivo"
+
+#: 360/framework/functions/meta.php:118
+msgid "The URL to the .oga, .ogg audio file.  <br/><br/>Example:  http://www.themes.siiimple.com/23-Helter_Skelter.ogg"
+msgstr "La URL de la oga.,. Archivo de audio ogg. <br/> Ejemplo: http://www.themes.siiimple.com/23-Helter_Skelter.ogg"
+
+#: 360/framework/functions/meta.php:130
+msgid "Social Media Bar"
+msgstr "Social Media Bar"
+
+#: 360/framework/functions/meta.php:135
+msgid "Social Media Options"
+msgstr "Social Media Options"
+
+#: 360/framework/functions/meta.php:136
+msgid "Be sure to fill out the social icon details/url/etc. in the Theme Options area.  Leaving information empty will exclude that icon in the media bar."
+msgstr "Asegúrese de llenar los detalles iconos sociales / url / etc. en el área de Opciones del tema. Dejandoinformación vacía se excluye que el icono en la barra multimedia."
+
+#: 360/framework/functions/meta.php:153
+msgid "Show Video"
+msgstr "Mostrar vídeo"
+
+#: 360/framework/functions/meta.php:159
+msgid "Video"
+msgstr "Vídeo"
+
+#: 360/framework/functions/meta.php:160
+msgid "For Blog Posts, make sure Video post format is chosen; for Pages make sure Video is selected in the Page Options above.  Be sure to use the url of the EMBED SRC URL - not the url to the video itself. <br/><br/> Example:  http://player.vimeo.com/video/41462515?title=0&amp;portrait=0&amp;color=bd0000"
+msgstr "Para las publicaciones de blog, hacer formato de vídeo que después se elige, por páginas hacen Vídeo seguroestá seleccionada en las Opciones de la página anterior. Asegúrese de utilizar la url de la URL EMBED SRC - no la url del propio video. <br/> Ejemplo: http://player.vimeo.com/video/41462515?title=0&portrait=0&color=bd0000"
+
+#: 360/framework/functions/meta.php:171 360/framework/functions/meta.php:177
+msgid "<span style=\"font-size:12px; font-family:Helvetica Neue; font-weight:bold\">Link to Page</span>"
+msgstr "<span style=\"font-size:12px; font-family:Helvetica Neue; font-weight:bold\"> EnlacePage </ span>"
+
+#: 360/framework/functions/meta.php:178
+msgid "<span style=\"color:#dc5d5d\">Instead of linking to the post, you can add a link to a specific page.</span>"
+msgstr "<span style=\"color:#dc5d5d\"> En lugar de vincular a la publicación, se puede añadir un enlace a unapágina específica. </ span>"
+
+#: 360/framework/functions/meta.php:189
+msgid "Portfolio Item Excerpt"
+msgstr "Cartera Extracto del artículo"
+
+#: 360/framework/functions/meta.php:195
+msgid "Portfolio Excerpt"
+msgstr "Cartera Extracto"
+
+#: 360/framework/functions/meta.php:196
+msgid "Add a brief excerpt to your portfolio item.  This will appear under the portfolio title."
+msgstr "Añadir un breve extracto de su artículo cartera. Esto aparecerá con el título de la cartera.cartera"
+
+#: 360/framework/functions/portfolio-post-type.php:19
+#: 360/framework/functions/portfolio-post-type.php:92
+#: 360/framework/functions/portfolio-post-type.php:101
+#: 360/framework/functions/portfolio-post-type.php:147
+msgid "portfolio"
+msgstr "cartera"
+
+#: 360/framework/functions/portfolio-post-type.php:27
+msgid "Edit Portfolio Item"
+msgstr "Editar elemento de cartera"
+
+#: 360/framework/functions/portfolio-post-type.php:30
+msgid "New Portfolio Item"
+msgstr "Artículo Portafolio Nueva"
+
+#: 360/framework/functions/portfolio-post-type.php:33
+msgid "View Portfolio"
+msgstr "Ver Portfolio"
+
+#: 360/framework/functions/portfolio-post-type.php:36
+msgid "Search Portfolio"
+msgstr "Buscar Cartera"
+
+#: 360/framework/functions/portfolio-post-type.php:39
+msgid "No Portfolio Items Found"
+msgstr "No hay artículos encontrados Cartera"
+
+#: 360/framework/functions/portfolio-post-type.php:42
+msgid "No Portfolio Items Found In Trash"
+msgstr "No Artículos Cartera encontrados en la basura"
+
+#: 360/framework/functions/portfolio-post-type.php:107
+#, php-format
+msgid "Portfolio Updated. <a href=\"%s\">View portfolio</a>"
+msgstr "Portafolio actualizado. href=\"%s\"> <a Ver cartera </ a>"
+
+#: 360/framework/functions/portfolio-post-type.php:110
+msgid "Custom Field Updated."
+msgstr "Actualización de campos personalizados."
+
+#: 360/framework/functions/portfolio-post-type.php:113
+msgid "Custom Field Deleted."
+msgstr "Campo personalizado eliminados."
+
+#: 360/framework/functions/portfolio-post-type.php:116
+msgid "Portfolio Updated."
+msgstr "Portafolio actualizado."
+
+#: 360/framework/functions/portfolio-post-type.php:119
+#, php-format
+msgid "Portfolio Restored To Revision From %s"
+msgstr "Cartera Restaurado a revisión% s"
+
+#: 360/framework/functions/portfolio-post-type.php:122
+#, php-format
+msgid "Portfolio Published. <a href=\"%s\">View Portfolio</a>"
+msgstr "Cartera publicado. href=\"%s\"> <a Portfolio View </ a>"
+
+#: 360/framework/functions/portfolio-post-type.php:125
+msgid "Portfolio Saved."
+msgstr "Cartera guardado."
+
+#: 360/framework/functions/portfolio-post-type.php:128
+#, php-format
+msgid "Portfolio Submitted. <a target=\"_blank\" href=\"%s\">Preview Portfolio</a>"
+msgstr "Enviado Cartera. <a target=\"_blank\" href=\"%s\"> Cartera Vista previa </ a>"
+
+#: 360/framework/functions/portfolio-post-type.php:131
+#, php-format
+msgid "Portfolio Scheduled For: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Portfolio</a>"
+msgstr "Cartera programada para: <strong>% 1 $ s </ strong>. <A target = \ \"_blank \"href = \ \"% 2 $ s \"> Cartera Vista previa </ a>"
+
+#: 360/framework/functions/portfolio-post-type.php:131
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: 360/framework/functions/portfolio-post-type.php:134
+#, php-format
+msgid "Portfolio Draft Updated. <a target=\"_blank\" href=\"%s\">Preview Portfolio</a>"
+msgstr "Proyecto de Actualización del Portafolio. <a target=\"_blank\" href=\"%s\"> Cartera Vista previa </ a>"
+
+#: 360/framework/functions/portfolio-post-type.php:144
+msgid "filter"
+msgstr "filtrar"
+
+#: 360/framework/functions/portfolio-post-type.php:152
+#: 360/framework/functions/portfolio-post-type.php:153
+msgid "Filter"
+msgstr "filtrar"
+
+#: 360/framework/functions/twitter-widget.php:10
+msgid "360 - Twitter Stream"
+msgstr "360 - Twitter Stream"
+
+#: 360/framework/functions/twitter-widget.php:41
+msgid "Title:"
+msgstr "Título:"
+
+#: 360/framework/functions/twitter-widget.php:45
+msgid "Username:"
+msgstr "Nombre de Usuario:"
+
+#: 360/framework/functions/twitter-widget.php:49
+msgid "Limit:"
+msgstr "Límite:"
+
+#: 360/framework/functions/video-sidebar-widgets/video-sidebar-widgets.php:25
+msgid "A Video Widget to display video in sidebar from various video sharing networks"
+msgstr "Un Widget de vídeo para visualizar vídeo en la barra lateral de diversas redes de intercambio de vídeo"
+
+#: 360/framework/functions/video-sidebar-widgets/video-sidebar-widgets.php:28
+msgid "360 - Video Widget"
+msgstr "360 - Video Widget"
+
+#: 360/framework/functions/video-sidebar-widgets/video-sidebar-widgets.php:399
+msgid "A Random Video Widget. Randomly selects 1 of the 5 preset videos for display"
+msgstr "Un Widget vídeo al azar. Selecciona al azar a 1 de los 5 vídeos predefinidos para la pantalla"
+
+#: 360/framework/functions/video-sidebar-widgets/video-sidebar-widgets.php:401
+msgid "360 - Random Video Widget"
+msgstr "360 - Widget vídeo al azar"
+
+#: 360/framework/includes/single-left-right-sidebar.php:268
+msgid "Sorry, no posts matched your criteria."
+msgstr "Lo sentimos, no hay puestos corresponde a sus criterios."
+
+#: 360/meta-box/meta-box.php:79
+msgid "RW_Meta_Box Debug:"
+msgstr "RW_Meta_Box depuración:"
+
+#: 360/meta-box/inc/classes/meta-box.php:326
+msgid "+"
+msgstr "RW_Meta_Box depuración:"
+
+#: 360/meta-box/inc/classes/meta-box.php:350
+msgid "&#8211;"
+msgstr "RW_Meta_Box depuración:"
+
+#: 360/meta-box/inc/fields/file.php:69
+msgid "Error: Cannot delete file"
+msgstr "Error: No se puede eliminar el archivo"
+
+#: 360/meta-box/inc/fields/image.php:75
+msgid "Order saved"
+msgstr "Orden salvado"
+
