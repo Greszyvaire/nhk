@@ -1,0 +1,152 @@
+<div ng-controller="apparticleCtrl">
+    <div class="bg-light lter b-b wrapper-md">
+        <h1 class="m-n font-thin h3">Data Master - Article</h1>
+    </div>
+    <div class="wrapper-md" ng-show="!is_edit">
+        <div class="panel panel-default" st-pipe="callServer" st-table="displayed">
+            <div class="panel-heading">
+                <button class="btn btn-default btn-xs" ng-init="isCollapsed = true" ng-click="isCollapsed = !isCollapsed">Pencarian</button>
+                <div class="btn-group pull-right" role="group" style="margin-top: -3px;">
+                    <button type="button" class="btn btn-primary fa fa-plus-square-o" ng-click="create();">&nbsp;Tambah Data</button>
+                </div> 
+            </div>
+            <div collapse="isCollapsed" class="panel-body collapse" style="height: 0px;">
+                <div class="form-horizontal">
+                    <div class="col-md-6 col-sm-12">
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label">Judul</label>
+                            <div class="col-sm-6">
+                                <input st-search="title" class="form-control"/>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="table-responsive">
+                <table class="table table-striped table-hover" >
+                    <thead>
+                        <tr>
+                            <th st-sort="title">Judul</th>
+                            <th st-sort="hits">Kategori</th>
+                            <th st-sort="hits">Hits</th>
+                            <th st-sort="status_publish">Status</th>
+                            <th st-sort="created">Tanggal Input</th>
+                            <th st-sort="modified">Tanggal Update</th>
+
+                        </tr>
+                    </thead>
+                    <tbody ng-show="!isLoading">
+                        <tr ng-repeat="row in displayed" ng-dblclick="view(row)">
+                            <td>{{row.title}}</td>
+                            <td>{{row.name}}</td>
+                            <td>{{row.hits}}</td>
+                            <td>{{row.status_publish}}</td>
+                            <td>{{row.created*1000 | date:'medium'}}</td>
+                            <td>{{row.modified*1000 | date:'medium'}}</td>
+                            <td>
+                                <div class="btn-group pull-right" role="group" style="margin-top: -3px;">
+                                    <button type="button" class="btn btn-info fa fa-edit" ng-click="update(row)"></button>
+                                    <button type="button" class="btn btn-danger fa fa-minus-circle" ng-click="delete(row);"></button>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                    <tbody ng-show="isLoading">
+                        <tr>
+                            <td colspan="4" class="text-center">Loading ... </td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="6" class="text-center" st-pagination="" st-items-by-page="10" st-template="tpl/blocks/pagination.custom.html">
+                            </td>
+                        </tr>
+                </table>		
+            </div>
+        </div>
+    </div>
+
+    <!--FORM-->
+
+    <div class="wrapper-md" ng-show="is_edit">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                {{formtitle}} 
+            </div>
+            <div class="panel-body">
+                <form name="landaform" class="form-horizontal form-validation">
+                    <div class="col-md-12 col-sm-12">
+                        <!--from judul-->
+                        <div class="form-group">
+                            <label class="col-sm-1 control-label">Judul</label>
+                            <div class="col-sm-4">
+                                <input type="text" class="form-control" ng-model="form.title" ng-disabled="is_view" required>
+                            </div>
+                        </div>
+                        <!--form kategori-->
+                        <div class="form-group">
+                            <label class="col-sm-1 control-label">Kategori</label>
+                            <div class="col-sm-4">
+                                <select class="form-control" ng-model="form.article_category_id" ng-disabled="is_view" required>
+                                    <option value="">-Pilih Kategori-</option>
+                                    <option ng-repeat="kat in kategories" value="{{kat.id}}">{{kat.name}}</option>
+                                </select>
+                            </div>
+                        </div>
+                        <!--form status-->
+                        <div class="form-group">
+                            <label class="col-sm-1 control-label">Status</label>
+                            <div class="col-sm-4">
+                                <div class="btn-group">
+                                    <label class="btn btn-sm btn-success" ng-model="form.publish" ng-disabled="is_view" btn-radio="'1'"><i class="fa fa-check text-active"></i> Publish</label>
+                                    <label class="btn btn-sm btn-info" ng-model="form.publish" ng-disabled="is_view" btn-radio="'0'"><i class="fa fa-check text-active"></i> Unpublish</label>
+                                </div>
+                            </div>
+                        </div>
+                        <!--form isi-->
+                        <div class="form-group">
+                            <label class="col-sm-1 control-label">Isi</label>
+                            <div class="col-sm-10">
+                                <div lazy-load="textAngular">
+                                    <div text-angular ng-model="form.content" ng-disabled="is_view" class="btn-groups" required></div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!--form keyword-->
+                        <div class="form-group">
+                            <label class="col-sm-1 control-label">Keyword</label>
+                            <div class="col-sm-4">
+                                <textarea class="form-control" rows="2" ng-model="form.keyword" ng-disabled="is_view"></textarea>
+                            </div>
+                            <!--description-->
+                            <label class="col-sm-2 control-label">Description</label>
+                            <div class="col-sm-4">
+                                <textarea class="form-control" rows="2" ng-model="form.description" ng-disabled="is_view"></textarea>
+                            </div>
+                            
+                        </div>
+                        <!--form description-->
+                        <div class="form-group">
+                            
+                        </div>
+                      
+                        
+                    </div>
+
+
+                    <div class="col-md-2 col-sm-12"></div>
+                    <div class="line line-dashed b-b line-lg pull-in"></div>
+                    <div align="center">
+                        <button type="submit" class="btn btn-default fa fa-arrow-circle-o-left" ng-click="cancel()">&nbsp;Back</button>
+                        <button type="submit" class="btn btn-primary fa fa-save" ng-hide="is_view" ng-disabled="landaform.$invalid" ng-click="save(form)">&nbsp;Simpan Perubahan</button>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+</div>
+</div>
