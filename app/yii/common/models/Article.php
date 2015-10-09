@@ -3,7 +3,9 @@
 namespace common\models;
 
 use Yii;
-
+use yii\db\ActiveRecord;
+use yii\behaviors\SluggableBehavior;
+use yii\behaviors\BlameableBehavior;
 /**
  * This is the model class for table "acca_article".
  *
@@ -35,9 +37,8 @@ class Article extends \yii\db\ActiveRecord {
      */
     public function rules() {
         return [
-            [['article_category_id', 'created_user_id', 'hits', 'publish'], 'integer'],
+            [['article_category_id', 'created_user_id', 'hits', 'publish','created', 'modified'], 'integer'],
             [['content', 'alias', 'keyword', 'description'], 'string'],
-            [['created', 'modified'], 'safe'],
             [['title'], 'string', 'max' => 100],
             [['primary_image'], 'string', 'max' => 255]
         ];
@@ -98,6 +99,23 @@ class Article extends \yii\db\ActiveRecord {
     
     public function getCategory() {
         return $this->hasOne(ArticleCategory::className(), ['id' => 'article_category_id']);
+    }
+    
+     public function behaviors() {
+        return [
+            [
+                'class' => BlameableBehavior::className(),
+                'createdByAttribute' => '',
+                'updatedByAttribute' => '',
+            ],
+            'timestamp' => [
+                'class' => 'yii\behaviors\TimestampBehavior',
+                'attributes' => [
+                    ActiveRecord::EVENT_BEFORE_INSERT => ['created', 'modified'],
+                    ActiveRecord::EVENT_BEFORE_UPDATE => ['modified'],
+                ],
+            ],
+        ];
     }
 
 }

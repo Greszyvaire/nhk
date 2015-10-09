@@ -7,7 +7,7 @@
                     <h2 class="widgettitle"> <span> Latest Posts </span> </h2>
                     <ul class="contact-details">
                          <?php 
-                        $A = mysql_query("SELECT * FROM article ORDER BY id DESC LIMIT 3");
+                        $A = mysql_query("SELECT * FROM article where publish='1' ORDER BY id DESC LIMIT 3");
                         while ($data = mysql_fetch_array($A)) 
                         {
                             ?>

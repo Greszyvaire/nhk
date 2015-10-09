@@ -38,13 +38,13 @@
                         </tr>
                     </thead>
                     <tbody ng-show="!isLoading">
-                        <tr ng-repeat="row in displayed" ng-dblclick="view(row)">
+                        <tr ng-repeat="row in displayed" ng-dblclick="view(row);">
                             <td>{{row.title}}</td>
                             <td>{{row.name}}</td>
                             <td>{{row.hits}}</td>
                             <td>{{row.status_publish}}</td>
-                            <td>{{row.created*1000 | date:'medium'}}</td>
-                            <td>{{row.modified*1000 | date:'medium'}}</td>
+                            <td>{{row.created * 1000| date:'medium'}}</td>
+                            <td>{{row.modified * 1000| date:'medium'}}</td>
                             <td>
                                 <div class="btn-group pull-right" role="group" style="margin-top: -3px;">
                                     <button type="button" class="btn btn-info fa fa-edit" ng-click="update(row)"></button>
@@ -53,16 +53,16 @@
                             </td>
                         </tr>
                     </tbody>
-                    <tbody ng-show="isLoading">
+                     <tbody ng-show="isLoading">
                         <tr>
-                            <td colspan="4" class="text-center">Loading ... </td>
+                            <td colspan="6" class="text-center">Loading ... </td>
                         </tr>
                     </tbody>
                     <tfoot>
                         <tr>
-                            <td colspan="6" class="text-center" st-pagination="" st-items-by-page="10" st-template="tpl/blocks/pagination.custom.html">
-                            </td>
+                            <td colspan="7" class="text-center" st-pagination="" st-items-by-page="10" st-template="tpl/blocks/pagination.custom.html"></td>
                         </tr>
+                    </tfoot>
                 </table>		
             </div>
         </div>
@@ -126,14 +126,14 @@
                             <div class="col-sm-4">
                                 <textarea class="form-control" rows="2" ng-model="form.description" ng-disabled="is_view"></textarea>
                             </div>
-                            
+
                         </div>
                         <!--form description-->
                         <div class="form-group">
-                            
+
                         </div>
-                      
-                        
+
+
                     </div>
 
 

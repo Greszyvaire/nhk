@@ -32,10 +32,12 @@
                         </span>
                         <span class="arrow"> </span> 
                     </div>                    
-                    <div class="post-comments">
-                    	<a href="blog-single.html" title=""> <span class="count"> 18 </span> <span class="comment"> Comments </span> </a> 
+<!--                    <div class="post-comments">
+                    	<a href="blog-single.html" title=""> 
+                            <span class="count"> 18 </span> 
+                            <span class="comment"> Comments </span> </a> 
                         <span class="arrow"> </span>                       
-                    </div>   
+                    </div>   -->
                 </div>
                 
                 <div class="post-content">
