@@ -96,6 +96,17 @@ angular.module('app')
                                             }]
                                     }
                                 })
+                                //master Testi
+                                .state('master.apptesti', {
+                                    url: '/testi',
+                                    templateUrl: 'tpl/m_testi/index.html',
+                                    resolve: {
+                                        deps: ['$ocLazyLoad',
+                                            function ($ocLazyLoad) {
+                                                return $ocLazyLoad.load('js/controllers/testi.js');
+                                            }]
+                                    }
+                                })
 
                                 .state('master.filemanager', {
                                     url: '/filemanager',
