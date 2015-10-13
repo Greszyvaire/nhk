@@ -4,11 +4,10 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-
 <title> New Hongkong Restaurant Malang | Restaurant Masakan Cina di Malang</title>
 
 <!-- **Favicon** -->
-<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="./app/img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
 <!-- **CSS - stylesheets** -->
 <link href="style.css" rel="stylesheet" type="text/css" media="all" />
@@ -63,7 +62,7 @@
             <h1 class="title"> <span> Services </span> </h1>                     
             <div class="column one-fourth">
                 <div class="content-center-aligned">   
-                    <a href="#" title=""> <span class="arctext" data-radius="100"> Promotion </span> <span class="rounded-img border"> <img src="images/services/promotion.jpg" alt="" title="" /> </span> </a>
+                    <a href="http://new-hongkongrestaurant.com/promotion-1.html" title=""> <span class="arctext" data-radius="100"> Promotion </span> <span class="rounded-img border"> <img src="images/services/promotion.jpg" alt="" title="" /> </span> </a>
                 </div>
             </div>
             <div class="column one-fourth">
@@ -78,7 +77,7 @@
             </div>
             <div class="column one-fourth last">
                 <div class="content-center-aligned">   
-                    <a href="services.html" title=""> <span class="arctext" data-radius="240"> Maps </span> <span class="rounded-img border"> <img src="images/services/maps.jpg" alt="" title="" /> </span> </a>
+                    <a href="http://new-hongkongrestaurant.com/kontak-kami.html" title=""> <span class="arctext" data-radius="240"> Maps </span> <span class="rounded-img border"> <img src="images/services/maps.jpg" alt="" title="" /> </span> </a>
                 </div>
             </div>
             <!-- **Services - End** -->
@@ -96,7 +95,7 @@
             <div class="column one-half">
                 <div class="box-content">
                     <a href="berita/<?=$vaBlog['id']?>-<?=$vaBlog['alias']?>.html"> <img src="<?=$vaBlog['primary_image']?>" alt="" title="" class="alignleft" /> </a>
-                    <h2> <?=$vaBlog['title']?> </h2>
+                    <a href="berita/<?=$vaBlog['id']?>-<?=$vaBlog['alias']?>.html" > <h2> <?=$vaBlog['title']?> </h2></a>
                     <p>  <?=$vaBlog['content']?><p>
                     <a href="berita/<?=$vaBlog['id']?>-<?=$vaBlog['alias']?>.html" title="Read More" class="tooltip-top readmore"> </a> 
                 </div>
@@ -110,7 +109,7 @@
             <div class="column one-half last">
                 <div class="box-content">
                     <a href="berita/<?=$vaBlog['id']?>-<?=$vaBlog['alias']?>.html"> <img src="<?=$vaBlog['primary_image']?>" alt="" title="" class="alignleft" /> </a>
-                    <h2> <?=$vaBlog['title']?> </h2>
+                    <a href="berita/<?=$vaBlog['id']?>-<?=$vaBlog['alias']?>.html" > <h2> <?=$vaBlog['title']?> </h2></a>
                     <p>  <?=$vaBlog['content']?></p>
                     <a href="berita/<?=$vaBlog['id']?>-<?=$vaBlog['alias']?>.html" class="tooltip-top readmore"> </a> 
                 </div>
@@ -141,11 +140,12 @@
     <!-- **Footer - End** -->
     
     <!-- **Footer Bottom** -->
-    <div class="footer-bottom"> 
+<!--    <div class="footer-bottom"> 
         <div class="main-container">        
-            <p> Copyright © 2014 New Hongkong Restaurant   </a> </p>        
+            <p> Copyright &copy; 2015 New Hongkong Restaurant   </a> </p>        
         </div>
-    </div><!-- **Footer Bottom - End** -->
+    </div>-->
+    <!-- **Footer Bottom - End** -->
 
 </div><!-- **Main - End**-->
 

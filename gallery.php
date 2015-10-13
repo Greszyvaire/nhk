@@ -1,4 +1,4 @@
-gal<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -89,7 +89,7 @@ title="prettyPhoto main stylesheet" charset="utf-8" />
                     <div class="row gallery-berita-foto">
                         <div class="col-sm-12">
                         <?php 
-                        $cFolder = "images/gallery";  
+                        $cFolder = "app/img/gallery";  
                         $cHandle = opendir($cFolder); 
                         $i = 1;  
                         $cImageExtension = array('png', 'jpg', 'jpeg', 'gif');  
@@ -100,8 +100,8 @@ title="prettyPhoto main stylesheet" charset="utf-8" />
                             $cName = str_replace($cImageExtension, " ", $file); 
                         ?>
                              <div class="col-sm-4">
-                                <a href="images/gallery/<?=$file?>" rel="prettyPhoto[gallery1]">
-                                <img src="images/gallery/<?=$file?>" style="height:250px;width:400px;box-shadow: #999 2px 2px 2px"/></a>
+                                <a href="app/img/gallery/<?=$file?>" rel="prettyPhoto[gallery1]">
+                                <img src="app/img/gallery/<?=$file?>" style="height:250px;width:400px;box-shadow: #999 2px 2px 2px"/></a>
                                 <div class="gallery-title">
                                     <h5> <a href="#" title=""> Image <?=$cName?> <br/>  </a> </h5>
                                 </div> 
@@ -125,14 +125,14 @@ title="prettyPhoto main stylesheet" charset="utf-8" />
     <?php include 'container/footer.php'; ?>
     <!-- **Footer - End** -->
     
-  <!-- **Footer Bottom** -->
+<!--   **Footer Bottom** 
     <div class="footer-bottom"> 
         <div class="main-container">        
-            <p> Copyright © 2014 New Hongkong Restaurant  </p>        
+            <p> Copyright &copy; 2015 New Hongkong Restaurant  </p>        
         </div>
-    </div><!-- **Footer Bottom - End** -->
+    </div> **Footer Bottom - End** 
 
-</div><!-- **Main - End**-->
+</div> **Main - End**-->
 
 
 

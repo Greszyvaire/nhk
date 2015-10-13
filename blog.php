@@ -4,8 +4,14 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-
-<title> New Hongkong Restaurant Malang | Restaurant Masakan Cina di Malang</title>
+<?php
+include 'include/koneksi.php';
+    $cId      = (!empty($_GET['id'])) ? $_GET['id'] : "" ;
+    $Blog = mysql_query("SELECT * FROM article WHERE id = '".$cId."' ");
+    $ss   = mysql_fetch_array($Blog);
+//    print_r($ss);
+    ?>
+<title> <?php echo $ss['title'] ?> | New Hongkong Restaurant Malang </title>
 
 <!-- **Favicon** -->
 <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
@@ -47,14 +53,13 @@
     </div>
 </div><!-- **Header - End** -->
 
-
-
-<!-- ** Main** -->
 <?php
-    $cId      = (!empty($_GET['id'])) ? $_GET['id'] : "" ;
     $dataBlog = mysql_query("SELECT * FROM article WHERE id = '".$cId."' ");
     $vaBlog   = mysql_fetch_array($dataBlog);
     ?>
+
+<!-- ** Main** -->
+
 <!-- ** Main** -->
 
     <!-- **Breadcrumb** -->
@@ -95,11 +100,11 @@
     <!-- **Footer - End** -->
     
     <!-- **Footer Bottom** -->
-    <div class="footer-bottom"> 
+<!--    <div class="footer-bottom"> 
         <div class="main-container">        
             <p> Copyright © 2014 New Hongkong Restaurant   </a> </p>        
         </div>
-    </div><!-- **Footer Bottom - End** -->
+    </div> **Footer Bottom - End** -->
 
 </div><!-- **Main - End**-->
 

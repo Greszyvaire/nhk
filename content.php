@@ -4,8 +4,17 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-
-<title> New Hongkong Restaurant Malang | Restaurant Masakan Cina di Malang</title>
+<?php
+ $cId      = (!empty($_GET['id'])) ? $_GET['id'] : "" ;
+ if($cId == 'blog'){
+     $title = 'Promotion';
+ }elseif($cId == 'testi'){
+     $title = 'Testimonial';
+ }else{
+     $title = 'Contact Us';
+ }
+?>
+<title> <?php echo $title ?> | New Hongkong Restaurant Malang</title>
 
 <!-- **Favicon** -->
 <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
@@ -58,7 +67,7 @@
         
         
             <?php 
-            $cId      = (!empty($_GET['id'])) ? $_GET['id'] : "" ;
+           
             include"page/".$cId.".php";
             ?>
                 
@@ -69,11 +78,7 @@
     <!-- **Footer - End** -->
     
     <!-- **Footer Bottom** -->
-    <div class="footer-bottom"> 
-        <div class="main-container">        
-            <p> Copyright © 2014 New Hongkong Restaurant   </a> </p>        
-        </div>
-    </div><!-- **Footer Bottom - End** -->
+    
 
 </div><!-- **Main - End**-->
 

@@ -372,7 +372,7 @@
 	.breadcrumb { width:100%; float:left; height:55px; margin:0px 0px 45px; display:block; text-transform:uppercase; text-shadow:-1px -1px 0px #596a13; font-family:'Oswald', sans-serif; line-height:50px; background:url(images/btn-bg.jpg) repeat;  }
 	.breadcrumb .arrow { background:url(images/breadcrumb-arrow.png) no-repeat; width:6px; height:19px; margin:0px 10px 0px 7px; display:inline-block; }
 	.breadcrumb a { font-size:20px; color:white; }
-	.breadcrumb .current-crumb { font-size:30px; color:#fffae4; }
+	.breadcrumb .current-crumb { font-size:20px; color:#fffae4; }
 	
 	/*----*****---- << Content >> ----*****----*/
 	

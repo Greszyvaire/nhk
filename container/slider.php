@@ -4,7 +4,7 @@
         <div class="slider-wrapper theme-default">    
             <div id="slider" class="nivoSlider">
             <?php 
-                $cFolder = "images/slider";  
+                $cFolder = "app/img/slider";  
                 $cHandle = opendir($cFolder); 
                 $i = 1;  
                 $cImageExtension = array('png', 'jpg', 'jpeg', 'gif');  
@@ -15,7 +15,7 @@
                 $cName  = str_replace($cImageExtension, " ", $file); 
                
             ?>
-                <img src="images/slider/<?=$file?>" alt="" title="#htmlcaption<?=$i++?>" />
+                <img src="app/img/slider/<?=$file?>" alt="" title="#htmlcaption<?=$i++?>" />
             <?php 
               }
             }   

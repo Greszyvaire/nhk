@@ -1,18 +1,14 @@
-app.controller('apparticleCtrl', function ($scope, Data, toaster) {
-    //upload
-
-    
+app.controller('artikelCtrl', function ($scope, Data, toaster) {
     //init data
     var tableStateRef;
-
+    
     $scope.displayed = [];
-    $scope.form = {};
     $scope.is_edit = false;
     $scope.is_view = false;
-    Data.get('apparticle/kategories').then(function(data) {
+
+Data.get('apparticle/kategories').then(function (data) {
         $scope.kategories = data.kategori;
     });
-
     $scope.callServer = function callServer(tableState) {
         tableStateRef = tableState;
         $scope.isLoading = true;
@@ -31,7 +27,6 @@ app.controller('apparticleCtrl', function ($scope, Data, toaster) {
         Data.get('apparticle', param).then(function (data) {
             $scope.displayed = data.data;
             tableState.pagination.numberOfPages = Math.ceil(data.totalItems / limit);
-           
         });
 
         $scope.isLoading = false;
@@ -46,18 +41,19 @@ app.controller('apparticleCtrl', function ($scope, Data, toaster) {
     $scope.update = function (form) {
         $scope.is_edit = true;
         $scope.is_view = false;
-        $scope.formtitle = "Edit Data : " + form.title;
+        $scope.formtitle = "Edit Data : " + form.id;
         $scope.form = form;
+        $scope.form.password = '';
     };
     $scope.view = function (form) {
         $scope.is_edit = true;
         $scope.is_view = true;
-        $scope.formtitle = "Lihat Data : " + form.title;
+        $scope.formtitle = "Lihat Data : " + form.id;
         $scope.form = form;
+        $scope.form.password = '';
     };
     $scope.save = function (form) {
-        
-        var url = (form.id > 0) ? 'apparticle/update/' + form.id : 'apparticle/create/'+form.id;
+        var url = (form.id > 0) ? 'apparticle/update/' + form.id : 'apparticle/create';
         Data.post(url, form).then(function (result) {
             if (result.status == 0) {
                 toaster.pop('error', "Terjadi Kesalahan", result.errors);
@@ -73,7 +69,7 @@ app.controller('apparticleCtrl', function ($scope, Data, toaster) {
         $scope.is_view = false;
     };
 
-
+    
     $scope.delete = function (row) {
         if (confirm("Apa anda yakin akan MENGHAPUS PERMANENT item ini ?")) {
             Data.delete('apparticle/delete/' + row.id).then(function (result) {

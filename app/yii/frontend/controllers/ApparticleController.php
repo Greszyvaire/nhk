@@ -19,15 +19,27 @@ class ApparticleController extends Controller {
                 'actions' => [
                     'index' => ['get'],
                     'view' => ['get'],
-                    'kategories' => ['get'],
                     'create' => ['post'],
                     'update' => ['post'],
+                    'kategories' => ['get'],
                     'delete' => ['delete'],
                 ],
             ]
         ];
     }
 
+     public function actionKategories() {
+        $query = new Query;
+        $query->from('article_category')
+                ->select("*");
+
+        $command = $query->createCommand();
+        $models = $command->queryAll();
+
+        $this->setHeader(200);
+
+        echo json_encode(array('status' => 1, 'kategori' => $models));
+    }
     public function beforeAction($event) {
         $action = $event->id;
         if (isset($this->actions[$action])) {
@@ -55,7 +67,7 @@ class ApparticleController extends Controller {
         //init variable
         $params = $_REQUEST;
         $filter = array();
-        $sort = "article.created DESC";
+        $sort = "article.id DESC";
         $offset = 0;
         $limit = 10;
         //        Yii::error($params);
@@ -77,7 +89,7 @@ class ApparticleController extends Controller {
         }
 
         //create query
-        $query = new Query;
+          $query = new Query;
         $query->offset($offset)
                 ->limit($limit)
                 ->from('article')
@@ -109,22 +121,12 @@ class ApparticleController extends Controller {
         $i++;
         }
         
+        
         $this->setHeader(200);
 
         echo json_encode(array('status' => 1, 'data' => $data, 'totalItems' => $totalItems), JSON_PRETTY_PRINT);
     }
-       public function actionKategories() {
-        $query = new Query;
-        $query->from('article_category')
-                ->select("*");
-
-        $command = $query->createCommand();
-        $models = $command->queryAll();
-
-        $this->setHeader(200);
-
-        echo json_encode(array('status' => 1, 'kategori' => $models));
-    }
+       
     
 
     public function actionView($id) {
@@ -137,9 +139,10 @@ class ApparticleController extends Controller {
 
     public function actionCreate() {
         $params = json_decode(file_get_contents("php://input"), true);
+        \Yii::error($params);
         $model = new Article();
+//        $model->title = 'dfgdf';
         $model->attributes = $params;
-        $model->alias = Yii::$app->landa->urlParsing($model->title);
         
 
         if ($model->save()) {
@@ -180,7 +183,7 @@ class ApparticleController extends Controller {
     }
 
     protected function findModel($id) {
-        if (($model = Article::findOne($id)) !== null) {
+        if (($model =Article::findOne($id)) !== null) {
             return $model;
         } else {
 

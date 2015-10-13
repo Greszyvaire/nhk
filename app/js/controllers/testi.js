@@ -23,7 +23,7 @@ app.controller('testiCtrl', function ($scope, Data, toaster) {
 
         Data.get('apptestimoni', param).then(function (data) {
             $scope.displayed = data.data;
-            tableState.pagination.numberOfPages = Math.round(data.totalItems / limit);
+            tableState.pagination.numberOfPages = Math.ceil(data.totalItems / limit);
         });
 
         $scope.isLoading = false;
@@ -76,7 +76,7 @@ app.controller('testiCtrl', function ($scope, Data, toaster) {
     };
     $scope.restore = function (row) {
         if (confirm("Apa anda yakin akan MERESTORE item ini ?")) {
-            row.is_deleted = 1;
+            row.status = 1;
             Data.post('apptestimoni/update/' + row.id, row).then(function (result) {
                 $scope.displayed.splice($scope.displayed.indexOf(row), 1);
             });

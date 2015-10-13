@@ -103,11 +103,7 @@ class Article extends \yii\db\ActiveRecord {
     
      public function behaviors() {
         return [
-            [
-                'class' => BlameableBehavior::className(),
-                'createdByAttribute' => '',
-                'updatedByAttribute' => '',
-            ],
+            
             'timestamp' => [
                 'class' => 'yii\behaviors\TimestampBehavior',
                 'attributes' => [

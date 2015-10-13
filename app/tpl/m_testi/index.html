@@ -1,6 +1,6 @@
 <div ng-controller="testiCtrl">
     <div class="bg-light lter b-b wrapper-md">
-        <h1 class="m-n font-thin h3">Data Master - User</h1>
+        <h1 class="m-n font-thin h3">Data Master - Testimoni</h1>
     </div>
     <div class="wrapper-md" ng-show="!is_edit">
         <div class="panel panel-default" st-pipe="callServer" st-table="displayed">
@@ -57,10 +57,10 @@
                             <td>{{row.status_publish}}</td>
                             <td>
                                 <div class="btn-group pull-right" role="group" style="margin-top: -3px;">
-                                    <button type="button" class="btn btn-info fa fa-edit" ng-click="update(row)" ng-show="row.status == 1"></button>
-                                    <button type="button" class="btn btn-danger fa fa-trash-o" ng-click="trash(row);" ng-show="row.status == 1"></button>
-                                    <button type="button" class="btn btn-info fa fa-recycle" ng-click="restore(row);" ng-show="row.status == 0"></button>
-                                    <button type="button" class="btn btn-danger fa fa-minus-circle" ng-click="delete(row);" ng-show="row.status == 1"></button>
+                                    <button type="button" class="btn btn-info fa fa-edit" ng-click="update(row)" ng-show="row.status == '1'"></button>
+                                    <button type="button" class="btn btn-danger fa fa-trash-o" ng-click="trash(row);" ng-show="row.status == '1'"></button>
+                                    <button type="button" class="btn btn-info fa fa-check" ng-click="restore(row);" ng-show="row.status == '0'"></button>
+                                    <button type="button" class="btn btn-danger fa fa-minus-circle" ng-click="delete(row);" ng-show="row.status == '1'"></button>
                                 </div> 
                             </td>
                         </tr>
@@ -93,7 +93,7 @@
                         <div class="form-group">
                             <label class="col-sm-2 control-label">Username</label>
                             <div class="col-sm-6">
-                                <input type="text" class="form-control" ng-model="form.nama" ng-disabled="is_view" required>
+                                <input type="text" class="form-control" ng-model="form.nama" ng-disabled="is_view" >
                             </div>
                         </div>
 
@@ -110,7 +110,7 @@
                             <div class="form-group">
                                 <label class="col-sm-2 control-label">Email</label>
                                 <div class="col-sm-6">
-                                    <input type="email" class="form-control" ng-model="form.email" ng-disabled="is_view" required>
+                                    <input type="email" class="form-control" ng-model="form.email" ng-disabled="is_view" >
                                 </div>
                             </div>
 
@@ -129,7 +129,7 @@
                     <div class="line line-dashed b-b line-lg pull-in"></div>
                     <div align="center">
                         <button type="submit" class="btn btn-default fa fa-arrow-circle-o-left" ng-click="cancel()">&nbsp;Back</button>
-                        <button type="submit" class="btn btn-primary fa fa-save" ng-hide="is_view" ng-disabled="landaform.$invalid" ng-click="save(form)">&nbsp;Simpan Perubahan</button>
+                        <button type="submit" class="btn btn-primary fa fa-save" ng-hide="is_view"  ng-click="save(form)">&nbsp;Simpan Perubahan</button>
                     </div>
                 </form>
             </div>

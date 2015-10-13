@@ -36,11 +36,11 @@ $B = mysql_fetch_array($A);
                 <li> <a href="/live-seafood.html" title=""> CHINESE CUISINE </a>  </li>
             </ul>  
         </li>
-        <li  class="<?= ($current == '/promotion.html') ? "current_page_item" : ""; ?>"> <a href="/promotion.html" title=""> <span> Our Program </span> PROMOTION </a></li>
+        <li  class="<?= ($current == '/promotion-1.html') ? "current_page_item" : ""; ?>"> <a href="/promotion-1.html" title=""> <span> Our Program </span> PROMOTION </a></li>
         <li class="<?= ($current == '/galery.html') ? "current_page_item" : ""; ?>"> <a href="/galery.html" title=""> <span> Photo & Video  </span> Gallery </a> 
 
         </li>
-        <li class="<?= ($current == '/testimoni.html') ? "current_page_item" : ""; ?>"> <a href="/testimoni.html" title=""> <span> Testimoni  </span> Testimoni </a> </li>
+        <li class="<?= ($current == '/testimoni-1.html') ? "current_page_item" : ""; ?>"> <a href="/testimoni-1.html" title=""> <span> Testimoni  </span> Testimoni </a> </li>
         <li class="<?php if($current == '/kontak-kami.html'){echo($current == '/kontak-kami.html') ? "current_page_item" : "";}
          elseif($current == '/karir.html'){echo($current == '/karir.html') ? "current_page_item" : "";}else{}
          ?>"> 
