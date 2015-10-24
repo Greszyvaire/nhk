@@ -1,36 +1,10 @@
 <div id="home-slider">
-    <div class="slider-container">
     
-        <div class="slider-wrapper theme-default">    
-            <div id="slider" class="nivoSlider">
-            <?php 
-                $cFolder = "app/img/slider";  
-                $cHandle = opendir($cFolder); 
-                $i = 1;  
-                $cImageExtension = array('png', 'jpg', 'jpeg', 'gif');  
-                while(false !== ($file = readdir($cHandle))){  
-                $fileAndExt = explode('.', $file);  
-                if(in_array(end($fileAndExt), $cImageExtension)){ 
-                //Remove Extension
-                $cName  = str_replace($cImageExtension, " ", $file); 
-               
-            ?>
-                <img src="app/img/slider/<?=$file?>" alt="" title="#htmlcaption<?=$i++?>" />
-            <?php 
-              }
-            }   
-            ?>
-            </div>
-            <div id="htmlcaption1" class="nivo-html-caption">
-            </div>
-            <div id="htmlcaption2" class="nivo-html-caption">
-            </div>    
-            <div id="htmlcaption3" class="nivo-html-caption">
-            </div>    
-            <div id="htmlcaption4" class="nivo-html-caption">
-            </div>    
-                    
-        </div>
-        
-    </div>
+        <a href="http://new-hongkongrestaurant.com/" title="" style="margin-right: 40px;"> 
+            <img src="images/logo-kiri2.png" alt="" title="" /> 
+        </a>
+        <a href="http://crystalballroom.new-hongkongrestaurant.com/" target="_blank" title=""> 
+            <img src="images/logo-kanan2.png" alt="" title="" /> 
+        </a>
+
 </div>
