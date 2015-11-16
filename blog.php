@@ -35,24 +35,11 @@ include 'include/koneksi.php';
         <?php include 'container/menu.php'; ?>
         <!-- **Top-Menu - End** -->
         
-        <!-- **Logo** -->
-        <div id="logo">
-            <a href="http://new-hongkongrestaurant.com/" title=""> 
-                <img src="/images/logo-kiri2.png" alt="" title="" /> 
-            </a>
-        </div><!-- **Logo - End** -->
-        
-        <!-- **Searchform** -->
-        <div id="searchform" style="margin-top:16px">
-               <a href="http://new-hongkongrestaurant.com/" title=""> 
-                <img src="/images/logo-kanan2.png" alt="" title="" /> 
-              </a>
-        </div>
         <!-- **Searchform - End** -->
         
     </div>
 </div><!-- **Header - End** -->
-
+<?php include 'container/slider.php'; ?>
 <?php
     $dataBlog = mysql_query("SELECT * FROM article WHERE id = '".$cId."' ");
     $vaBlog   = mysql_fetch_array($dataBlog);
@@ -63,16 +50,9 @@ include 'include/koneksi.php';
 <!-- ** Main** -->
 
     <!-- **Breadcrumb** -->
-    <div class="breadcrumb">
-        <div class="container">
-            <a href="#" title=""> Home </a>
-            <span class="arrow"> </span>
-            <a href="" title=""> Services </a>
-            <span class="arrow"> </span>
-            <span class="current-crumb"> <?=$vaBlog['title']?> </span>
-        </div>  <!-- **Breadcrumb - End** -->           
-    </div>
+    
     <!-- **Main Container** -->
+    <br>
     <div class="main-container">
     
         <!-- **Content Full Width** -->

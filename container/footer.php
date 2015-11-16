@@ -7,7 +7,7 @@
                 <h2 class="widgettitle"> <span> Latest Posts </span> </h2>
                 <ul class="contact-details">
                     <?php
-                    $A = mysql_query("SELECT * FROM article where publish='1' ORDER BY id DESC LIMIT 3");
+                    $A = mysql_query("SELECT * FROM article where publish='1' and article_category_id=12 ORDER BY id DESC LIMIT 3");
                     while ($data = mysql_fetch_array($A)) {
                         ?>
                         <li> 
@@ -65,9 +65,9 @@
                         </a> 
                     </li>
                     <li> 
-                        <a href="" title=""> 
-                            <img src="/images/twitter-hover.png" alt="image" title="" />
-                            <img src="/images/twitter.png" alt="image" title="" />                                
+                        <a href="https://instagram.com/new_hongkong_restaurant/" title=""> 
+                            <img src="/images/instagram.png" alt="image" title="" />
+                            <img src="/images/instagram.png" alt="image" title="" />                                
                         </a> 
                     </li>
                     <li> 

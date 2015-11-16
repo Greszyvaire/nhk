@@ -31,9 +31,9 @@ $B = mysql_fetch_array($A);
         <a href="#" title=""> <span> Food  </span> MENU </a> 
             <ul>
                 <li> <a href="/dimsum-cuisine.html" title=""> DIMSUM </a>  </li>
-                <li> <a href="/chinese-cuisine.html" title=""> BARBEQUE </a>  </li>
-                <li> <a href="/barbaque.html" title=""> LIVE SEAFOOD  </a>  </li>
-                <li> <a href="/live-seafood.html" title=""> CHINESE CUISINE </a>  </li>
+                <li> <a href="/chinese-cuisine.html" title="">  CHINESE CUISINE</a>  </li>
+                <li> <a href="/barbaque.html" title="">  BARBEQUE </a>  </li>
+                <li> <a href="/live-seafood.html" title="">  LIVE SEAFOOD</a>  </li>
             </ul>  
         </li>
         <li  class="<?= ($current == '/promotion-1.html') ? "current_page_item" : ""; ?>"> <a href="/promotion-1.html" title=""> <span> Our Program </span> PROMOTION </a></li>

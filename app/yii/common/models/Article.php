@@ -38,7 +38,7 @@ class Article extends \yii\db\ActiveRecord {
     public function rules() {
         return [
             [['article_category_id', 'created_user_id', 'hits', 'publish','created', 'modified'], 'integer'],
-            [['content', 'alias', 'keyword', 'description'], 'string'],
+            [['alias', 'keyword', 'description'], 'string'],
             [['title'], 'string', 'max' => 100],
             [['primary_image'], 'string', 'max' => 255]
         ];
