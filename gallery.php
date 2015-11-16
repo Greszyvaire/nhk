@@ -48,36 +48,21 @@ title="prettyPhoto main stylesheet" charset="utf-8" />
        <!-- **Top-Menu - End** -->
         
         <!-- **Logo** -->
-        <div id="logo">
-            <a href="http://new-hongkongrestaurant.com/" title=""> 
-                <img src="images/logo-kiri2.png" alt="" title="" /> 
-            </a>
-        </div><!-- **Logo - End** -->
         
-       <div id="searchform" style="margin-top:16px">
-             <a href="http://new-hongkongrestaurant.com/" title=""> 
-                <img src="images/logo-kanan2.png" alt="" title="" /> 
-              </a>
-       </div>
        <!-- **Searchform - End** -->
         
     </div>
 </div><!-- **Header - End** -->
-
+<?php include 'container/slider.php'; ?>
 
 <!-- ** Main** -->
 <div>
 
     <!-- **Breadcrumb** -->
-    <div class="breadcrumb">
-        <div class="container">
-            <a href="#" title=""> Home </a>
-            <span class="arrow"> </span>
-            <span class="current-crumb"> Gallery </span>
-        </div>  <!-- **Breadcrumb - End** -->           
-    </div>
+    
         
     <!-- **Main Container** -->
+    <br>
     <div class="main-container">
     
         <!-- **Content Full Width** -->
@@ -103,7 +88,7 @@ title="prettyPhoto main stylesheet" charset="utf-8" />
                                 <a href="app/img/gallery/<?=$file?>" rel="prettyPhoto[gallery1]">
                                 <img src="app/img/gallery/<?=$file?>" style="height:250px;width:400px;box-shadow: #999 2px 2px 2px"/></a>
                                 <div class="gallery-title">
-                                    <h5> <a href="#" title=""> Image <?=$cName?> <br/>  </a> </h5>
+                                    <h5> <a href="#" title=""> <?=$cName?> <br/>  </a> </h5>
                                 </div> 
                             </div>
                             <?php }

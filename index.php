@@ -55,7 +55,7 @@
                     </div>
                     <div class="column one-fourth">
                         <div class="content-center-aligned">   
-                            <a href="ballroom.php" title="" target="_blank"> <span class="arctext" data-radius="150"> Gallery 360 </span> <span class="rounded-img border"> <img src="images/services/new-hongkong-restaurant-malang-ballroom.jpg" alt="" title="" /> </span> </a>
+                            <a href="galery.html" title=""> <span class="arctext" data-radius="150"> Gallery</span> <span class="rounded-img border"> <img src="images/services/new-hongkong-restaurant-malang-ballroom.jpg" alt="" title="" /> </span> </a>
                         </div>
                     </div>
                     <div class="column one-fourth last">
@@ -71,10 +71,10 @@
                         ?>
                         <div class="column one-half">
                             <div class="box-content">
-                                <a href="berita/<?= $vaBlog['id'] ?>-<?= $vaBlog['alias'] ?>.html"> <img src="<?= $vaBlog['primary_image'] ?>" alt="" title="" class="alignleft" /> </a>
-                                <a href="berita/<?= $vaBlog['id'] ?>-<?= $vaBlog['alias'] ?>.html" > <h2> <?= $vaBlog['title'] ?> </h2></a>
+                                <a href="<?= $vaBlog['id'] ?>-<?= $vaBlog['alias'] ?>.html"> <img src="<?= $vaBlog['primary_image'] ?>" alt="" title="" class="alignleft" /> </a>
+                                <a href="<?= $vaBlog['id'] ?>-<?= $vaBlog['alias'] ?>.html" > <h2> <?= $vaBlog['title'] ?> </h2></a>
                                 <p><?= $vaBlog['content'] ?></p>
-                                <a href="berita/<?= $vaBlog['id'] ?>-<?= $vaBlog['alias'] ?>.html" title="Read More" class="tooltip-top readmore"> </a> 
+                                <a href="<?= $vaBlog['id'] ?>-<?= $vaBlog['alias'] ?>.html" title="Read More" class="tooltip-top readmore"> </a> 
                             </div>
                         </div>
                     <?php } ?>

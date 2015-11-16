@@ -2,13 +2,7 @@
 
 
 <!-- **Breadcrumb** -->
-<div class="breadcrumb">
-    <div class="container">
-        <a href="#" title=""> Home </a>
-        <span class="arrow"> </span>
-        <span class="current-crumb"> List Promotion</span>
-    </div>  <!-- **Breadcrumb - End** -->           
-</div>
+
 
 <!-- **Main Container** -->
 <div class="main-container">
@@ -31,11 +25,11 @@
          <div class="blog-post">
                 <div class="post-title">
                     <h2> 
-                        <a href="berita/<?= $data['id'] ?>-<?= $data['alias'] ?>.html" title="<?= $data['title'] ?>">
+                        <a href="<?= $data['id'] ?>-<?= $data['alias'] ?>.html" title="<?= $data['title'] ?>">
                             <?= $data['title'] ?>
                         </a> 
                     </h2>
-                    <a href="berita/<?= $data['id'] ?>-<?= $data['alias'] ?>.html" class="tooltip-top readmore" title="Read More"> </a>
+                    <a href="<?= $data['id'] ?>-<?= $data['alias'] ?>.html" class="tooltip-top readmore" title="Read More"> </a>
                     <span class="arrow"> </span>
                 </div>
 

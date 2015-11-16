@@ -289,7 +289,7 @@ ul.menu li a:hover { text-decoration:none; }
 ul.menu li.current_page_item, ul.menu li:hover { border-bottom:5px solid #b79a65; }
 ul.menu li.current_page_item a span { background:url(images/menu-active-arrow.png) left top no-repeat; }	
 
-ul.menu ul { position:absolute; display:none; width:185px; padding:5px 0px; top:95px; background:#b89a62 url(images/dropdown-menu.jpg) repeat; left:0px; border-bottom:5px solid #967d4f; }
+ul.menu ul { position:absolute; display:none; width:185px; padding:5px 0px; top:90px; background:#b89a62 url(images/dropdown-menu.jpg) repeat; left:0px; border-bottom:5px solid #967d4f; }
 ul.menu li ul li { padding:0px; margin:0px; height:auto; border:none; padding:0px; }
 ul.menu li ul li:hover { border:none; }
 ul.menu li ul li a { width:165px; height:auto; float:left; color:white; line-height:24px; padding:5px 15px; margin:0px; font-size:14px; }

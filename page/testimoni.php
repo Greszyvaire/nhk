@@ -1,14 +1,4 @@
-<!-- ** Main** -->
 
-
-<!-- **Breadcrumb** -->
-<div class="breadcrumb">
-    <div class="container">
-        <a href="" title=""> Home </a>
-        <span class="arrow"> </span>
-        <span class="current-crumb"> Contact Us </span>
-    </div>  <!-- **Breadcrumb - End** -->      	
-</div>
 
 <!-- **Main Container** -->
 <div class="main-container">
