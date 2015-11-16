@@ -25,6 +25,7 @@ angular.module('app')
                         {
                             name: 'textAngular',
                             files: [
+                                'vendor/modules/textAngular/textAngular-rangy.min.js',
                                 'vendor/modules/textAngular/textAngular-sanitize.min.js',
                                 'vendor/modules/textAngular/textAngular.min.js'
                             ]
