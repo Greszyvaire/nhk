@@ -53,7 +53,7 @@
                             </td>
                         </tr>
                     </tbody>
-                     <tbody ng-show="isLoading">
+                    <tbody ng-show="isLoading">
                         <tr>
                             <td colspan="6" class="text-center">Loading ... </td>
                         </tr>
@@ -107,12 +107,11 @@
                         </div>
                         <!--form isi-->
                         <div class="form-group">
-                            <label class="col-sm-1 control-label">Isi</label>
-                            <div class="col-sm-10">
-                                <div lazy-load="textAngular">
-                                    <div text-angular ng-model="form.content" ng-disabled="is_view" class="btn-groups" required></div>
+                            <label class="col-sm-1 control-label">Content</label>
+                            <div class="col-sm-11">
+                                <div class="container lighter">
+                                    <div text-angular ng-model="form.content" name="form.content" ta-text-editor-class="border-around" ta-html-editor-class="border-around"></div>
                                 </div>
-
                             </div>
                         </div>
                         <!--form keyword-->

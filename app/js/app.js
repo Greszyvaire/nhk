@@ -11,5 +11,6 @@ angular.module('app', [
     'toaster',
     'ui.select',
     'angular-loading-bar',
+    'textAngular',
 ]);
 

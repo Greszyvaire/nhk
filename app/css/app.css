@@ -1,3 +1,14 @@
+.ta-editor {
+    min-height: 300px;
+    height: auto;
+    overflow: auto;
+    font-family: inherit;
+    font-size: 100%;
+    padding: 10px;
+    background-color: #FFF;
+    border: 1px solid #EEE;
+    width: 90%;
+}
 /*---table margin & padding 0px*/
 .det-trans > tbody > tr > td{ 
     margin: 0px;

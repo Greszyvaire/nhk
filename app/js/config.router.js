@@ -76,12 +76,7 @@ angular.module('app')
                                     resolve: {
                                         deps: ['$ocLazyLoad',
                                             function ($ocLazyLoad) {
-                                                return $ocLazyLoad.load('textAngular')
-                                                        .then(
-                                                                function () {
-                                                                    return $ocLazyLoad.load('js/controllers/apparticle.js');
-                                                                }
-                                                        );
+                                                return $ocLazyLoad.load('js/controllers/apparticle.js');
                                             }]
                                     }
                                 })
@@ -112,17 +107,17 @@ angular.module('app')
                                     url: '/filemanager',
                                     templateUrl: 'tpl/filemanager/index.html',
                                 })
-                                  .state('master.userprofile', {
+                                .state('master.userprofile', {
                                     url: '/profile',
                                     templateUrl: 'tpl/m_user/profile.html',
                                     resolve: {
                                         deps: ['$ocLazyLoad',
-                                            function($ocLazyLoad) {
+                                            function ($ocLazyLoad) {
                                                 return $ocLazyLoad.load('js/controllers/pengguna_profile.js');
                                             }]
                                     }
                                 })
-                                
+
 
 
                     }
